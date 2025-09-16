@@ -29,3 +29,6 @@ data-analytics-project/
 ├── reports/ # Reports, presentations, summaries
 
 └── docs/ # Documentation & additional notes
+
+👨‍💻 Author: Mohammed Zainul Arfeen  
+📧 Contact: mdzainul123@gmail.com 
