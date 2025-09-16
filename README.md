@@ -17,10 +17,15 @@ This repository showcases a data analytics project that leverages **SQL, Python,
 
 ## 📂 Repository Structure
 data-analytics-project/
-│
+
 ├── data/ # Raw & cleaned datasets (CSV, Excel, SQL dumps)
+
 ├── sql/ # SQL queries & stored procedures
+
 ├── python/ # Python scripts & Jupyter notebooks
+
 ├── powerbi/ # Power BI dashboards (.pbix files & screenshots)
+
 ├── reports/ # Reports, presentations, summaries
+
 └── docs/ # Documentation & additional notes
