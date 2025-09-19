@@ -1,0 +1,27 @@
+
+with AML as 
+(
+
+Select C.customer_id, C.name as name_1, C.kyc_status, C.risk_rating, 
+	     T.txn_date as Transaction_Date, T.txn_type as Transaction_Type, T.amount
+From project.transactions as T
+                                Join Project.Accounts as A 
+                                                                     on T.account_id = A.account_id
+								                Join Project.Customers as C
+                                                                     on A.customer_id = C.customer_id
+							order by A.customer_id
+                        
+ )
+ 
+ select *,
+ rank() Over (partition by name_1 order by amount desc, risk_rating desc, Transaction_Date) as Risky_Transaction_Score
+ from AML
+ where amount>=30000
+                    and
+                       (kyc_status = "Pending" and (risk_rating = "Medium" or "High"))
+                                                                                      or
+                                                                                        (kyc_status = "Expired" and (risk_rating = "Medium" or "High"))
+																																					                                                                              or 
+                                                                                                                                                           (kyc_status = "Valid" and (risk_rating = "High"))
+
+;                       
