@@ -1,19 +1,20 @@
 WITH RISK as
+
 (
 
-select A.customer_id, A.account_id, c.name as Name_1, A.account_type, C.risk_rating, A.Balance, B.location, truncate(sum(A.Balance),2) as T_MAX,
+select A.customer_id, A.account_id, c.name as Name_1, A.account_type, C.risk_rating, A.Balance, B.location, truncate(sum(A.Balance),2) as T_MAX, Count(A.Balance) as RISK_TXN_COUNT,
 
-DENSE_RANK() OVER(PARTITION BY LOCATION order by sum(A.Balance) desc) as Risky_Branch
+                                  DENSE_RANK() OVER(PARTITION BY LOCATION order by sum(A.Balance) desc) as Risky_Branch
 
 From project.transactions as T
 
-Join project.accounts as A  on T.account_id = A.account_id
-Join project.customers as C on A.customer_id = C.customer_id
-Join project.branches as B  on A.branch_id = B.branch_id
+                                  Join project.accounts as A on T.account_id = A.account_id
+                                  Join project.customers as C on A.customer_id = C.customer_id
+                                  Join project.branches as B on A.branch_id = B.branch_id
 
 where T.amount>=30000
 
-group by A.account_id, A.customer_id, Name_1, A.account_type, C.risk_rating, A.Balance, B.location
+                                                         group by A.account_id, A.customer_id, Name_1, A.account_type, C.risk_rating, A.Balance, B.location
 
 )
 
