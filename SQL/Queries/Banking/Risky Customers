@@ -1,0 +1,21 @@
+WITH customer_totals AS 
+
+(
+    SELECT 
+        C.customer_id,
+        C.name AS customer_name,
+        Truncate(SUM(T.amount),2) AS total_txn_amount,
+        COUNT(*) AS txn_count
+    FROM project.transactions AS T
+                                          JOIN project.accounts AS A ON T.account_id = A.account_id
+                                          JOIN project.customers AS C ON A.customer_id = C.customer_id
+    GROUP BY C.customer_id, C.name
+  
+)
+
+SELECT *
+FROM customer_totals
+ORDER BY total_txn_amount DESC
+LIMIT 10
+
+;
