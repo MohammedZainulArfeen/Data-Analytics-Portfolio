@@ -1,27 +1,30 @@
-WITH RISK as
+WITH RISK AS 
 
 (
+    SELECT 
+        A.customer_id,
+        A.account_id,
+        C.name AS Name_1,
+        A.account_type,
+        C.risk_rating,
+        B.location,
+        TRUNCATE(SUM(A.Balance),2) AS T_MAX,
+        COUNT(*) AS RISK_TXN_COUNT,
 
-select A.customer_id, A.account_id, c.name as Name_1, A.account_type, C.risk_rating, A.Balance, B.location, truncate(sum(A.Balance),2) as T_MAX, Count(A.Balance) as RISK_TXN_COUNT,
+                                             DENSE_RANK() OVER(PARTITION BY B.location ORDER BY SUM(A.Balance) DESC) AS Risky_Branch_CUST_Rank
+    
+    FROM project.transactions AS T
+                                             JOIN project.accounts AS A ON T.account_id = A.account_id
+                                             JOIN project.customers AS C ON A.customer_id = C.customer_id
+                                             JOIN project.branches AS B ON A.branch_id = B.branch_id
 
-                                  DENSE_RANK() OVER(PARTITION BY LOCATION order by sum(A.Balance) desc) as Risky_Branch
-
-From project.transactions as T
-
-                                  Join project.accounts as A on T.account_id = A.account_id
-                                  Join project.customers as C on A.customer_id = C.customer_id
-                                  Join project.branches as B on A.branch_id = B.branch_id
-
-where T.amount>=30000
-
-                                                         group by A.account_id, A.customer_id, Name_1, A.account_type, C.risk_rating, A.Balance, B.location
-
+    WHERE T.amount >= 30000
+    GROUP BY 
+        A.customer_id, A.account_id, C.name, A.account_type, C.risk_rating, B.location
 )
 
-Select *
-
-from RISK
-
-where Risky_Branch <= 3
+SELECT *
+FROM RISK
+WHERE Risky_Branch_CUST_Rank <= 3
 
 ;
