@@ -1,0 +1,36 @@
+WITH example AS 
+
+(
+              SELECT 
+                  product_category,
+                  DATE_FORMAT(sale_date, '[%Y/%m]') AS month,
+                  SUM(sales_amount) AS monthly_total
+              FROM sales.sales_info
+              WHERE sale_date BETWEEN '2024-01-01' AND '2024-06-30'
+              GROUP BY product_category, month
+
+)
+
+                                    SELECT 
+                                        ranked.*,
+                                        totals.total_sales
+                                    FROM (
+                                        SELECT *,
+                                               RANK() OVER(PARTITION BY product_category ORDER BY monthly_total DESC) AS Top_Sales
+                                        FROM example
+) AS ranked
+
+JOIN (
+                                    SELECT 
+                                        product_category,
+                                        concat('$', format(SUM(monthly_total), 0)) AS total_sales
+                                    FROM example
+                                    GROUP BY product_category
+
+) AS totals
+
+              ON ranked.product_category = totals.product_category
+              WHERE Top_Sales <= 3
+              ORDER BY ranked.product_category, Top_Sales
+
+;
