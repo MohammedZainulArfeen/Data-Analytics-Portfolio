@@ -1,53 +1,50 @@
-# Banking Risk & Compliance SQL Project
+# SQL Analytics Project
 
-## Project Overview
-This project demonstrates SQL-based analytics for banking risk management and compliance monitoring. It simulates a small banking dataset, including customers, accounts, transactions, and branches, and showcases queries for detecting risky transactions, fraud patterns, and compliance checks.
+A flexible, portfolio-ready SQL project showcasing advanced analytics techniques across multiple datasets and domains.
 
-## Objective
-- Practice advanced SQL techniques (joins, CTEs, window functions).  
-- Simulate real-world banking scenarios for AML (Anti-Money Laundering) and compliance reporting.  
-- Build a portfolio-ready SQL project for professional visibility.
+# 🚀 Project Overview
 
-## Tech Stack
-- **Database:** MySQL / PostgreSQL  
-- **Tools:** SQL, optional Python for CSV data import  
-- **Visualization (optional):** Power BI, Tableau
+Demonstrates advanced SQL analytics: joins, CTEs, window functions, ranking, and aggregations.
 
-## Dataset
-The project includes mock datasets:  
-- `customers.csv` – customer info with KYC status and risk ratings  
-- `accounts.csv` – account details linked to customers  
-- `transactions.csv` – transaction records for AML analysis  
-- `branches.csv` – branch details  
+Designed to handle any structured dataset—sales, transactions, or activity logs.
 
-## Folder Structure
+Highlights trend analysis, top-N rankings, and pattern detection.
 
-banking-risk-compliance-sql/
+# 🛠 Objectives
+
+Build reusable SQL queries for different scenarios.
+
+Extract actionable insights from structured datasets.
+
+Showcase portfolio-ready skills in SQL analytics.
+
+# 💻 Tech Stack
+
+Database: MySQL / PostgreSQL
+
+Tools: SQL, optional Python for CSV/data import
+
+Visualization (optional): Power BI, Tableau
+
+# 📂 Usage
+
+Load your dataset into a MySQL or PostgreSQL database.
+
+Create tables and schema as needed.
+
+Run queries to explore trends, rankings, or patterns.
 
 
-├── README.md
+# 🎯 Key Highlights
 
-├── schema/
+Performs trend analysis and top-N rankings per entity or category.
 
-│ ├── create_tables.sql
+Applies window functions and aggregations for detailed insights.
 
+Fully adaptable to any dataset, making it reusable across projects.
 
-├── data/
+# 📈 Outcome
 
-│ ├── customers.csv
+Demonstrates practical SQL proficiency.
 
-│ ├── branches.csv
-
-│ ├── accounts.csv
-
-│ └── transactions.csv
-
-├── queries/
-
-│ ├── aml_risky_transactions.sql
-
-│ ├── fraud_detection.sql
-
-│ └── compliance_checks.sql
-
-└── docs/
+Produces portfolio-ready examples of analytics for any domain.
