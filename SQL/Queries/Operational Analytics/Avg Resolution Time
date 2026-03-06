@@ -1,0 +1,5 @@
+SELECT
+Assigned_Team,
+AVG(Resolution_Time_Hours) AS Avg_Resolution_Time
+FROM operations_tickets
+GROUP BY Assigned_Team;
