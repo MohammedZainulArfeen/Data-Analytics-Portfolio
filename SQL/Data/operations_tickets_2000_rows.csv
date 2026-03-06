@@ -1,0 +1,2001 @@
+Ticket_ID,Department,Issue_Type,Priority,Created_Date,Assigned_Team,Resolution_Time_Hours,SLA_Hours,Status,Workflow_Type
+1001,Customer Support,Access Issue,High,2025-03-06,Process Team,71,48,Open,User Access
+1002,Finance,Data Error,Critical,2025-01-15,DevOps,45,12,Closed,Automation
+1003,Marketing,Workflow Delay,Medium,2025-03-04,IT Support,2,48,Closed,User Access
+1004,Compliance,System Bug,Critical,2025-01-19,IT Support,72,8,Closed,System
+1005,Marketing,Data Error,Medium,2025-03-04,DataOps,72,36,Closed,Reporting
+1006,HR,Permission Issue,Critical,2025-01-27,IT Support,14,12,Closed,Process
+1007,Operations,Reporting Failure,Critical,2025-02-09,IT Support,64,12,Closed,User Access
+1008,Customer Support,Permission Issue,Low,2025-02-13,IT Support,30,12,Open,Process
+1009,HR,Access Issue,Low,2025-03-22,Analytics Team,72,24,Closed,Process
+1010,Sales,Reporting Failure,Low,2025-03-22,Analytics Team,14,24,Closed,Automation
+1011,Compliance,Data Error,High,2025-04-22,DataOps,39,36,Open,Automation
+1012,Operations,Reporting Failure,Medium,2025-03-26,Analytics Team,19,36,Closed,Reporting
+1013,Engineering,Access Issue,Medium,2025-02-11,Process Team,35,36,Closed,Reporting
+1014,Marketing,Permission Issue,Critical,2025-02-02,DataOps,5,8,Open,Reporting
+1015,HR,Permission Issue,Critical,2025-04-18,IT Support,45,48,Open,Automation
+1016,Engineering,Integration Error,Medium,2025-04-22,IT Support,63,8,Closed,System
+1017,HR,System Bug,Low,2025-03-22,IT Support,12,12,Closed,Reporting
+1018,Marketing,Integration Error,Critical,2025-03-16,Process Team,71,36,Closed,Process
+1019,Marketing,Workflow Delay,High,2025-04-11,IT Support,4,36,Open,System
+1020,Sales,Reporting Failure,Low,2025-03-20,DataOps,64,36,Closed,Process
+1021,Sales,Reporting Failure,Low,2025-03-18,Analytics Team,62,48,Closed,Process
+1022,Marketing,Permission Issue,High,2025-01-30,Process Team,44,24,Closed,User Access
+1023,Compliance,Workflow Delay,Medium,2025-01-05,Process Team,55,8,Closed,User Access
+1024,HR,Reporting Failure,Critical,2025-04-21,DevOps,40,48,Closed,System
+1025,Compliance,Permission Issue,Critical,2025-03-27,Process Team,52,24,Open,User Access
+1026,Customer Support,Access Issue,High,2025-04-08,Analytics Team,31,36,Open,Process
+1027,Operations,Permission Issue,Critical,2025-01-29,IT Support,5,36,Closed,User Access
+1028,Customer Support,Reporting Failure,Low,2025-04-19,Process Team,47,8,Closed,Process
+1029,Compliance,Integration Error,High,2025-01-25,IT Support,31,24,Closed,User Access
+1030,Sales,Access Issue,Low,2025-03-29,DataOps,4,12,Closed,Reporting
+1031,Finance,Data Error,Low,2025-03-21,DataOps,16,24,Open,User Access
+1032,Customer Support,Workflow Delay,High,2025-03-06,Process Team,55,36,Closed,Process
+1033,HR,Permission Issue,Low,2025-01-23,DataOps,17,48,Closed,Process
+1034,Marketing,System Bug,High,2025-01-23,Analytics Team,24,12,Closed,User Access
+1035,Customer Support,Workflow Delay,Medium,2025-03-23,DataOps,1,24,Closed,System
+1036,Compliance,Permission Issue,High,2025-04-16,DevOps,45,12,Closed,Process
+1037,Compliance,Access Issue,Critical,2025-03-14,Process Team,27,24,Closed,User Access
+1038,Customer Support,Data Error,High,2025-03-01,DevOps,25,24,Open,Automation
+1039,Sales,Data Error,Low,2025-03-03,Process Team,66,24,Closed,System
+1040,Compliance,Workflow Delay,Medium,2025-04-21,DevOps,19,24,Closed,System
+1041,Compliance,Permission Issue,High,2025-02-16,DataOps,12,48,Closed,User Access
+1042,Finance,Access Issue,Low,2025-04-21,Analytics Team,21,48,Closed,Automation
+1043,Finance,Reporting Failure,High,2025-03-02,Process Team,3,48,Closed,Reporting
+1044,Finance,Data Error,Medium,2025-01-24,DevOps,5,12,Closed,Process
+1045,HR,Permission Issue,Medium,2025-03-04,DevOps,62,48,Closed,User Access
+1046,HR,Data Error,Critical,2025-02-26,Process Team,58,24,Closed,Reporting
+1047,Engineering,Integration Error,Low,2025-02-14,DevOps,58,12,Closed,Process
+1048,Marketing,Permission Issue,Medium,2025-03-02,DataOps,27,24,Open,User Access
+1049,Compliance,Integration Error,Medium,2025-02-05,Analytics Team,27,48,Closed,Reporting
+1050,Marketing,Permission Issue,High,2025-04-09,IT Support,50,48,Open,Process
+1051,Marketing,Permission Issue,Low,2025-02-23,IT Support,29,8,Closed,Automation
+1052,Customer Support,System Bug,Critical,2025-03-23,DevOps,67,36,Closed,Reporting
+1053,Marketing,Integration Error,Low,2025-03-22,Process Team,56,24,Closed,Process
+1054,HR,Permission Issue,High,2025-04-26,IT Support,29,36,Closed,Automation
+1055,Sales,Data Error,Critical,2025-04-30,Process Team,72,8,Closed,Process
+1056,Marketing,Permission Issue,Low,2025-01-18,DevOps,26,36,Open,User Access
+1057,Compliance,Access Issue,Critical,2025-04-21,IT Support,11,8,Closed,System
+1058,Operations,System Bug,Critical,2025-01-01,Process Team,54,12,Closed,System
+1059,HR,Access Issue,Critical,2025-04-07,DataOps,49,48,Open,Reporting
+1060,Customer Support,System Bug,Critical,2025-04-26,DevOps,5,36,Closed,Automation
+1061,Operations,Data Error,Critical,2025-01-26,IT Support,53,36,Open,Automation
+1062,Customer Support,System Bug,Medium,2025-04-02,IT Support,2,48,Closed,Reporting
+1063,Marketing,Access Issue,Critical,2025-03-09,Process Team,45,36,Closed,User Access
+1064,Compliance,Integration Error,Medium,2025-01-28,DevOps,52,8,Open,Automation
+1065,Finance,Workflow Delay,High,2025-01-12,IT Support,12,36,Closed,Process
+1066,HR,Integration Error,Medium,2025-04-03,DataOps,3,12,Closed,Automation
+1067,Sales,System Bug,Critical,2025-02-14,Process Team,17,24,Closed,System
+1068,Engineering,Workflow Delay,Medium,2025-01-15,DevOps,19,8,Open,Automation
+1069,Engineering,Reporting Failure,High,2025-03-17,IT Support,46,24,Open,Automation
+1070,Marketing,Integration Error,Low,2025-01-18,DataOps,35,36,Closed,Process
+1071,Sales,Access Issue,Medium,2025-01-10,Process Team,52,24,Closed,User Access
+1072,Customer Support,Workflow Delay,Critical,2025-04-17,IT Support,16,8,Open,User Access
+1073,Engineering,Reporting Failure,High,2025-03-25,DevOps,29,24,Closed,Automation
+1074,Customer Support,Integration Error,High,2025-01-18,IT Support,64,12,Open,Process
+1075,Customer Support,Workflow Delay,Critical,2025-03-15,IT Support,51,24,Closed,Process
+1076,Compliance,Access Issue,Low,2025-02-15,DataOps,41,8,Open,System
+1077,Engineering,Access Issue,Low,2025-03-03,IT Support,66,8,Closed,Automation
+1078,Marketing,Permission Issue,Low,2025-04-21,DataOps,68,24,Open,User Access
+1079,Engineering,Access Issue,High,2025-01-06,Analytics Team,34,24,Open,Process
+1080,Sales,Workflow Delay,Critical,2025-02-03,IT Support,21,36,Open,System
+1081,Compliance,Data Error,Low,2025-01-05,Process Team,40,36,Closed,Process
+1082,Operations,Permission Issue,Critical,2025-04-09,DevOps,67,36,Closed,User Access
+1083,Finance,System Bug,Low,2025-01-19,DataOps,34,36,Closed,Reporting
+1084,Operations,Integration Error,Low,2025-02-12,Analytics Team,38,24,Closed,Process
+1085,HR,System Bug,Medium,2025-03-18,DataOps,3,36,Closed,System
+1086,Engineering,Access Issue,High,2025-05-01,IT Support,2,48,Open,Process
+1087,Operations,System Bug,Critical,2025-04-18,DevOps,52,36,Closed,Reporting
+1088,HR,Access Issue,Critical,2025-01-08,Analytics Team,68,48,Closed,Process
+1089,Operations,Access Issue,Medium,2025-01-31,DataOps,35,36,Closed,Reporting
+1090,Operations,Data Error,High,2025-02-25,Process Team,14,24,Closed,Process
+1091,Sales,Permission Issue,High,2025-02-13,DataOps,12,8,Open,System
+1092,Compliance,Access Issue,Medium,2025-03-05,DataOps,37,8,Closed,Process
+1093,Marketing,Data Error,High,2025-03-25,DevOps,36,48,Open,Process
+1094,Customer Support,Data Error,Low,2025-03-16,DataOps,46,12,Closed,Automation
+1095,Sales,System Bug,Critical,2025-04-04,IT Support,62,36,Closed,System
+1096,Marketing,Reporting Failure,Low,2025-04-25,DataOps,60,48,Closed,Automation
+1097,Marketing,Data Error,High,2025-04-13,Analytics Team,30,8,Open,Process
+1098,Finance,System Bug,Critical,2025-04-14,Analytics Team,58,36,Closed,Automation
+1099,Customer Support,System Bug,Low,2025-01-02,DataOps,63,36,Closed,Automation
+1100,Operations,Access Issue,Low,2025-01-04,Analytics Team,34,12,Closed,Process
+1101,HR,System Bug,Medium,2025-04-01,DataOps,7,12,Closed,User Access
+1102,Compliance,Workflow Delay,High,2025-02-28,DataOps,45,12,Closed,Automation
+1103,HR,Integration Error,Critical,2025-03-18,Analytics Team,3,24,Closed,User Access
+1104,HR,Data Error,Medium,2025-04-12,IT Support,4,24,Closed,User Access
+1105,Compliance,System Bug,Critical,2025-03-31,DevOps,70,36,Closed,Process
+1106,Operations,Reporting Failure,High,2025-02-15,DevOps,3,48,Closed,Reporting
+1107,Operations,Permission Issue,Medium,2025-02-11,DevOps,4,36,Open,Automation
+1108,Customer Support,System Bug,Critical,2025-02-16,Process Team,22,36,Closed,System
+1109,Compliance,Reporting Failure,Medium,2025-03-26,Analytics Team,51,48,Open,User Access
+1110,Sales,Data Error,Critical,2025-04-08,Process Team,20,48,Closed,User Access
+1111,Sales,Data Error,High,2025-02-27,Analytics Team,49,12,Closed,System
+1112,Finance,Data Error,Medium,2025-04-09,DevOps,17,36,Open,Automation
+1113,Compliance,Workflow Delay,Medium,2025-01-18,DevOps,7,8,Open,Process
+1114,HR,Data Error,Medium,2025-04-02,Analytics Team,7,12,Open,User Access
+1115,Customer Support,System Bug,Medium,2025-02-12,IT Support,11,12,Closed,Process
+1116,Engineering,Workflow Delay,Medium,2025-01-07,DataOps,18,24,Closed,System
+1117,Operations,System Bug,Critical,2025-01-02,IT Support,27,24,Closed,System
+1118,Engineering,Permission Issue,Critical,2025-04-07,DevOps,63,24,Closed,System
+1119,Operations,System Bug,High,2025-01-12,Analytics Team,48,24,Closed,Reporting
+1120,Marketing,Integration Error,High,2025-01-22,IT Support,18,12,Closed,Process
+1121,Finance,Data Error,Low,2025-02-11,DataOps,33,8,Closed,Reporting
+1122,Sales,Permission Issue,High,2025-03-18,IT Support,61,36,Closed,Automation
+1123,Sales,Workflow Delay,High,2025-02-17,DevOps,7,12,Open,Automation
+1124,HR,Integration Error,Medium,2025-04-06,Process Team,65,8,Open,Automation
+1125,Operations,Access Issue,Medium,2025-02-08,IT Support,48,24,Open,System
+1126,Engineering,System Bug,Low,2025-04-29,IT Support,20,24,Closed,User Access
+1127,Sales,System Bug,Critical,2025-04-10,DataOps,23,36,Closed,Automation
+1128,Sales,Data Error,Medium,2025-01-05,DataOps,36,8,Closed,Process
+1129,Sales,Access Issue,Low,2025-02-04,DataOps,46,24,Closed,User Access
+1130,Engineering,Permission Issue,Medium,2025-03-11,DataOps,13,8,Closed,Automation
+1131,HR,Workflow Delay,High,2025-01-09,DevOps,21,8,Closed,User Access
+1132,Marketing,Data Error,Medium,2025-04-30,DataOps,32,12,Closed,System
+1133,Marketing,System Bug,Medium,2025-02-26,Process Team,3,12,Closed,User Access
+1134,HR,Data Error,High,2025-03-25,Process Team,61,36,Open,Process
+1135,Finance,System Bug,Medium,2025-03-31,DataOps,50,36,Closed,Reporting
+1136,Operations,System Bug,Medium,2025-03-10,DevOps,12,8,Closed,Process
+1137,Engineering,Data Error,Critical,2025-01-28,DataOps,58,8,Open,System
+1138,Compliance,Access Issue,Critical,2025-04-25,DevOps,22,12,Open,Process
+1139,Engineering,Integration Error,High,2025-02-28,Process Team,64,8,Closed,Automation
+1140,Compliance,System Bug,Critical,2025-02-10,Process Team,2,36,Open,Automation
+1141,Operations,Access Issue,Critical,2025-04-21,IT Support,2,24,Open,Process
+1142,Finance,Permission Issue,Low,2025-04-14,Analytics Team,23,8,Closed,Process
+1143,HR,Integration Error,Low,2025-01-09,Analytics Team,31,36,Closed,Process
+1144,Sales,Access Issue,Low,2025-03-05,DataOps,26,24,Closed,Process
+1145,Finance,Permission Issue,Low,2025-04-28,IT Support,58,36,Closed,Process
+1146,Compliance,Reporting Failure,Critical,2025-02-25,Process Team,8,36,Open,User Access
+1147,Sales,Data Error,High,2025-01-27,IT Support,55,12,Closed,User Access
+1148,Customer Support,System Bug,Low,2025-03-16,IT Support,34,12,Closed,System
+1149,Customer Support,Data Error,High,2025-04-25,Analytics Team,29,8,Closed,User Access
+1150,Finance,Permission Issue,Medium,2025-01-09,IT Support,27,24,Closed,User Access
+1151,Engineering,Reporting Failure,High,2025-04-17,DataOps,59,24,Closed,System
+1152,Finance,Reporting Failure,Critical,2025-01-23,DevOps,2,8,Open,Process
+1153,Compliance,Workflow Delay,High,2025-01-12,IT Support,55,12,Closed,Automation
+1154,HR,System Bug,Low,2025-02-27,Analytics Team,63,8,Open,System
+1155,HR,Permission Issue,Critical,2025-02-24,DevOps,39,36,Open,System
+1156,Sales,Integration Error,Critical,2025-01-09,DevOps,9,8,Closed,Automation
+1157,Marketing,System Bug,Low,2025-03-24,DataOps,30,12,Closed,Process
+1158,Marketing,Access Issue,Medium,2025-04-21,IT Support,48,8,Open,Automation
+1159,Sales,Workflow Delay,High,2025-04-02,IT Support,1,36,Closed,Process
+1160,Operations,Permission Issue,Low,2025-02-25,Process Team,26,48,Open,Process
+1161,Operations,Access Issue,Critical,2025-04-26,Process Team,48,48,Closed,Reporting
+1162,HR,Workflow Delay,Low,2025-01-11,Analytics Team,27,8,Open,Reporting
+1163,HR,Workflow Delay,High,2025-04-30,DataOps,1,48,Closed,Reporting
+1164,HR,Data Error,Medium,2025-03-29,DevOps,56,24,Closed,System
+1165,Customer Support,System Bug,Low,2025-02-04,Process Team,1,8,Closed,Automation
+1166,Marketing,Data Error,Medium,2025-01-29,DataOps,43,48,Closed,Automation
+1167,HR,Integration Error,High,2025-03-08,DevOps,54,24,Open,Automation
+1168,Marketing,Integration Error,High,2025-04-20,Process Team,57,8,Open,Reporting
+1169,Compliance,Workflow Delay,Low,2025-04-01,Analytics Team,32,36,Open,User Access
+1170,Engineering,Access Issue,Medium,2025-03-04,DevOps,29,36,Closed,Automation
+1171,Finance,System Bug,High,2025-02-13,Analytics Team,46,12,Closed,System
+1172,HR,Integration Error,Low,2025-04-28,DataOps,60,24,Closed,Automation
+1173,Finance,System Bug,Low,2025-01-13,DevOps,32,24,Open,Reporting
+1174,Finance,Access Issue,Low,2025-03-06,DataOps,57,36,Closed,System
+1175,Customer Support,Data Error,High,2025-03-10,DataOps,40,12,Closed,User Access
+1176,Operations,Workflow Delay,High,2025-01-11,Analytics Team,10,12,Closed,Automation
+1177,HR,Reporting Failure,Medium,2025-03-10,Analytics Team,33,24,Closed,System
+1178,Compliance,Integration Error,High,2025-01-26,DataOps,25,24,Open,Automation
+1179,Operations,Reporting Failure,High,2025-01-10,Analytics Team,19,48,Closed,Process
+1180,Customer Support,Access Issue,Medium,2025-03-31,IT Support,27,36,Closed,System
+1181,Marketing,Permission Issue,Low,2025-04-27,Process Team,23,8,Open,Process
+1182,Finance,System Bug,High,2025-04-25,DataOps,27,12,Closed,Process
+1183,Customer Support,Integration Error,Low,2025-01-21,DataOps,48,8,Closed,User Access
+1184,HR,System Bug,Low,2025-03-03,Analytics Team,71,36,Closed,Process
+1185,Finance,System Bug,Low,2025-02-27,Process Team,59,48,Closed,Automation
+1186,Finance,Access Issue,Medium,2025-01-07,Analytics Team,51,12,Closed,User Access
+1187,HR,Reporting Failure,Low,2025-02-18,IT Support,38,12,Closed,System
+1188,Sales,Access Issue,Critical,2025-03-09,Analytics Team,41,12,Closed,User Access
+1189,Operations,Data Error,Critical,2025-03-11,DataOps,61,12,Closed,User Access
+1190,Compliance,Workflow Delay,Medium,2025-01-05,Analytics Team,53,8,Closed,Process
+1191,Finance,Access Issue,Critical,2025-02-05,IT Support,17,8,Open,User Access
+1192,Marketing,Workflow Delay,High,2025-03-10,DevOps,56,12,Closed,Reporting
+1193,Engineering,Workflow Delay,Low,2025-04-13,Analytics Team,10,24,Closed,Process
+1194,Compliance,Integration Error,Medium,2025-01-12,Analytics Team,72,8,Closed,Process
+1195,Engineering,Permission Issue,Low,2025-01-05,Process Team,7,36,Closed,User Access
+1196,Sales,Access Issue,High,2025-01-17,DataOps,64,36,Closed,Reporting
+1197,Marketing,Integration Error,High,2025-03-25,IT Support,17,12,Closed,Process
+1198,Finance,Permission Issue,Medium,2025-04-17,DevOps,26,12,Closed,Reporting
+1199,Operations,Integration Error,Medium,2025-01-12,Analytics Team,32,48,Closed,Automation
+1200,Sales,System Bug,Critical,2025-03-29,DataOps,26,8,Closed,Process
+1201,Sales,Reporting Failure,Critical,2025-01-10,Process Team,43,12,Closed,Reporting
+1202,Customer Support,System Bug,Critical,2025-01-22,IT Support,56,12,Closed,Process
+1203,HR,Reporting Failure,Critical,2025-04-26,DevOps,42,36,Closed,Automation
+1204,Finance,Data Error,High,2025-02-26,IT Support,52,12,Closed,User Access
+1205,Engineering,System Bug,Critical,2025-02-27,IT Support,18,36,Closed,System
+1206,Marketing,Permission Issue,High,2025-01-06,DataOps,49,24,Closed,Process
+1207,Operations,Reporting Failure,Low,2025-01-13,Analytics Team,4,48,Closed,System
+1208,Engineering,Data Error,Medium,2025-04-16,Process Team,16,8,Closed,User Access
+1209,Compliance,Integration Error,High,2025-02-15,Analytics Team,27,48,Closed,User Access
+1210,Sales,Workflow Delay,Medium,2025-02-19,DevOps,5,48,Closed,Reporting
+1211,Marketing,Reporting Failure,Critical,2025-04-01,Analytics Team,22,12,Closed,Process
+1212,Sales,Permission Issue,Low,2025-01-22,Process Team,37,36,Closed,User Access
+1213,Engineering,Reporting Failure,Medium,2025-03-11,DevOps,58,24,Open,Reporting
+1214,HR,Permission Issue,Medium,2025-01-03,Process Team,29,12,Closed,Automation
+1215,Compliance,Permission Issue,Medium,2025-01-13,IT Support,30,12,Closed,System
+1216,Engineering,System Bug,Low,2025-02-11,IT Support,58,48,Open,Automation
+1217,Customer Support,Reporting Failure,Critical,2025-01-22,DevOps,4,48,Closed,Process
+1218,Finance,Reporting Failure,Medium,2025-02-10,DevOps,65,48,Closed,User Access
+1219,Marketing,Permission Issue,High,2025-01-11,IT Support,24,8,Open,Reporting
+1220,Sales,Reporting Failure,Medium,2025-04-15,Analytics Team,15,8,Closed,Process
+1221,Compliance,Data Error,Low,2025-03-05,DataOps,71,12,Open,Automation
+1222,Compliance,Reporting Failure,Medium,2025-02-01,Process Team,6,48,Open,User Access
+1223,Engineering,System Bug,Critical,2025-04-25,Process Team,66,36,Closed,User Access
+1224,Compliance,System Bug,Medium,2025-01-25,Process Team,14,8,Closed,Reporting
+1225,Marketing,Reporting Failure,High,2025-01-25,IT Support,51,8,Closed,System
+1226,Sales,Integration Error,Critical,2025-01-20,Process Team,48,24,Closed,Reporting
+1227,Sales,System Bug,Low,2025-03-19,Analytics Team,35,8,Open,System
+1228,Engineering,Access Issue,High,2025-03-08,Process Team,50,24,Closed,System
+1229,Marketing,System Bug,High,2025-03-20,IT Support,52,24,Open,Process
+1230,Compliance,Access Issue,Critical,2025-02-09,IT Support,25,8,Closed,System
+1231,Sales,Permission Issue,Critical,2025-01-30,Process Team,12,12,Closed,Automation
+1232,Customer Support,Reporting Failure,Medium,2025-04-17,Process Team,52,36,Open,Automation
+1233,Sales,Reporting Failure,Critical,2025-04-23,DevOps,10,36,Closed,System
+1234,HR,Permission Issue,Medium,2025-04-28,Process Team,64,36,Open,Process
+1235,Sales,Access Issue,Medium,2025-04-24,IT Support,27,24,Closed,Reporting
+1236,HR,System Bug,High,2025-01-13,DataOps,55,24,Closed,Process
+1237,Finance,Permission Issue,Low,2025-04-29,DevOps,59,48,Closed,Automation
+1238,Finance,Workflow Delay,Critical,2025-03-14,Analytics Team,53,8,Closed,Reporting
+1239,Finance,Reporting Failure,High,2025-04-26,Process Team,34,8,Open,Reporting
+1240,Finance,Permission Issue,Medium,2025-02-03,DevOps,11,24,Closed,User Access
+1241,Finance,Data Error,Medium,2025-03-21,Process Team,54,8,Open,User Access
+1242,HR,Permission Issue,Medium,2025-04-28,Analytics Team,37,48,Closed,System
+1243,Engineering,Permission Issue,High,2025-03-08,DevOps,62,12,Closed,System
+1244,Finance,System Bug,Critical,2025-04-10,Analytics Team,24,48,Open,Automation
+1245,Finance,Permission Issue,High,2025-01-21,Analytics Team,35,24,Closed,Process
+1246,Engineering,Reporting Failure,High,2025-03-13,DataOps,63,36,Closed,Process
+1247,Operations,Permission Issue,Critical,2025-02-19,DevOps,36,8,Closed,Reporting
+1248,Compliance,Access Issue,Low,2025-03-01,DevOps,19,8,Open,Process
+1249,Finance,System Bug,High,2025-04-29,Analytics Team,46,48,Closed,Reporting
+1250,Sales,Data Error,Critical,2025-02-10,IT Support,66,8,Closed,User Access
+1251,Compliance,Permission Issue,Critical,2025-02-02,DataOps,65,8,Closed,Process
+1252,Sales,Data Error,Medium,2025-01-23,Analytics Team,3,8,Closed,Reporting
+1253,Compliance,Permission Issue,Medium,2025-03-28,Analytics Team,60,8,Closed,Automation
+1254,Finance,Access Issue,Critical,2025-01-23,Process Team,32,12,Open,System
+1255,Sales,Workflow Delay,Critical,2025-03-08,IT Support,63,36,Closed,Reporting
+1256,Sales,Reporting Failure,High,2025-03-22,Process Team,62,48,Closed,Reporting
+1257,Compliance,Workflow Delay,Medium,2025-03-20,Process Team,23,48,Closed,User Access
+1258,Engineering,Permission Issue,Critical,2025-04-07,Process Team,4,12,Closed,Reporting
+1259,Finance,Access Issue,Low,2025-03-24,Process Team,15,36,Closed,Reporting
+1260,HR,Permission Issue,High,2025-03-21,DevOps,6,12,Closed,User Access
+1261,Marketing,Workflow Delay,High,2025-04-12,Process Team,25,12,Closed,User Access
+1262,Sales,Data Error,Low,2025-04-30,Analytics Team,40,12,Open,Automation
+1263,Sales,Workflow Delay,High,2025-01-24,Process Team,44,8,Closed,Reporting
+1264,Sales,Data Error,Low,2025-04-22,DevOps,28,12,Open,User Access
+1265,HR,Reporting Failure,High,2025-04-01,DataOps,42,36,Closed,System
+1266,Marketing,Permission Issue,High,2025-02-25,IT Support,45,12,Closed,Reporting
+1267,Customer Support,System Bug,Low,2025-04-12,IT Support,51,8,Closed,Reporting
+1268,Engineering,Reporting Failure,Low,2025-03-06,IT Support,44,24,Open,System
+1269,Operations,System Bug,Critical,2025-03-30,DataOps,63,48,Closed,Automation
+1270,Sales,Access Issue,Critical,2025-03-11,Process Team,37,8,Closed,System
+1271,Engineering,Data Error,Critical,2025-03-08,Process Team,61,48,Closed,Automation
+1272,HR,System Bug,High,2025-03-26,DataOps,59,24,Closed,Reporting
+1273,Compliance,Reporting Failure,Critical,2025-03-19,DevOps,33,24,Closed,Process
+1274,HR,Integration Error,Medium,2025-02-03,Process Team,7,36,Closed,Process
+1275,Operations,Data Error,Critical,2025-04-20,IT Support,39,24,Closed,Process
+1276,Sales,Integration Error,Low,2025-02-26,DevOps,41,8,Closed,Reporting
+1277,HR,Access Issue,High,2025-02-18,Analytics Team,27,36,Closed,Process
+1278,Sales,Permission Issue,Critical,2025-01-13,Analytics Team,69,12,Closed,Reporting
+1279,Compliance,Permission Issue,Low,2025-02-06,IT Support,24,36,Closed,Automation
+1280,HR,Reporting Failure,Critical,2025-03-14,IT Support,12,36,Closed,Automation
+1281,Compliance,Integration Error,Medium,2025-02-25,IT Support,5,8,Closed,Automation
+1282,Finance,Reporting Failure,Medium,2025-01-27,DataOps,47,48,Closed,System
+1283,Compliance,Reporting Failure,Critical,2025-04-14,Analytics Team,38,48,Open,Reporting
+1284,Customer Support,Access Issue,Critical,2025-03-02,Analytics Team,50,36,Closed,Automation
+1285,HR,Integration Error,Critical,2025-04-12,DevOps,14,8,Closed,User Access
+1286,Compliance,Permission Issue,Medium,2025-02-20,DataOps,8,24,Open,Process
+1287,Compliance,Integration Error,High,2025-04-04,IT Support,44,12,Open,Reporting
+1288,Finance,System Bug,Low,2025-04-19,DevOps,7,48,Open,Automation
+1289,Engineering,System Bug,Medium,2025-02-09,DevOps,6,12,Open,User Access
+1290,Sales,Access Issue,High,2025-03-21,IT Support,10,8,Open,System
+1291,Engineering,Workflow Delay,High,2025-04-23,Process Team,72,48,Closed,Reporting
+1292,Operations,Integration Error,High,2025-04-03,Analytics Team,59,24,Closed,System
+1293,Sales,Permission Issue,Medium,2025-02-24,Process Team,28,36,Open,System
+1294,Operations,Workflow Delay,Critical,2025-03-13,DevOps,14,48,Closed,System
+1295,Compliance,Integration Error,Low,2025-02-28,Analytics Team,57,36,Closed,Automation
+1296,Sales,Integration Error,High,2025-03-03,Analytics Team,40,48,Closed,User Access
+1297,Operations,Workflow Delay,High,2025-01-07,Analytics Team,55,24,Closed,System
+1298,Finance,System Bug,Medium,2025-04-28,IT Support,37,36,Closed,Process
+1299,Operations,Data Error,Medium,2025-03-19,Analytics Team,9,24,Closed,User Access
+1300,Finance,Data Error,High,2025-02-02,Analytics Team,39,8,Open,Reporting
+1301,HR,Permission Issue,Low,2025-04-22,DataOps,11,24,Open,System
+1302,Customer Support,Data Error,High,2025-02-03,IT Support,32,36,Open,System
+1303,Operations,Permission Issue,Low,2025-01-14,IT Support,56,36,Closed,User Access
+1304,Engineering,Integration Error,Critical,2025-03-09,Analytics Team,70,12,Closed,Automation
+1305,Finance,Access Issue,Critical,2025-04-30,DevOps,1,12,Closed,Process
+1306,Finance,Workflow Delay,Low,2025-03-11,DataOps,59,36,Closed,Process
+1307,Engineering,Workflow Delay,Critical,2025-03-14,Process Team,15,36,Closed,User Access
+1308,Sales,Permission Issue,Low,2025-04-15,Process Team,26,12,Open,Automation
+1309,Sales,Data Error,High,2025-04-05,Process Team,63,12,Closed,Reporting
+1310,Operations,Access Issue,High,2025-01-31,DataOps,65,12,Closed,Automation
+1311,Operations,Permission Issue,High,2025-01-27,Process Team,68,48,Closed,Reporting
+1312,Sales,Access Issue,Low,2025-03-13,IT Support,52,24,Closed,System
+1313,Marketing,Permission Issue,Low,2025-04-09,DevOps,66,12,Closed,Reporting
+1314,Engineering,Integration Error,Medium,2025-04-12,DevOps,19,12,Closed,Reporting
+1315,Compliance,Permission Issue,Critical,2025-03-07,Analytics Team,17,48,Closed,Reporting
+1316,Engineering,System Bug,Medium,2025-01-30,DevOps,69,8,Open,Reporting
+1317,Finance,Access Issue,Medium,2025-03-31,Process Team,14,24,Closed,System
+1318,HR,Permission Issue,Critical,2025-04-12,Process Team,45,48,Closed,Process
+1319,Operations,Data Error,Critical,2025-04-23,DevOps,60,48,Closed,Process
+1320,Marketing,Permission Issue,Low,2025-03-19,Analytics Team,34,48,Open,Automation
+1321,Marketing,Access Issue,Medium,2025-03-01,Analytics Team,24,12,Closed,System
+1322,Compliance,Reporting Failure,Low,2025-03-24,Analytics Team,61,48,Closed,Automation
+1323,HR,Permission Issue,Critical,2025-04-12,Analytics Team,18,36,Closed,Process
+1324,Operations,Reporting Failure,High,2025-01-21,Process Team,62,8,Open,System
+1325,Marketing,Reporting Failure,Medium,2025-01-24,DevOps,47,8,Closed,System
+1326,Compliance,Permission Issue,Low,2025-01-13,IT Support,26,24,Closed,Automation
+1327,HR,Data Error,High,2025-02-01,DataOps,23,24,Open,Process
+1328,Sales,Data Error,High,2025-02-24,Analytics Team,42,8,Closed,Process
+1329,Customer Support,System Bug,High,2025-03-30,DataOps,9,48,Open,User Access
+1330,Engineering,Permission Issue,Critical,2025-01-08,DataOps,31,36,Closed,User Access
+1331,Finance,Integration Error,Low,2025-04-26,DataOps,30,12,Closed,User Access
+1332,Sales,Reporting Failure,Low,2025-03-27,Process Team,51,12,Closed,Process
+1333,Customer Support,System Bug,Critical,2025-04-06,Process Team,5,12,Closed,System
+1334,Marketing,System Bug,Critical,2025-02-10,IT Support,62,36,Open,Automation
+1335,Operations,Permission Issue,Medium,2025-03-18,Analytics Team,57,48,Closed,Automation
+1336,Finance,Integration Error,High,2025-03-17,IT Support,19,36,Open,User Access
+1337,Engineering,Data Error,Low,2025-02-23,Process Team,48,36,Open,System
+1338,HR,Integration Error,High,2025-03-27,Analytics Team,10,12,Closed,User Access
+1339,Engineering,Permission Issue,Medium,2025-03-22,Analytics Team,3,48,Open,Automation
+1340,Finance,Data Error,Critical,2025-01-02,Process Team,56,8,Closed,Automation
+1341,Engineering,Workflow Delay,High,2025-02-24,Process Team,9,8,Closed,Reporting
+1342,Engineering,Reporting Failure,Low,2025-04-09,Process Team,38,24,Closed,Process
+1343,Finance,Permission Issue,Low,2025-01-04,IT Support,34,24,Closed,Process
+1344,Sales,Reporting Failure,Critical,2025-02-23,DataOps,27,36,Closed,System
+1345,HR,Access Issue,Critical,2025-02-07,DevOps,32,12,Closed,User Access
+1346,Compliance,Access Issue,High,2025-03-26,Analytics Team,1,24,Open,Automation
+1347,Compliance,Data Error,High,2025-01-05,Analytics Team,70,36,Closed,System
+1348,Operations,Permission Issue,Critical,2025-02-26,DataOps,69,12,Closed,Process
+1349,Operations,Access Issue,Medium,2025-01-23,Analytics Team,7,8,Closed,Process
+1350,Marketing,Reporting Failure,Critical,2025-01-31,Analytics Team,42,36,Closed,Automation
+1351,Customer Support,Data Error,Critical,2025-01-07,Analytics Team,25,12,Open,Reporting
+1352,Finance,System Bug,High,2025-02-21,IT Support,60,12,Open,Process
+1353,HR,Integration Error,Medium,2025-03-02,DataOps,14,12,Open,Automation
+1354,Operations,Permission Issue,High,2025-03-08,Analytics Team,31,48,Closed,User Access
+1355,Compliance,Integration Error,High,2025-04-27,Analytics Team,58,8,Closed,Process
+1356,HR,Access Issue,High,2025-03-30,Process Team,67,12,Open,System
+1357,HR,Workflow Delay,Medium,2025-02-26,Analytics Team,31,24,Closed,Automation
+1358,HR,System Bug,High,2025-02-15,Analytics Team,67,24,Closed,Automation
+1359,Customer Support,Data Error,Low,2025-02-26,DevOps,48,48,Closed,User Access
+1360,Finance,Access Issue,High,2025-01-20,Process Team,36,8,Closed,Reporting
+1361,Compliance,Permission Issue,Critical,2025-04-21,IT Support,54,12,Open,Process
+1362,Engineering,Data Error,Low,2025-04-28,DevOps,31,36,Closed,Reporting
+1363,Compliance,Integration Error,Critical,2025-01-03,Analytics Team,55,8,Closed,Reporting
+1364,Customer Support,Workflow Delay,Critical,2025-04-23,IT Support,14,24,Closed,User Access
+1365,Operations,Reporting Failure,Low,2025-03-30,IT Support,1,24,Closed,User Access
+1366,Customer Support,Workflow Delay,Low,2025-04-13,Analytics Team,66,24,Closed,System
+1367,Customer Support,Integration Error,High,2025-02-26,IT Support,51,36,Open,Reporting
+1368,Sales,System Bug,Critical,2025-02-20,DataOps,46,24,Open,Reporting
+1369,HR,Workflow Delay,High,2025-03-03,DataOps,44,36,Closed,Reporting
+1370,HR,System Bug,Critical,2025-01-03,Process Team,8,36,Closed,Process
+1371,Engineering,Reporting Failure,High,2025-03-09,IT Support,62,24,Open,Automation
+1372,Compliance,Reporting Failure,Medium,2025-04-27,DataOps,70,8,Open,Process
+1373,Sales,System Bug,High,2025-01-31,Analytics Team,54,24,Closed,Process
+1374,Engineering,Permission Issue,Critical,2025-01-18,Analytics Team,43,8,Open,Process
+1375,HR,Integration Error,High,2025-01-17,Analytics Team,34,12,Open,Automation
+1376,Engineering,Permission Issue,Medium,2025-02-27,Analytics Team,16,24,Open,System
+1377,Engineering,Workflow Delay,Critical,2025-02-22,IT Support,45,24,Closed,Process
+1378,Operations,Workflow Delay,Low,2025-01-25,Analytics Team,14,48,Closed,User Access
+1379,Finance,Data Error,Critical,2025-03-23,IT Support,63,8,Closed,User Access
+1380,Sales,Integration Error,Critical,2025-04-01,Analytics Team,62,24,Closed,Process
+1381,Finance,Workflow Delay,High,2025-04-11,DevOps,21,36,Closed,Automation
+1382,Compliance,Integration Error,Critical,2025-03-14,IT Support,52,12,Closed,Process
+1383,Sales,Access Issue,High,2025-01-27,DataOps,62,48,Open,Automation
+1384,Compliance,Data Error,Medium,2025-02-24,Analytics Team,60,12,Closed,Reporting
+1385,Sales,Reporting Failure,Critical,2025-01-18,Analytics Team,32,24,Closed,Reporting
+1386,Compliance,Reporting Failure,Critical,2025-01-10,DevOps,55,24,Closed,Process
+1387,Operations,Reporting Failure,High,2025-04-26,DevOps,59,12,Open,System
+1388,Finance,System Bug,Low,2025-03-27,DataOps,43,12,Open,User Access
+1389,Engineering,System Bug,Critical,2025-02-11,IT Support,14,8,Closed,User Access
+1390,Finance,Reporting Failure,Medium,2025-02-05,Analytics Team,2,8,Closed,Process
+1391,Finance,Integration Error,High,2025-03-04,IT Support,72,24,Open,Automation
+1392,Finance,System Bug,Critical,2025-01-25,DataOps,14,48,Closed,Automation
+1393,Sales,Data Error,Medium,2025-03-09,Analytics Team,30,48,Open,System
+1394,Compliance,Access Issue,Low,2025-02-07,DataOps,40,12,Closed,Automation
+1395,Customer Support,System Bug,Medium,2025-04-28,IT Support,60,24,Closed,User Access
+1396,Sales,Data Error,Medium,2025-04-23,Process Team,36,8,Closed,Reporting
+1397,Customer Support,Data Error,Low,2025-02-28,Process Team,71,8,Closed,System
+1398,Customer Support,Reporting Failure,Critical,2025-02-21,IT Support,53,24,Closed,Process
+1399,Customer Support,Permission Issue,Critical,2025-01-14,Process Team,19,24,Closed,System
+1400,Marketing,Workflow Delay,High,2025-02-10,Analytics Team,14,36,Closed,Process
+1401,HR,Workflow Delay,Low,2025-04-29,IT Support,51,12,Closed,Reporting
+1402,Customer Support,Permission Issue,Medium,2025-01-18,DataOps,14,48,Closed,Reporting
+1403,Sales,Reporting Failure,Medium,2025-04-13,DataOps,25,48,Closed,Process
+1404,Compliance,Access Issue,High,2025-01-28,DataOps,55,36,Closed,Reporting
+1405,Finance,Permission Issue,Medium,2025-02-12,Analytics Team,29,48,Closed,Reporting
+1406,Engineering,Workflow Delay,Low,2025-02-05,DataOps,18,12,Closed,Reporting
+1407,Operations,Workflow Delay,Low,2025-04-13,DevOps,38,12,Open,User Access
+1408,Operations,Reporting Failure,Low,2025-01-24,DataOps,18,36,Closed,Reporting
+1409,Compliance,Access Issue,Medium,2025-01-03,Analytics Team,48,24,Open,User Access
+1410,Compliance,Access Issue,High,2025-02-25,IT Support,31,8,Open,Process
+1411,Customer Support,Permission Issue,Critical,2025-04-28,Analytics Team,40,36,Open,Process
+1412,Engineering,Reporting Failure,Low,2025-01-27,DataOps,19,48,Closed,User Access
+1413,Marketing,Permission Issue,High,2025-02-19,Analytics Team,7,36,Closed,Automation
+1414,Marketing,Reporting Failure,High,2025-01-02,Process Team,7,12,Closed,Automation
+1415,Sales,Workflow Delay,Low,2025-03-30,DataOps,24,36,Closed,User Access
+1416,Customer Support,Workflow Delay,Critical,2025-03-24,Process Team,22,48,Closed,Reporting
+1417,Finance,Workflow Delay,High,2025-01-04,DevOps,42,12,Closed,User Access
+1418,Customer Support,Workflow Delay,Critical,2025-02-20,DataOps,7,48,Open,Process
+1419,Operations,Integration Error,Medium,2025-03-12,IT Support,13,8,Closed,System
+1420,Sales,Workflow Delay,High,2025-04-21,IT Support,27,36,Closed,Automation
+1421,Operations,Reporting Failure,High,2025-04-16,DevOps,36,8,Open,User Access
+1422,HR,Data Error,Low,2025-01-16,Analytics Team,47,48,Closed,System
+1423,Marketing,Reporting Failure,Medium,2025-03-09,Analytics Team,13,12,Closed,User Access
+1424,Customer Support,Integration Error,Medium,2025-04-24,Analytics Team,42,48,Open,Automation
+1425,Engineering,Access Issue,Critical,2025-01-22,DevOps,45,8,Closed,Reporting
+1426,Marketing,System Bug,Medium,2025-01-04,Analytics Team,4,48,Closed,Reporting
+1427,Customer Support,Data Error,Low,2025-04-28,DataOps,46,8,Closed,User Access
+1428,Finance,System Bug,High,2025-04-27,DataOps,41,12,Open,Process
+1429,Customer Support,Reporting Failure,Critical,2025-02-04,DataOps,52,24,Closed,User Access
+1430,Customer Support,Access Issue,Low,2025-02-07,DevOps,57,48,Open,System
+1431,Marketing,System Bug,Low,2025-01-16,Analytics Team,48,12,Closed,Process
+1432,Engineering,System Bug,Low,2025-03-05,DataOps,32,8,Open,Automation
+1433,Operations,Integration Error,Low,2025-04-23,Analytics Team,44,48,Closed,Reporting
+1434,Customer Support,Access Issue,Critical,2025-01-26,IT Support,35,48,Open,Process
+1435,Operations,System Bug,Medium,2025-03-27,IT Support,67,24,Closed,User Access
+1436,Compliance,System Bug,Critical,2025-02-25,Analytics Team,32,8,Open,Automation
+1437,Customer Support,Integration Error,High,2025-04-04,DevOps,31,12,Closed,Process
+1438,Finance,Workflow Delay,Medium,2025-03-20,Analytics Team,43,8,Closed,Reporting
+1439,HR,System Bug,Medium,2025-02-23,Process Team,67,12,Closed,Reporting
+1440,Engineering,Reporting Failure,Critical,2025-04-06,DevOps,52,12,Closed,System
+1441,Sales,Access Issue,Low,2025-04-16,DevOps,26,24,Closed,Automation
+1442,Compliance,Integration Error,Critical,2025-04-26,DevOps,33,36,Closed,Process
+1443,Marketing,Integration Error,Low,2025-02-05,IT Support,45,12,Open,Process
+1444,HR,Access Issue,High,2025-03-18,IT Support,11,12,Closed,Reporting
+1445,HR,Access Issue,High,2025-01-22,Process Team,26,12,Closed,Reporting
+1446,Compliance,Workflow Delay,Low,2025-03-07,DevOps,21,24,Closed,Automation
+1447,Customer Support,Data Error,High,2025-02-20,Analytics Team,65,48,Closed,User Access
+1448,Customer Support,System Bug,High,2025-01-10,DevOps,1,24,Open,Process
+1449,Finance,Workflow Delay,High,2025-03-27,Process Team,35,8,Closed,System
+1450,Engineering,Access Issue,Low,2025-01-18,Process Team,22,48,Closed,User Access
+1451,Finance,System Bug,Medium,2025-04-27,Process Team,36,24,Closed,Process
+1452,Operations,Permission Issue,Low,2025-01-09,DataOps,44,48,Closed,Process
+1453,Sales,Integration Error,Low,2025-02-21,Analytics Team,39,36,Open,Process
+1454,Compliance,Data Error,Critical,2025-01-12,DevOps,52,24,Closed,System
+1455,Sales,Workflow Delay,Low,2025-01-06,Process Team,49,8,Closed,Reporting
+1456,Operations,Reporting Failure,Low,2025-02-18,Process Team,3,12,Open,Process
+1457,HR,System Bug,Medium,2025-02-15,DataOps,68,48,Closed,Reporting
+1458,Compliance,System Bug,Low,2025-04-15,DevOps,70,12,Closed,System
+1459,Operations,Data Error,Medium,2025-04-27,Analytics Team,28,36,Closed,User Access
+1460,Finance,Data Error,Critical,2025-04-10,IT Support,47,8,Closed,System
+1461,Finance,Workflow Delay,Low,2025-03-14,Process Team,34,24,Closed,User Access
+1462,Operations,Workflow Delay,Low,2025-04-06,IT Support,35,48,Closed,User Access
+1463,Sales,Integration Error,High,2025-02-12,IT Support,24,24,Open,User Access
+1464,Finance,Reporting Failure,High,2025-04-30,IT Support,2,36,Closed,Process
+1465,Sales,Workflow Delay,Critical,2025-04-03,DataOps,9,12,Open,User Access
+1466,HR,Reporting Failure,Low,2025-01-31,Analytics Team,46,12,Open,System
+1467,HR,Data Error,Medium,2025-01-23,DevOps,68,24,Open,System
+1468,Compliance,System Bug,Low,2025-04-22,IT Support,9,12,Closed,Process
+1469,Finance,Workflow Delay,Low,2025-02-03,DevOps,27,8,Closed,Automation
+1470,Finance,Access Issue,Critical,2025-02-08,Process Team,51,24,Closed,Process
+1471,Operations,Permission Issue,Critical,2025-03-23,DevOps,35,48,Closed,Process
+1472,Finance,Data Error,Low,2025-02-09,IT Support,28,8,Closed,Process
+1473,Engineering,Data Error,Critical,2025-04-07,DataOps,2,24,Closed,System
+1474,Finance,Reporting Failure,High,2025-03-03,DataOps,2,24,Closed,Process
+1475,Engineering,Access Issue,High,2025-04-03,Process Team,9,8,Closed,Reporting
+1476,Engineering,Permission Issue,Critical,2025-04-18,IT Support,8,8,Closed,User Access
+1477,Customer Support,Data Error,High,2025-01-18,Process Team,46,24,Open,Automation
+1478,Customer Support,Data Error,Critical,2025-01-23,IT Support,2,24,Closed,User Access
+1479,Operations,Permission Issue,Critical,2025-01-27,DevOps,30,8,Closed,Automation
+1480,Compliance,Reporting Failure,High,2025-01-14,DataOps,50,48,Closed,System
+1481,Sales,Permission Issue,High,2025-04-25,DevOps,29,12,Closed,Reporting
+1482,Finance,Reporting Failure,Critical,2025-02-26,Analytics Team,60,48,Open,Automation
+1483,Engineering,Reporting Failure,High,2025-01-28,Analytics Team,40,24,Closed,Reporting
+1484,Compliance,Permission Issue,Low,2025-02-25,Analytics Team,37,12,Open,Process
+1485,Operations,Workflow Delay,Critical,2025-01-29,Analytics Team,60,8,Closed,Process
+1486,Finance,Workflow Delay,High,2025-01-18,DevOps,28,8,Closed,Reporting
+1487,Compliance,Reporting Failure,Critical,2025-04-17,Analytics Team,15,24,Closed,Reporting
+1488,Marketing,Permission Issue,High,2025-01-27,DevOps,50,36,Closed,User Access
+1489,Finance,Data Error,High,2025-01-17,Analytics Team,19,8,Closed,Reporting
+1490,Customer Support,Permission Issue,High,2025-03-31,DevOps,60,24,Closed,Reporting
+1491,HR,Data Error,Medium,2025-01-09,DevOps,44,12,Open,System
+1492,Engineering,Access Issue,Critical,2025-01-29,DataOps,66,24,Closed,Automation
+1493,Marketing,Access Issue,Critical,2025-02-09,DataOps,57,8,Open,Process
+1494,HR,Integration Error,High,2025-05-01,DevOps,40,48,Open,Automation
+1495,Engineering,Permission Issue,High,2025-03-21,DevOps,7,12,Open,Process
+1496,Operations,Data Error,Critical,2025-01-05,DataOps,4,24,Closed,System
+1497,Operations,System Bug,Critical,2025-03-13,Analytics Team,65,12,Open,User Access
+1498,Finance,Access Issue,Medium,2025-03-25,Analytics Team,31,8,Open,Reporting
+1499,Customer Support,System Bug,High,2025-02-21,Analytics Team,56,12,Closed,User Access
+1500,Sales,Reporting Failure,Medium,2025-01-27,DataOps,24,12,Open,Process
+1501,Compliance,Data Error,Critical,2025-02-17,DevOps,28,48,Closed,Automation
+1502,Marketing,Integration Error,Low,2025-04-29,DevOps,45,24,Open,User Access
+1503,HR,System Bug,Low,2025-03-07,IT Support,58,24,Closed,User Access
+1504,Marketing,Reporting Failure,High,2025-02-16,IT Support,5,24,Closed,Reporting
+1505,Sales,Reporting Failure,Medium,2025-02-07,Analytics Team,52,48,Closed,System
+1506,Compliance,Reporting Failure,High,2025-03-23,Analytics Team,64,8,Closed,Automation
+1507,Finance,Integration Error,Low,2025-03-19,Analytics Team,64,12,Closed,Process
+1508,Marketing,Permission Issue,Medium,2025-03-02,Process Team,46,48,Open,Process
+1509,Finance,Data Error,Critical,2025-04-15,DataOps,31,8,Closed,System
+1510,Engineering,Reporting Failure,High,2025-03-05,IT Support,1,12,Closed,Automation
+1511,Sales,Reporting Failure,High,2025-02-05,DataOps,69,36,Open,Process
+1512,HR,Access Issue,High,2025-03-30,Process Team,68,8,Closed,Process
+1513,Marketing,Workflow Delay,Critical,2025-03-18,DataOps,4,24,Closed,User Access
+1514,Compliance,Reporting Failure,Low,2025-01-07,DevOps,54,12,Closed,Reporting
+1515,Operations,Reporting Failure,Low,2025-03-05,IT Support,67,48,Closed,System
+1516,Marketing,Integration Error,Low,2025-01-29,IT Support,39,36,Closed,Automation
+1517,Engineering,Integration Error,Medium,2025-01-12,Analytics Team,35,8,Closed,System
+1518,Sales,Workflow Delay,High,2025-02-26,DevOps,26,24,Closed,Process
+1519,Marketing,Workflow Delay,Critical,2025-04-05,DataOps,39,8,Closed,Reporting
+1520,HR,Integration Error,Medium,2025-04-12,Analytics Team,7,12,Open,Automation
+1521,Engineering,System Bug,Critical,2025-01-13,DevOps,45,48,Open,System
+1522,Sales,Access Issue,Medium,2025-02-27,DevOps,50,24,Closed,User Access
+1523,Marketing,Workflow Delay,Low,2025-03-15,IT Support,19,24,Closed,User Access
+1524,Operations,Workflow Delay,High,2025-03-18,DataOps,10,12,Closed,Automation
+1525,Compliance,Integration Error,Low,2025-01-23,IT Support,28,12,Closed,Automation
+1526,Customer Support,Workflow Delay,Critical,2025-04-08,DevOps,71,24,Closed,Reporting
+1527,Operations,Integration Error,High,2025-01-08,IT Support,22,24,Closed,Reporting
+1528,Compliance,Workflow Delay,Critical,2025-03-10,DevOps,16,8,Open,System
+1529,Engineering,Access Issue,Low,2025-01-08,IT Support,29,48,Closed,Automation
+1530,Engineering,Data Error,Low,2025-04-14,Process Team,1,8,Open,Process
+1531,Sales,System Bug,Critical,2025-03-05,Analytics Team,47,24,Closed,System
+1532,Engineering,Data Error,Low,2025-02-13,DataOps,58,8,Closed,System
+1533,Sales,Access Issue,Medium,2025-01-09,Process Team,16,48,Open,System
+1534,Engineering,Workflow Delay,Critical,2025-01-28,DevOps,51,24,Open,System
+1535,Customer Support,Access Issue,Low,2025-02-19,IT Support,50,36,Open,System
+1536,Operations,Access Issue,High,2025-03-04,Analytics Team,14,48,Closed,Process
+1537,Engineering,Data Error,Medium,2025-01-09,Process Team,14,48,Open,Process
+1538,Engineering,Data Error,Medium,2025-02-09,Process Team,26,24,Closed,System
+1539,Engineering,Reporting Failure,Medium,2025-03-10,Process Team,45,8,Closed,Automation
+1540,Engineering,Data Error,Medium,2025-01-30,DataOps,1,12,Closed,User Access
+1541,Compliance,Integration Error,Low,2025-01-06,Analytics Team,29,12,Closed,Automation
+1542,Customer Support,Reporting Failure,Critical,2025-03-19,DataOps,27,12,Open,User Access
+1543,Operations,Reporting Failure,Medium,2025-02-11,Analytics Team,6,48,Closed,Automation
+1544,HR,Permission Issue,Low,2025-05-01,IT Support,30,8,Closed,User Access
+1545,HR,System Bug,Medium,2025-02-05,IT Support,45,12,Closed,Process
+1546,Customer Support,System Bug,Medium,2025-01-24,Analytics Team,43,24,Closed,Automation
+1547,HR,Permission Issue,Critical,2025-02-06,IT Support,61,24,Open,Automation
+1548,Sales,Access Issue,Low,2025-01-19,IT Support,1,48,Open,User Access
+1549,Operations,Data Error,Critical,2025-03-24,DataOps,58,8,Open,System
+1550,Operations,Workflow Delay,Low,2025-04-20,IT Support,19,24,Open,User Access
+1551,Operations,Workflow Delay,Low,2025-04-03,Analytics Team,36,36,Closed,Reporting
+1552,Engineering,Data Error,High,2025-03-24,Process Team,64,48,Open,User Access
+1553,Operations,Reporting Failure,High,2025-02-18,IT Support,46,8,Open,Automation
+1554,HR,Data Error,Low,2025-02-13,Process Team,14,48,Open,Reporting
+1555,Engineering,System Bug,Medium,2025-03-20,IT Support,53,12,Open,Process
+1556,Finance,Reporting Failure,Medium,2025-01-17,IT Support,54,48,Closed,Reporting
+1557,HR,Workflow Delay,Critical,2025-04-15,DataOps,8,24,Open,User Access
+1558,Finance,Integration Error,Medium,2025-04-20,DevOps,28,24,Closed,Process
+1559,Engineering,Data Error,High,2025-01-16,IT Support,39,12,Closed,Process
+1560,Compliance,Workflow Delay,Critical,2025-03-17,Process Team,70,48,Closed,Automation
+1561,Compliance,Workflow Delay,High,2025-01-17,IT Support,11,48,Closed,Reporting
+1562,Operations,System Bug,Medium,2025-02-09,Process Team,21,24,Closed,System
+1563,Customer Support,Permission Issue,Critical,2025-04-14,IT Support,26,48,Closed,Automation
+1564,Engineering,Access Issue,Low,2025-04-02,IT Support,26,12,Closed,Process
+1565,HR,Integration Error,Medium,2025-03-13,DataOps,20,48,Closed,User Access
+1566,Compliance,Integration Error,Medium,2025-01-14,IT Support,18,8,Closed,Reporting
+1567,Compliance,System Bug,Critical,2025-04-09,Analytics Team,63,48,Closed,System
+1568,Customer Support,Permission Issue,Medium,2025-02-13,Analytics Team,71,8,Open,Automation
+1569,Customer Support,System Bug,Low,2025-04-30,DevOps,45,24,Closed,Automation
+1570,HR,Workflow Delay,High,2025-03-06,Process Team,21,12,Open,User Access
+1571,Customer Support,Integration Error,Medium,2025-02-23,IT Support,58,12,Closed,User Access
+1572,Marketing,Workflow Delay,Medium,2025-04-06,Process Team,26,48,Closed,System
+1573,Sales,System Bug,Medium,2025-02-11,Process Team,6,24,Closed,Process
+1574,Customer Support,Reporting Failure,Low,2025-03-18,IT Support,33,36,Closed,Process
+1575,Customer Support,Reporting Failure,Low,2025-01-19,DataOps,51,8,Closed,Reporting
+1576,HR,Integration Error,Medium,2025-01-08,IT Support,55,8,Closed,Reporting
+1577,Engineering,Data Error,Critical,2025-04-10,Analytics Team,12,8,Closed,System
+1578,Compliance,Access Issue,High,2025-04-12,DataOps,68,48,Closed,User Access
+1579,HR,System Bug,Low,2025-04-27,DevOps,47,8,Closed,User Access
+1580,Engineering,Integration Error,Medium,2025-02-12,Process Team,32,24,Closed,User Access
+1581,Customer Support,Workflow Delay,Medium,2025-01-13,IT Support,28,24,Closed,Process
+1582,HR,System Bug,Low,2025-01-04,Process Team,69,24,Open,User Access
+1583,Finance,Workflow Delay,Low,2025-03-22,DevOps,61,8,Closed,System
+1584,Customer Support,Data Error,Medium,2025-03-20,DevOps,62,24,Open,User Access
+1585,Operations,Workflow Delay,Critical,2025-02-19,DevOps,72,24,Closed,Reporting
+1586,Compliance,Permission Issue,Medium,2025-03-21,Analytics Team,3,24,Closed,User Access
+1587,Marketing,Integration Error,Low,2025-02-06,IT Support,27,48,Open,Automation
+1588,Finance,Workflow Delay,High,2025-04-02,IT Support,58,36,Closed,Process
+1589,Sales,Data Error,Medium,2025-01-03,Analytics Team,64,36,Open,Automation
+1590,HR,Data Error,Critical,2025-04-09,IT Support,20,24,Open,Automation
+1591,Compliance,Permission Issue,Medium,2025-02-21,IT Support,10,12,Closed,Automation
+1592,Customer Support,Access Issue,High,2025-03-07,IT Support,16,8,Closed,User Access
+1593,Finance,Workflow Delay,Medium,2025-01-05,Analytics Team,27,48,Closed,Reporting
+1594,Compliance,Access Issue,Critical,2025-03-21,IT Support,63,12,Open,Automation
+1595,Marketing,System Bug,High,2025-04-24,Analytics Team,13,8,Closed,Process
+1596,Operations,Data Error,Medium,2025-04-02,DevOps,43,36,Open,Reporting
+1597,Finance,System Bug,Medium,2025-01-23,DataOps,36,8,Closed,Reporting
+1598,Customer Support,System Bug,Critical,2025-01-18,Analytics Team,63,48,Closed,Reporting
+1599,Customer Support,Permission Issue,Low,2025-01-01,DataOps,1,12,Open,System
+1600,Sales,Workflow Delay,Critical,2025-03-29,DevOps,12,12,Closed,User Access
+1601,Operations,Access Issue,Medium,2025-01-07,Analytics Team,12,24,Closed,Process
+1602,HR,Workflow Delay,Critical,2025-04-05,DevOps,10,48,Closed,Process
+1603,HR,Data Error,Medium,2025-03-10,DevOps,23,8,Closed,User Access
+1604,Operations,Data Error,Low,2025-01-18,DevOps,9,12,Open,Reporting
+1605,Engineering,Access Issue,Low,2025-02-07,IT Support,5,8,Closed,Reporting
+1606,Operations,Integration Error,Low,2025-04-06,Analytics Team,15,48,Closed,Reporting
+1607,Compliance,Access Issue,High,2025-02-20,Analytics Team,31,48,Closed,User Access
+1608,Operations,Data Error,Critical,2025-01-11,IT Support,42,24,Closed,System
+1609,Finance,System Bug,Critical,2025-01-26,DataOps,20,12,Closed,Process
+1610,Finance,System Bug,Medium,2025-03-07,DevOps,9,36,Closed,Reporting
+1611,Marketing,Data Error,Low,2025-01-28,IT Support,29,36,Closed,User Access
+1612,Customer Support,Data Error,High,2025-01-04,DevOps,60,12,Closed,System
+1613,Customer Support,System Bug,Critical,2025-04-02,DevOps,7,8,Closed,User Access
+1614,Finance,Integration Error,Low,2025-03-13,Process Team,49,8,Open,Process
+1615,Customer Support,Workflow Delay,Medium,2025-02-22,IT Support,60,24,Closed,Process
+1616,Compliance,Integration Error,Low,2025-02-08,Analytics Team,65,8,Closed,Automation
+1617,Finance,Permission Issue,High,2025-04-14,Analytics Team,41,12,Closed,Process
+1618,Sales,Access Issue,High,2025-01-03,DataOps,59,12,Closed,User Access
+1619,Marketing,Permission Issue,Low,2025-04-09,Process Team,43,48,Closed,User Access
+1620,Customer Support,Data Error,Critical,2025-02-11,IT Support,48,36,Open,Reporting
+1621,Sales,Integration Error,Medium,2025-02-24,Process Team,52,12,Open,Process
+1622,Engineering,Permission Issue,Low,2025-04-16,IT Support,51,48,Closed,User Access
+1623,Customer Support,Data Error,High,2025-03-16,DataOps,42,24,Closed,Automation
+1624,HR,System Bug,Low,2025-01-15,IT Support,54,12,Closed,User Access
+1625,Compliance,Data Error,Medium,2025-04-26,DataOps,41,12,Open,System
+1626,HR,Reporting Failure,High,2025-03-28,Analytics Team,66,24,Closed,User Access
+1627,Marketing,Data Error,Critical,2025-03-09,IT Support,20,8,Closed,Reporting
+1628,Operations,Permission Issue,High,2025-03-05,DevOps,39,36,Closed,System
+1629,Compliance,Permission Issue,Low,2025-02-15,DataOps,4,8,Open,Reporting
+1630,Compliance,Access Issue,Low,2025-03-12,Analytics Team,8,12,Closed,User Access
+1631,Compliance,Reporting Failure,Critical,2025-01-09,IT Support,30,12,Closed,Process
+1632,Compliance,Reporting Failure,Medium,2025-01-19,DataOps,20,8,Closed,Process
+1633,Engineering,Data Error,Low,2025-01-09,DataOps,10,12,Closed,Automation
+1634,Marketing,Reporting Failure,Medium,2025-02-17,IT Support,22,48,Closed,Process
+1635,Engineering,Reporting Failure,High,2025-02-04,DevOps,71,12,Closed,User Access
+1636,Finance,System Bug,Low,2025-03-07,DevOps,11,24,Closed,User Access
+1637,Compliance,Data Error,Low,2025-02-02,Process Team,22,48,Open,Reporting
+1638,HR,System Bug,Critical,2025-02-18,IT Support,12,48,Closed,System
+1639,Marketing,System Bug,High,2025-02-09,Process Team,27,24,Closed,System
+1640,Finance,Permission Issue,High,2025-02-02,DataOps,63,12,Open,System
+1641,Finance,Workflow Delay,Critical,2025-01-17,DevOps,26,48,Closed,Automation
+1642,Customer Support,Access Issue,Low,2025-04-13,Process Team,48,8,Closed,System
+1643,Sales,Integration Error,Low,2025-03-08,DataOps,16,24,Closed,System
+1644,Engineering,Permission Issue,Low,2025-04-26,DataOps,24,8,Closed,Reporting
+1645,HR,Access Issue,Medium,2025-02-03,Analytics Team,56,12,Open,System
+1646,Marketing,System Bug,Low,2025-05-01,DataOps,47,12,Closed,Reporting
+1647,Finance,Reporting Failure,Critical,2025-01-21,IT Support,11,24,Closed,Reporting
+1648,Marketing,System Bug,Low,2025-03-29,DataOps,28,8,Closed,System
+1649,Operations,Workflow Delay,High,2025-03-18,IT Support,27,8,Closed,Automation
+1650,Sales,Data Error,Medium,2025-02-13,DevOps,1,8,Closed,Reporting
+1651,Engineering,Access Issue,Critical,2025-01-08,Process Team,23,24,Open,Process
+1652,Compliance,Permission Issue,Medium,2025-03-13,IT Support,27,24,Closed,Reporting
+1653,Operations,Access Issue,Low,2025-02-11,IT Support,11,24,Closed,User Access
+1654,Sales,Workflow Delay,High,2025-04-15,IT Support,47,48,Closed,Process
+1655,Sales,Permission Issue,High,2025-02-28,DataOps,25,48,Open,Reporting
+1656,Finance,Reporting Failure,High,2025-01-08,IT Support,49,48,Closed,System
+1657,Operations,Permission Issue,Medium,2025-02-19,Analytics Team,64,36,Open,System
+1658,Finance,Workflow Delay,High,2025-02-10,Process Team,33,36,Closed,User Access
+1659,Operations,Reporting Failure,High,2025-03-13,DataOps,10,8,Closed,Reporting
+1660,HR,Access Issue,Low,2025-02-17,IT Support,52,8,Open,Process
+1661,Sales,Data Error,Critical,2025-04-22,DevOps,40,12,Closed,Reporting
+1662,Engineering,Reporting Failure,High,2025-03-26,Process Team,38,12,Closed,Reporting
+1663,Finance,Integration Error,Low,2025-04-30,IT Support,14,8,Closed,Process
+1664,HR,Permission Issue,Medium,2025-03-31,DevOps,55,8,Closed,Automation
+1665,Engineering,Reporting Failure,Critical,2025-04-10,DataOps,40,12,Closed,System
+1666,Marketing,Data Error,High,2025-02-15,IT Support,18,24,Closed,System
+1667,Finance,Data Error,Medium,2025-01-17,DataOps,51,36,Closed,System
+1668,Finance,Workflow Delay,Low,2025-01-26,DevOps,64,12,Open,User Access
+1669,Operations,Workflow Delay,Critical,2025-03-12,DataOps,33,8,Closed,System
+1670,HR,Integration Error,Low,2025-04-05,Process Team,47,12,Closed,User Access
+1671,Finance,Reporting Failure,Low,2025-02-04,Process Team,9,12,Closed,Process
+1672,Operations,Integration Error,Critical,2025-02-02,DevOps,14,8,Closed,User Access
+1673,Customer Support,Reporting Failure,Critical,2025-02-23,DevOps,7,12,Open,Process
+1674,Compliance,Reporting Failure,High,2025-03-12,DataOps,39,36,Closed,User Access
+1675,Sales,Permission Issue,Critical,2025-02-25,DevOps,68,12,Open,Reporting
+1676,Customer Support,Reporting Failure,High,2025-04-16,Process Team,28,48,Open,Automation
+1677,Finance,Reporting Failure,Low,2025-01-16,Process Team,22,8,Closed,Reporting
+1678,Finance,Data Error,High,2025-03-09,DevOps,59,36,Closed,User Access
+1679,Customer Support,Access Issue,High,2025-01-28,Process Team,63,12,Closed,User Access
+1680,Engineering,Integration Error,Critical,2025-01-12,DataOps,46,24,Closed,Reporting
+1681,Compliance,Reporting Failure,High,2025-04-16,Process Team,21,8,Open,User Access
+1682,Finance,Reporting Failure,High,2025-03-28,Analytics Team,14,8,Closed,Automation
+1683,Operations,Integration Error,High,2025-04-11,DevOps,17,12,Open,System
+1684,Operations,Workflow Delay,Medium,2025-02-13,IT Support,18,48,Closed,User Access
+1685,Operations,Permission Issue,Low,2025-01-04,Process Team,21,12,Open,User Access
+1686,Finance,Data Error,Critical,2025-04-02,IT Support,12,12,Closed,Reporting
+1687,HR,Workflow Delay,Critical,2025-02-16,Process Team,1,24,Open,Process
+1688,Compliance,Workflow Delay,Critical,2025-02-16,DevOps,6,8,Closed,System
+1689,Engineering,Permission Issue,High,2025-04-19,DevOps,9,8,Closed,Automation
+1690,HR,Access Issue,Medium,2025-01-24,Analytics Team,48,24,Closed,System
+1691,Customer Support,Workflow Delay,High,2025-02-17,Process Team,28,24,Closed,User Access
+1692,Finance,Data Error,Medium,2025-03-23,Analytics Team,67,24,Closed,System
+1693,Sales,Integration Error,High,2025-03-08,Analytics Team,12,48,Closed,Process
+1694,Customer Support,Workflow Delay,Low,2025-04-20,IT Support,4,8,Closed,Automation
+1695,Sales,Workflow Delay,Medium,2025-03-03,DataOps,16,8,Closed,Automation
+1696,Marketing,Integration Error,Medium,2025-01-25,IT Support,35,12,Open,System
+1697,Operations,Permission Issue,Low,2025-02-04,DataOps,18,48,Open,System
+1698,HR,System Bug,Critical,2025-04-16,DataOps,44,12,Closed,Reporting
+1699,Sales,Reporting Failure,Medium,2025-01-20,Process Team,21,12,Open,User Access
+1700,Marketing,Access Issue,Low,2025-02-18,Analytics Team,38,24,Closed,Process
+1701,Finance,Workflow Delay,Medium,2025-04-10,DataOps,18,8,Closed,Process
+1702,Operations,Permission Issue,High,2025-04-15,DataOps,38,36,Closed,System
+1703,Compliance,System Bug,Medium,2025-02-18,DataOps,15,12,Closed,System
+1704,Finance,Reporting Failure,Critical,2025-03-15,DataOps,40,24,Closed,System
+1705,Engineering,Data Error,Medium,2025-01-10,Analytics Team,41,8,Closed,User Access
+1706,Sales,Data Error,High,2025-01-02,IT Support,35,48,Open,Reporting
+1707,Compliance,Access Issue,Critical,2025-01-12,IT Support,33,24,Closed,User Access
+1708,Finance,Access Issue,High,2025-03-07,Process Team,40,12,Closed,Process
+1709,Finance,Integration Error,Medium,2025-02-15,Process Team,2,24,Open,Process
+1710,Customer Support,Integration Error,High,2025-04-23,IT Support,18,48,Closed,System
+1711,HR,Reporting Failure,Medium,2025-04-10,DataOps,71,8,Closed,Reporting
+1712,Operations,Data Error,High,2025-04-14,IT Support,58,12,Closed,Process
+1713,Compliance,Access Issue,Medium,2025-03-08,Analytics Team,32,36,Closed,Automation
+1714,HR,Integration Error,Low,2025-02-25,IT Support,20,24,Open,User Access
+1715,Marketing,Permission Issue,High,2025-01-20,Process Team,22,12,Open,User Access
+1716,Marketing,Permission Issue,Critical,2025-03-11,Analytics Team,40,36,Closed,Automation
+1717,Compliance,Reporting Failure,High,2025-02-12,Analytics Team,7,12,Closed,Automation
+1718,Customer Support,Access Issue,High,2025-03-17,IT Support,20,12,Closed,User Access
+1719,Engineering,Access Issue,Critical,2025-01-09,DataOps,41,36,Closed,System
+1720,Sales,Access Issue,Low,2025-01-17,DevOps,58,12,Closed,Process
+1721,Marketing,Data Error,Low,2025-01-31,DataOps,42,36,Closed,System
+1722,Sales,Data Error,High,2025-03-10,Process Team,33,36,Closed,Reporting
+1723,Operations,Workflow Delay,Low,2025-04-27,Analytics Team,37,8,Closed,Reporting
+1724,Sales,Access Issue,High,2025-01-12,DevOps,6,48,Closed,Process
+1725,Operations,Permission Issue,Critical,2025-01-06,DevOps,38,48,Closed,Automation
+1726,Engineering,Workflow Delay,Critical,2025-02-02,Process Team,4,36,Closed,System
+1727,Compliance,Workflow Delay,Critical,2025-03-29,Analytics Team,18,48,Closed,Reporting
+1728,Customer Support,Permission Issue,Medium,2025-03-31,Analytics Team,48,8,Closed,User Access
+1729,Marketing,Integration Error,Low,2025-04-15,DataOps,31,48,Open,System
+1730,Customer Support,System Bug,Critical,2025-03-02,IT Support,26,48,Closed,User Access
+1731,Customer Support,Access Issue,High,2025-04-06,Process Team,35,36,Closed,System
+1732,HR,Reporting Failure,High,2025-01-17,Process Team,18,24,Closed,Automation
+1733,Marketing,System Bug,Critical,2025-04-01,IT Support,51,48,Closed,Automation
+1734,HR,Workflow Delay,High,2025-03-13,IT Support,65,48,Closed,Automation
+1735,Finance,Data Error,Medium,2025-04-21,Analytics Team,68,36,Closed,Reporting
+1736,Engineering,Workflow Delay,Critical,2025-04-05,Analytics Team,9,12,Closed,Process
+1737,Sales,Workflow Delay,Low,2025-01-29,DevOps,48,36,Closed,Automation
+1738,Engineering,Integration Error,Low,2025-01-20,Analytics Team,66,24,Closed,Reporting
+1739,Sales,Integration Error,Low,2025-03-21,Analytics Team,66,48,Closed,Automation
+1740,Finance,Integration Error,Low,2025-02-24,IT Support,40,8,Open,User Access
+1741,Customer Support,Workflow Delay,Critical,2025-03-24,Process Team,16,24,Closed,Automation
+1742,Compliance,Access Issue,High,2025-04-04,Process Team,24,24,Closed,User Access
+1743,Customer Support,Integration Error,Critical,2025-02-22,IT Support,31,8,Closed,Process
+1744,Customer Support,Reporting Failure,Low,2025-03-25,Process Team,66,24,Open,Reporting
+1745,Compliance,Data Error,Critical,2025-04-04,Process Team,9,36,Open,Process
+1746,Engineering,Reporting Failure,Medium,2025-03-21,DevOps,30,48,Open,User Access
+1747,HR,Access Issue,Medium,2025-04-01,Process Team,69,8,Open,Process
+1748,Engineering,Integration Error,Medium,2025-04-21,DevOps,31,8,Closed,Reporting
+1749,Operations,Integration Error,Medium,2025-04-26,Process Team,45,48,Open,System
+1750,Compliance,System Bug,Critical,2025-03-17,Process Team,12,36,Closed,Automation
+1751,Marketing,Data Error,Low,2025-03-08,DevOps,71,36,Closed,User Access
+1752,Customer Support,Permission Issue,Low,2025-03-21,DevOps,41,24,Closed,System
+1753,Compliance,Permission Issue,Critical,2025-04-30,DataOps,31,24,Closed,System
+1754,Sales,Permission Issue,Critical,2025-01-03,IT Support,33,8,Open,Reporting
+1755,Customer Support,Access Issue,Low,2025-04-07,DataOps,27,48,Closed,Process
+1756,Marketing,Integration Error,Medium,2025-02-20,DataOps,49,48,Closed,Process
+1757,Engineering,Integration Error,Critical,2025-03-30,Process Team,51,12,Closed,Automation
+1758,Operations,Workflow Delay,Low,2025-04-30,Process Team,70,8,Closed,Process
+1759,Customer Support,System Bug,Critical,2025-04-07,DataOps,28,36,Open,System
+1760,HR,System Bug,Low,2025-01-10,Process Team,37,48,Closed,Process
+1761,Compliance,Data Error,Critical,2025-01-14,Process Team,6,36,Closed,User Access
+1762,Customer Support,Reporting Failure,Medium,2025-01-04,DataOps,55,24,Closed,Process
+1763,HR,Permission Issue,High,2025-01-20,DataOps,44,24,Open,System
+1764,Sales,Workflow Delay,High,2025-03-29,IT Support,17,48,Open,Reporting
+1765,Engineering,Integration Error,Low,2025-01-15,Analytics Team,9,24,Closed,User Access
+1766,Compliance,Workflow Delay,Medium,2025-01-30,DataOps,10,48,Closed,Process
+1767,Compliance,System Bug,Low,2025-04-29,DataOps,39,12,Closed,User Access
+1768,Compliance,System Bug,Low,2025-03-15,Process Team,17,36,Open,Automation
+1769,Marketing,System Bug,Critical,2025-03-23,IT Support,49,8,Closed,User Access
+1770,Customer Support,Permission Issue,Critical,2025-01-12,DataOps,43,36,Closed,Reporting
+1771,HR,Workflow Delay,Medium,2025-03-09,Process Team,16,48,Open,User Access
+1772,Compliance,Integration Error,Low,2025-02-16,DataOps,21,24,Closed,Automation
+1773,HR,Workflow Delay,High,2025-01-31,DevOps,37,48,Closed,Reporting
+1774,Finance,Access Issue,Critical,2025-04-11,Analytics Team,60,12,Open,User Access
+1775,Customer Support,Data Error,Critical,2025-04-26,IT Support,62,36,Closed,System
+1776,HR,Access Issue,Low,2025-04-01,Process Team,49,12,Open,System
+1777,Finance,Integration Error,Medium,2025-01-18,Analytics Team,69,48,Closed,System
+1778,Operations,Workflow Delay,Medium,2025-02-14,IT Support,45,48,Open,Process
+1779,Customer Support,Integration Error,Medium,2025-01-12,DevOps,55,48,Closed,Process
+1780,Operations,Reporting Failure,Critical,2025-04-16,DevOps,43,8,Closed,Automation
+1781,Customer Support,Permission Issue,Critical,2025-02-02,Process Team,38,48,Closed,System
+1782,Operations,Workflow Delay,Low,2025-04-11,DataOps,33,8,Closed,User Access
+1783,Finance,Access Issue,Medium,2025-01-10,DevOps,32,36,Open,User Access
+1784,HR,Permission Issue,Medium,2025-02-05,Analytics Team,39,12,Open,Automation
+1785,Operations,Workflow Delay,Medium,2025-02-25,IT Support,21,48,Closed,Process
+1786,Engineering,Workflow Delay,High,2025-01-26,Analytics Team,59,24,Closed,Automation
+1787,Marketing,Reporting Failure,Medium,2025-01-22,DataOps,72,24,Closed,Process
+1788,Compliance,System Bug,Medium,2025-04-08,DataOps,5,12,Closed,User Access
+1789,Marketing,Permission Issue,Low,2025-04-03,DataOps,52,12,Closed,Automation
+1790,HR,Reporting Failure,Low,2025-04-09,Process Team,35,12,Closed,System
+1791,Customer Support,Permission Issue,Critical,2025-02-20,DataOps,30,24,Open,System
+1792,Engineering,Integration Error,High,2025-04-06,IT Support,10,36,Open,User Access
+1793,Marketing,Workflow Delay,High,2025-04-06,IT Support,62,12,Closed,User Access
+1794,Engineering,Integration Error,Critical,2025-02-25,DataOps,45,8,Closed,User Access
+1795,Finance,Reporting Failure,High,2025-04-25,DataOps,29,36,Open,User Access
+1796,Customer Support,System Bug,Medium,2025-03-11,DataOps,24,48,Open,Reporting
+1797,Sales,Reporting Failure,Medium,2025-02-02,DataOps,27,24,Closed,User Access
+1798,Engineering,Data Error,Critical,2025-04-29,IT Support,36,36,Closed,Reporting
+1799,Marketing,Permission Issue,Critical,2025-03-29,DataOps,8,24,Closed,System
+1800,HR,Permission Issue,Low,2025-04-19,DataOps,42,8,Closed,Reporting
+1801,Customer Support,Data Error,Medium,2025-03-17,DataOps,33,48,Closed,User Access
+1802,Marketing,System Bug,High,2025-04-14,Process Team,4,48,Closed,System
+1803,Sales,Integration Error,Medium,2025-03-03,DevOps,50,24,Closed,User Access
+1804,Compliance,Data Error,Critical,2025-04-09,Process Team,46,36,Closed,User Access
+1805,Marketing,Access Issue,Critical,2025-04-19,DevOps,67,48,Closed,User Access
+1806,Customer Support,Permission Issue,High,2025-03-13,Process Team,36,12,Closed,Automation
+1807,Customer Support,Permission Issue,Low,2025-03-17,DevOps,11,8,Closed,User Access
+1808,Compliance,Access Issue,Low,2025-01-12,Analytics Team,3,48,Closed,Reporting
+1809,Marketing,Permission Issue,Low,2025-02-28,Process Team,70,36,Closed,System
+1810,HR,Data Error,Low,2025-01-01,IT Support,5,8,Closed,Reporting
+1811,Compliance,Data Error,Medium,2025-02-21,DataOps,66,24,Open,Process
+1812,Compliance,Reporting Failure,High,2025-04-03,Process Team,33,48,Open,Reporting
+1813,Finance,Reporting Failure,Medium,2025-04-11,IT Support,19,24,Closed,System
+1814,Finance,Integration Error,Critical,2025-04-24,DataOps,9,8,Closed,System
+1815,Marketing,Access Issue,High,2025-02-17,DevOps,10,24,Closed,User Access
+1816,Operations,System Bug,Low,2025-02-20,DevOps,15,12,Open,System
+1817,Engineering,Reporting Failure,Critical,2025-01-13,Analytics Team,68,12,Open,Reporting
+1818,Compliance,Reporting Failure,Low,2025-04-27,Analytics Team,12,48,Closed,System
+1819,Customer Support,Integration Error,Low,2025-04-13,Process Team,25,12,Closed,User Access
+1820,Marketing,Integration Error,High,2025-03-06,IT Support,70,24,Closed,System
+1821,Compliance,Permission Issue,High,2025-02-02,DataOps,70,36,Closed,Process
+1822,Engineering,Permission Issue,Low,2025-04-06,DevOps,35,36,Closed,User Access
+1823,Marketing,Permission Issue,High,2025-01-29,IT Support,33,12,Closed,User Access
+1824,Finance,Access Issue,Critical,2025-02-08,IT Support,31,8,Closed,Process
+1825,Sales,Data Error,Low,2025-02-06,DataOps,4,8,Open,Process
+1826,Engineering,System Bug,Medium,2025-02-08,DevOps,69,8,Closed,Reporting
+1827,Customer Support,System Bug,Low,2025-02-19,DataOps,26,12,Open,Automation
+1828,Customer Support,Workflow Delay,High,2025-02-11,DevOps,21,48,Open,System
+1829,Marketing,Reporting Failure,High,2025-01-16,DevOps,72,48,Open,Process
+1830,Operations,Integration Error,Low,2025-01-29,DevOps,2,24,Closed,User Access
+1831,Customer Support,Integration Error,High,2025-01-14,Analytics Team,37,8,Closed,Automation
+1832,Finance,Integration Error,High,2025-02-02,Process Team,68,36,Open,Automation
+1833,Operations,Access Issue,Low,2025-03-09,DataOps,68,24,Closed,User Access
+1834,Engineering,Data Error,Medium,2025-03-31,Process Team,72,36,Open,Reporting
+1835,Finance,System Bug,High,2025-03-12,DevOps,43,12,Closed,Automation
+1836,Sales,System Bug,High,2025-02-19,Process Team,68,12,Open,Automation
+1837,Customer Support,Workflow Delay,Critical,2025-03-11,DataOps,53,8,Closed,Automation
+1838,HR,Access Issue,High,2025-03-22,Process Team,32,36,Open,Reporting
+1839,Marketing,Data Error,High,2025-02-01,Process Team,10,12,Closed,Process
+1840,Marketing,Integration Error,Critical,2025-02-10,DataOps,42,24,Open,Reporting
+1841,HR,Workflow Delay,Critical,2025-03-26,DataOps,9,8,Closed,Reporting
+1842,Customer Support,Data Error,High,2025-04-10,Process Team,24,8,Closed,User Access
+1843,Operations,Access Issue,Critical,2025-04-06,Analytics Team,35,36,Closed,Automation
+1844,Customer Support,System Bug,Low,2025-03-11,DevOps,49,8,Closed,User Access
+1845,Customer Support,System Bug,Medium,2025-04-09,Process Team,54,48,Closed,System
+1846,Compliance,System Bug,High,2025-02-10,IT Support,58,48,Open,User Access
+1847,Operations,Access Issue,High,2025-04-18,DevOps,58,12,Closed,Automation
+1848,HR,Workflow Delay,Medium,2025-03-21,Analytics Team,9,36,Closed,System
+1849,Customer Support,Data Error,Medium,2025-02-13,IT Support,58,48,Closed,Process
+1850,Engineering,Permission Issue,Low,2025-01-31,DevOps,16,48,Closed,System
+1851,Customer Support,Permission Issue,High,2025-01-31,DevOps,52,24,Closed,Reporting
+1852,Compliance,Data Error,High,2025-02-27,DevOps,56,36,Closed,Process
+1853,Sales,System Bug,Medium,2025-03-17,DevOps,14,8,Closed,System
+1854,Compliance,System Bug,Medium,2025-01-16,DataOps,47,12,Open,System
+1855,HR,Integration Error,Low,2025-02-22,Process Team,64,12,Open,Process
+1856,HR,System Bug,High,2025-03-20,IT Support,2,48,Closed,Reporting
+1857,HR,Access Issue,Low,2025-01-03,IT Support,33,24,Closed,System
+1858,Sales,Integration Error,Medium,2025-04-25,IT Support,38,36,Closed,Reporting
+1859,Finance,Access Issue,High,2025-02-05,Analytics Team,29,8,Closed,Reporting
+1860,Operations,Access Issue,Critical,2025-01-06,Analytics Team,54,8,Open,Reporting
+1861,Finance,Workflow Delay,Medium,2025-01-10,IT Support,65,48,Open,Process
+1862,Compliance,Permission Issue,Medium,2025-03-26,Analytics Team,55,24,Closed,User Access
+1863,Marketing,Permission Issue,Medium,2025-04-27,IT Support,41,48,Closed,Reporting
+1864,Marketing,System Bug,Critical,2025-04-25,IT Support,2,36,Closed,User Access
+1865,Sales,Reporting Failure,High,2025-02-19,Process Team,28,24,Closed,Reporting
+1866,Sales,Permission Issue,Critical,2025-04-29,DevOps,68,24,Closed,Process
+1867,Engineering,Workflow Delay,High,2025-01-03,Process Team,17,8,Closed,Process
+1868,Operations,Reporting Failure,High,2025-03-15,Analytics Team,61,24,Closed,Process
+1869,Operations,System Bug,Low,2025-01-11,DataOps,34,24,Closed,Reporting
+1870,Finance,Integration Error,High,2025-03-22,Process Team,60,12,Open,System
+1871,HR,Access Issue,Low,2025-04-24,DataOps,29,12,Closed,System
+1872,Engineering,Integration Error,Medium,2025-02-07,Process Team,68,36,Closed,User Access
+1873,HR,Access Issue,Medium,2025-01-21,Process Team,62,36,Closed,Process
+1874,Operations,Reporting Failure,Low,2025-04-26,Analytics Team,72,48,Closed,System
+1875,Sales,Reporting Failure,High,2025-03-25,Analytics Team,11,36,Closed,Process
+1876,Finance,Permission Issue,High,2025-04-19,Analytics Team,52,24,Open,Automation
+1877,Compliance,System Bug,Medium,2025-03-13,Process Team,1,12,Closed,Automation
+1878,Engineering,Integration Error,Low,2025-01-30,Analytics Team,71,8,Closed,Process
+1879,Engineering,System Bug,Critical,2025-02-26,Process Team,71,48,Closed,Process
+1880,Engineering,Reporting Failure,High,2025-03-07,Analytics Team,20,36,Closed,Reporting
+1881,Customer Support,Data Error,Low,2025-02-02,DataOps,23,36,Open,System
+1882,Engineering,Permission Issue,Medium,2025-04-25,DevOps,55,36,Closed,User Access
+1883,Sales,Permission Issue,Critical,2025-02-25,Analytics Team,37,8,Closed,User Access
+1884,Finance,Access Issue,Medium,2025-01-12,Process Team,23,8,Closed,Process
+1885,Compliance,Reporting Failure,High,2025-03-30,DevOps,21,12,Closed,User Access
+1886,Marketing,System Bug,Medium,2025-03-29,DevOps,15,36,Closed,Process
+1887,Customer Support,Workflow Delay,Low,2025-05-01,IT Support,43,48,Open,System
+1888,Sales,Workflow Delay,Low,2025-03-29,IT Support,26,48,Closed,Automation
+1889,Compliance,Integration Error,Medium,2025-04-13,Process Team,39,8,Closed,User Access
+1890,Marketing,Permission Issue,Medium,2025-02-08,IT Support,31,48,Open,Automation
+1891,Finance,Access Issue,Critical,2025-01-23,DataOps,40,8,Open,System
+1892,Compliance,Integration Error,High,2025-01-05,IT Support,24,24,Open,System
+1893,Finance,System Bug,Critical,2025-01-10,Process Team,49,24,Open,Process
+1894,Compliance,System Bug,Low,2025-03-18,DataOps,38,8,Closed,Reporting
+1895,Marketing,Access Issue,High,2025-04-17,Process Team,25,48,Closed,Automation
+1896,Customer Support,System Bug,High,2025-02-03,DataOps,7,8,Closed,Automation
+1897,Finance,Permission Issue,Low,2025-02-24,IT Support,3,36,Open,Automation
+1898,Compliance,System Bug,Critical,2025-02-27,DataOps,39,48,Closed,Process
+1899,Engineering,Access Issue,High,2025-03-10,Process Team,6,8,Closed,Process
+1900,Marketing,Integration Error,Low,2025-03-17,DataOps,72,48,Closed,Reporting
+1901,Sales,Permission Issue,Medium,2025-04-08,IT Support,44,36,Open,User Access
+1902,Customer Support,Access Issue,Low,2025-02-20,IT Support,65,12,Closed,Automation
+1903,Operations,Reporting Failure,High,2025-01-13,DevOps,49,12,Open,System
+1904,Finance,Reporting Failure,Low,2025-04-16,IT Support,70,24,Closed,Automation
+1905,Marketing,Integration Error,Low,2025-01-11,Analytics Team,52,8,Closed,Reporting
+1906,Customer Support,System Bug,Low,2025-02-17,DataOps,36,12,Open,Reporting
+1907,Finance,Integration Error,High,2025-01-01,DataOps,42,12,Closed,Reporting
+1908,Engineering,Reporting Failure,Low,2025-04-18,Analytics Team,31,24,Closed,Reporting
+1909,Compliance,Workflow Delay,Low,2025-04-19,Analytics Team,6,12,Closed,System
+1910,Sales,Integration Error,Low,2025-04-29,IT Support,50,8,Closed,Automation
+1911,Operations,Permission Issue,Low,2025-01-22,DataOps,37,36,Open,User Access
+1912,Operations,Integration Error,High,2025-01-13,Process Team,27,48,Closed,Automation
+1913,Sales,System Bug,Low,2025-02-24,Process Team,9,12,Closed,Process
+1914,Operations,Integration Error,Low,2025-04-23,Analytics Team,26,12,Closed,User Access
+1915,Marketing,System Bug,High,2025-02-13,DataOps,13,12,Closed,Process
+1916,HR,Reporting Failure,Low,2025-04-08,Process Team,2,48,Closed,Reporting
+1917,Compliance,Access Issue,High,2025-01-12,IT Support,34,48,Closed,System
+1918,Customer Support,Workflow Delay,High,2025-01-17,IT Support,50,12,Closed,Process
+1919,Finance,Reporting Failure,Medium,2025-01-24,DevOps,29,48,Open,Process
+1920,Finance,Reporting Failure,High,2025-04-29,DevOps,24,48,Closed,User Access
+1921,Marketing,Workflow Delay,Critical,2025-01-27,DevOps,57,12,Open,User Access
+1922,Sales,Permission Issue,High,2025-03-06,Analytics Team,43,48,Closed,Automation
+1923,Sales,Workflow Delay,Critical,2025-01-31,DataOps,71,36,Closed,System
+1924,HR,Access Issue,Critical,2025-03-14,Process Team,68,24,Closed,User Access
+1925,HR,Reporting Failure,Critical,2025-04-26,IT Support,24,8,Open,Process
+1926,Operations,Data Error,Low,2025-03-24,Process Team,29,36,Closed,Process
+1927,Operations,Integration Error,High,2025-04-12,DataOps,37,8,Closed,Process
+1928,HR,Access Issue,Medium,2025-04-16,Analytics Team,60,8,Closed,Reporting
+1929,Marketing,System Bug,Critical,2025-01-01,Analytics Team,30,24,Open,System
+1930,Customer Support,Permission Issue,Medium,2025-03-12,IT Support,30,36,Closed,Reporting
+1931,Compliance,Access Issue,High,2025-04-22,DataOps,71,36,Closed,Process
+1932,Sales,System Bug,Critical,2025-04-04,Analytics Team,18,36,Closed,Automation
+1933,Finance,Data Error,High,2025-03-18,Process Team,51,12,Closed,Process
+1934,Engineering,Access Issue,Critical,2025-02-13,Process Team,55,36,Closed,System
+1935,Marketing,Integration Error,Critical,2025-01-19,DataOps,5,12,Open,Automation
+1936,Marketing,Data Error,Low,2025-03-21,IT Support,21,8,Closed,Reporting
+1937,Finance,Reporting Failure,Low,2025-03-23,Process Team,29,12,Closed,Reporting
+1938,Sales,Access Issue,Critical,2025-03-27,IT Support,46,24,Closed,System
+1939,Customer Support,System Bug,Low,2025-04-25,Process Team,23,8,Closed,User Access
+1940,Engineering,Data Error,High,2025-03-01,DevOps,59,48,Open,User Access
+1941,Engineering,Access Issue,Medium,2025-02-23,Process Team,19,48,Closed,System
+1942,Customer Support,Workflow Delay,Low,2025-03-20,DevOps,59,12,Closed,System
+1943,Engineering,Integration Error,High,2025-02-25,Process Team,35,12,Open,Reporting
+1944,Customer Support,Permission Issue,High,2025-03-05,Process Team,26,24,Closed,User Access
+1945,Finance,Reporting Failure,Critical,2025-01-04,DataOps,27,36,Closed,Reporting
+1946,Finance,System Bug,Medium,2025-04-27,DataOps,47,12,Closed,Automation
+1947,Sales,Access Issue,Critical,2025-05-01,IT Support,43,48,Closed,Automation
+1948,Compliance,System Bug,Medium,2025-03-24,DevOps,47,8,Closed,System
+1949,Marketing,Access Issue,Medium,2025-02-09,IT Support,39,24,Open,Automation
+1950,Customer Support,Data Error,Medium,2025-03-26,Analytics Team,5,12,Closed,User Access
+1951,Engineering,Workflow Delay,Medium,2025-03-07,DataOps,47,48,Closed,Process
+1952,Marketing,Access Issue,Low,2025-03-19,Process Team,46,48,Closed,User Access
+1953,Compliance,Workflow Delay,Critical,2025-04-30,IT Support,8,12,Closed,User Access
+1954,Engineering,Data Error,Medium,2025-04-05,Analytics Team,72,36,Closed,System
+1955,Engineering,Reporting Failure,Low,2025-01-21,Process Team,46,12,Open,Reporting
+1956,Marketing,Workflow Delay,Medium,2025-03-14,Analytics Team,43,8,Open,Automation
+1957,Marketing,Integration Error,Critical,2025-03-31,DataOps,39,12,Closed,Process
+1958,Engineering,Permission Issue,High,2025-04-22,DataOps,12,48,Closed,User Access
+1959,HR,Permission Issue,Low,2025-01-21,IT Support,1,48,Closed,Reporting
+1960,Finance,Permission Issue,High,2025-02-26,DevOps,51,24,Closed,System
+1961,Operations,Access Issue,High,2025-04-29,DataOps,64,24,Open,Process
+1962,Marketing,Access Issue,High,2025-02-23,Analytics Team,8,12,Closed,Reporting
+1963,Engineering,Reporting Failure,Medium,2025-03-15,DevOps,18,48,Closed,Automation
+1964,Finance,Data Error,Critical,2025-01-14,Analytics Team,5,24,Closed,Reporting
+1965,Operations,Reporting Failure,Low,2025-02-18,DataOps,21,12,Open,Process
+1966,Finance,Integration Error,Medium,2025-03-29,DevOps,13,8,Closed,Automation
+1967,Sales,Access Issue,Critical,2025-02-13,DataOps,59,8,Closed,Reporting
+1968,Customer Support,Access Issue,Critical,2025-03-08,Process Team,72,12,Closed,Reporting
+1969,Compliance,Integration Error,Critical,2025-03-03,Analytics Team,24,48,Open,Reporting
+1970,Sales,Permission Issue,High,2025-02-19,Process Team,67,8,Closed,User Access
+1971,Marketing,Permission Issue,Medium,2025-03-01,Analytics Team,56,8,Closed,Automation
+1972,Engineering,Permission Issue,High,2025-02-09,IT Support,69,12,Closed,Reporting
+1973,Engineering,Reporting Failure,High,2025-01-24,Process Team,39,12,Closed,System
+1974,Marketing,Permission Issue,Low,2025-04-25,DevOps,24,8,Closed,Automation
+1975,Marketing,Permission Issue,High,2025-03-06,DevOps,67,12,Closed,System
+1976,Finance,Access Issue,Medium,2025-03-20,IT Support,11,8,Closed,User Access
+1977,Finance,Access Issue,Medium,2025-01-07,Analytics Team,30,24,Open,User Access
+1978,Compliance,Reporting Failure,Medium,2025-04-02,DevOps,6,48,Closed,System
+1979,Sales,System Bug,Critical,2025-01-17,DataOps,58,12,Closed,User Access
+1980,Customer Support,Workflow Delay,Critical,2025-04-14,Process Team,1,24,Closed,System
+1981,Marketing,Data Error,Low,2025-03-18,Process Team,70,48,Closed,Automation
+1982,Sales,Access Issue,Critical,2025-01-31,Analytics Team,44,24,Closed,Process
+1983,Compliance,Reporting Failure,High,2025-02-20,DevOps,11,8,Closed,Reporting
+1984,Compliance,Access Issue,Low,2025-04-24,Analytics Team,58,48,Closed,System
+1985,Sales,Reporting Failure,High,2025-02-17,IT Support,72,12,Closed,User Access
+1986,Customer Support,Integration Error,Critical,2025-03-03,IT Support,68,48,Closed,Automation
+1987,Engineering,System Bug,Medium,2025-02-26,Process Team,1,12,Open,Reporting
+1988,Operations,Workflow Delay,High,2025-03-18,DataOps,22,12,Closed,User Access
+1989,HR,Permission Issue,Low,2025-03-08,DataOps,27,12,Closed,Automation
+1990,Finance,Reporting Failure,Medium,2025-03-19,IT Support,24,48,Closed,Automation
+1991,Customer Support,Data Error,Medium,2025-02-28,DevOps,24,8,Closed,Reporting
+1992,Sales,Permission Issue,Low,2025-03-22,Analytics Team,55,36,Closed,Process
+1993,Finance,Access Issue,Low,2025-01-31,DataOps,54,48,Open,Process
+1994,HR,System Bug,Medium,2025-03-14,DataOps,26,24,Closed,System
+1995,Finance,Data Error,Medium,2025-01-01,DataOps,15,36,Closed,Process
+1996,Marketing,Data Error,Medium,2025-04-22,Process Team,60,24,Closed,User Access
+1997,Finance,Data Error,Low,2025-04-08,DevOps,19,24,Closed,User Access
+1998,Sales,System Bug,Low,2025-01-05,DevOps,36,36,Closed,System
+1999,Customer Support,Permission Issue,Low,2025-02-25,Analytics Team,2,8,Closed,User Access
+2000,Marketing,Access Issue,Critical,2025-04-19,Process Team,35,36,Closed,System
+2001,Customer Support,Workflow Delay,Low,2025-03-12,DevOps,53,8,Open,Reporting
+2002,Customer Support,Reporting Failure,High,2025-04-12,DataOps,12,48,Closed,User Access
+2003,Marketing,Reporting Failure,Medium,2025-04-05,IT Support,4,24,Closed,Reporting
+2004,Engineering,Permission Issue,Medium,2025-02-25,DataOps,34,8,Closed,System
+2005,Engineering,Reporting Failure,Critical,2025-04-21,Process Team,47,36,Closed,System
+2006,Sales,Data Error,Medium,2025-04-03,DevOps,39,48,Open,System
+2007,Customer Support,System Bug,Medium,2025-03-10,DataOps,51,24,Closed,Automation
+2008,Engineering,Data Error,Critical,2025-02-18,Process Team,69,12,Closed,Reporting
+2009,Marketing,Data Error,Low,2025-01-12,Process Team,55,8,Open,Automation
+2010,Operations,Data Error,Medium,2025-01-17,DevOps,65,8,Closed,User Access
+2011,Finance,Reporting Failure,Low,2025-03-09,Analytics Team,41,8,Closed,Process
+2012,Marketing,Reporting Failure,Low,2025-04-07,Analytics Team,37,36,Closed,Process
+2013,Engineering,Access Issue,Low,2025-03-12,Process Team,46,12,Closed,Reporting
+2014,Finance,Access Issue,Critical,2025-02-02,DevOps,39,12,Closed,User Access
+2015,Finance,Permission Issue,High,2025-03-23,Analytics Team,48,8,Closed,Reporting
+2016,HR,System Bug,Medium,2025-02-25,DevOps,65,36,Open,System
+2017,Engineering,Reporting Failure,Critical,2025-01-25,DevOps,54,36,Closed,Reporting
+2018,Compliance,Integration Error,High,2025-01-16,DataOps,19,48,Closed,Process
+2019,Operations,Integration Error,High,2025-02-22,IT Support,14,48,Closed,User Access
+2020,Sales,System Bug,Critical,2025-05-01,DevOps,14,8,Closed,Process
+2021,Sales,Workflow Delay,Medium,2025-04-26,DataOps,10,24,Closed,System
+2022,Customer Support,Permission Issue,Low,2025-04-10,Analytics Team,30,48,Open,Process
+2023,Engineering,Data Error,Critical,2025-01-13,Analytics Team,69,8,Open,Automation
+2024,Engineering,Access Issue,Medium,2025-01-21,DataOps,14,24,Closed,Process
+2025,Marketing,Reporting Failure,Low,2025-04-19,DevOps,60,48,Closed,System
+2026,Operations,Reporting Failure,Critical,2025-04-14,Analytics Team,12,36,Closed,Automation
+2027,Marketing,Reporting Failure,Low,2025-01-01,Analytics Team,21,12,Closed,Automation
+2028,Engineering,Access Issue,Low,2025-04-19,DataOps,16,8,Closed,Reporting
+2029,HR,Permission Issue,Medium,2025-01-19,DataOps,59,24,Closed,System
+2030,Engineering,System Bug,Medium,2025-04-30,IT Support,70,12,Closed,System
+2031,HR,Data Error,Critical,2025-02-21,Analytics Team,10,24,Closed,System
+2032,Operations,System Bug,Critical,2025-02-05,DataOps,6,12,Closed,System
+2033,Engineering,Data Error,Critical,2025-03-01,Analytics Team,41,24,Closed,System
+2034,Engineering,Data Error,Low,2025-02-05,DevOps,21,48,Open,Process
+2035,HR,Reporting Failure,Critical,2025-04-12,Analytics Team,58,12,Closed,System
+2036,Marketing,Workflow Delay,Low,2025-01-16,DevOps,66,24,Closed,Reporting
+2037,Operations,Access Issue,High,2025-01-05,Analytics Team,52,36,Closed,User Access
+2038,Customer Support,Reporting Failure,High,2025-01-11,IT Support,19,24,Closed,Process
+2039,HR,Access Issue,Medium,2025-04-19,IT Support,32,48,Closed,User Access
+2040,Marketing,Permission Issue,Critical,2025-01-28,IT Support,72,48,Closed,Automation
+2041,Compliance,System Bug,Medium,2025-03-07,IT Support,39,12,Closed,Process
+2042,Customer Support,Reporting Failure,Medium,2025-04-22,IT Support,27,36,Closed,Process
+2043,Finance,Access Issue,Medium,2025-03-24,Process Team,34,24,Open,Process
+2044,Engineering,Permission Issue,High,2025-02-09,IT Support,28,36,Open,User Access
+2045,Compliance,System Bug,Medium,2025-02-13,Analytics Team,65,36,Closed,Reporting
+2046,Engineering,Permission Issue,Low,2025-02-15,Analytics Team,44,12,Closed,User Access
+2047,Finance,Permission Issue,High,2025-03-03,IT Support,33,36,Closed,Process
+2048,HR,Permission Issue,Low,2025-03-06,Process Team,11,48,Closed,Process
+2049,HR,Workflow Delay,Medium,2025-04-07,DataOps,59,24,Open,Reporting
+2050,Engineering,Permission Issue,Medium,2025-01-01,IT Support,13,8,Closed,User Access
+2051,Finance,Permission Issue,Medium,2025-01-14,IT Support,57,12,Open,System
+2052,Finance,Reporting Failure,Medium,2025-01-31,DevOps,24,8,Closed,Process
+2053,Sales,Permission Issue,High,2025-03-10,DataOps,57,48,Closed,User Access
+2054,Operations,Access Issue,Critical,2025-01-18,Process Team,14,12,Open,Process
+2055,Engineering,Workflow Delay,Low,2025-03-29,Analytics Team,64,24,Closed,Automation
+2056,Sales,Permission Issue,Low,2025-01-23,Process Team,48,8,Open,Reporting
+2057,Finance,System Bug,High,2025-02-23,DevOps,55,12,Closed,System
+2058,HR,Reporting Failure,High,2025-04-20,Process Team,3,36,Closed,User Access
+2059,HR,Workflow Delay,Low,2025-04-08,Analytics Team,16,36,Closed,Process
+2060,HR,Data Error,Critical,2025-03-31,DataOps,72,48,Closed,Process
+2061,Customer Support,Access Issue,High,2025-02-23,Analytics Team,24,48,Closed,User Access
+2062,Engineering,System Bug,Low,2025-04-26,Process Team,21,48,Open,Process
+2063,Customer Support,Permission Issue,Critical,2025-01-21,Analytics Team,10,8,Closed,Automation
+2064,Engineering,System Bug,High,2025-04-07,Process Team,35,8,Closed,Automation
+2065,Customer Support,Access Issue,Low,2025-03-11,DataOps,34,48,Closed,Automation
+2066,Finance,Reporting Failure,Medium,2025-02-22,DevOps,3,24,Closed,System
+2067,Customer Support,Permission Issue,High,2025-04-23,Process Team,34,48,Closed,User Access
+2068,Engineering,Integration Error,Critical,2025-02-02,Analytics Team,39,36,Closed,Reporting
+2069,Customer Support,Workflow Delay,Medium,2025-03-14,DataOps,52,12,Open,User Access
+2070,Marketing,Integration Error,Critical,2025-05-01,DevOps,63,12,Closed,System
+2071,Marketing,Workflow Delay,High,2025-04-11,DataOps,49,8,Open,User Access
+2072,Operations,Permission Issue,Critical,2025-01-12,Process Team,3,24,Closed,Reporting
+2073,Compliance,Reporting Failure,Critical,2025-03-02,Analytics Team,44,12,Closed,System
+2074,Finance,Access Issue,Low,2025-02-09,Process Team,7,36,Open,User Access
+2075,Finance,Reporting Failure,Critical,2025-04-19,IT Support,30,36,Closed,Automation
+2076,Sales,System Bug,Low,2025-03-05,Analytics Team,38,8,Open,User Access
+2077,Customer Support,Workflow Delay,High,2025-01-22,DevOps,26,12,Closed,Reporting
+2078,Finance,System Bug,Medium,2025-04-20,Analytics Team,8,8,Open,Automation
+2079,Compliance,System Bug,High,2025-01-10,DevOps,24,24,Open,User Access
+2080,Compliance,Integration Error,Medium,2025-01-17,Analytics Team,13,36,Closed,User Access
+2081,Engineering,Access Issue,Critical,2025-04-18,IT Support,49,12,Closed,Automation
+2082,Engineering,Integration Error,Low,2025-04-02,IT Support,30,8,Closed,User Access
+2083,Operations,Permission Issue,Critical,2025-03-16,Process Team,46,36,Closed,Reporting
+2084,Engineering,Integration Error,High,2025-01-13,Analytics Team,49,12,Closed,System
+2085,Finance,Data Error,High,2025-04-20,DataOps,7,8,Closed,Process
+2086,Customer Support,Access Issue,High,2025-04-01,Process Team,17,12,Closed,Automation
+2087,Marketing,Integration Error,High,2025-01-07,Process Team,53,24,Closed,System
+2088,Engineering,Reporting Failure,Low,2025-03-15,DevOps,30,8,Closed,Process
+2089,HR,Permission Issue,High,2025-04-24,Analytics Team,45,48,Closed,System
+2090,Sales,Workflow Delay,Medium,2025-04-02,IT Support,31,8,Open,System
+2091,Finance,Access Issue,Medium,2025-04-28,Process Team,43,24,Closed,Process
+2092,Customer Support,Integration Error,Medium,2025-01-30,DevOps,21,8,Closed,Reporting
+2093,Compliance,System Bug,Low,2025-03-05,IT Support,46,12,Closed,System
+2094,HR,Data Error,High,2025-04-16,DataOps,36,48,Closed,Reporting
+2095,Engineering,Data Error,Low,2025-03-30,Analytics Team,52,8,Closed,Process
+2096,Customer Support,Reporting Failure,Medium,2025-03-05,Process Team,68,48,Closed,Reporting
+2097,Compliance,Integration Error,Medium,2025-03-06,DevOps,37,24,Closed,User Access
+2098,Finance,Integration Error,Low,2025-01-14,DevOps,14,8,Closed,Automation
+2099,Compliance,Workflow Delay,Medium,2025-04-20,DataOps,44,12,Closed,System
+2100,Operations,Access Issue,Critical,2025-03-27,IT Support,10,8,Closed,User Access
+2101,Operations,Data Error,High,2025-01-10,DataOps,58,24,Closed,Process
+2102,Customer Support,System Bug,Medium,2025-03-30,Analytics Team,50,8,Closed,User Access
+2103,Compliance,System Bug,High,2025-03-14,DevOps,12,36,Closed,Automation
+2104,HR,System Bug,Critical,2025-02-16,IT Support,42,48,Open,System
+2105,Sales,Workflow Delay,Low,2025-01-04,DevOps,33,36,Open,Reporting
+2106,Finance,System Bug,High,2025-01-07,DevOps,33,36,Closed,User Access
+2107,Operations,System Bug,Low,2025-01-14,Analytics Team,71,36,Closed,System
+2108,Customer Support,Reporting Failure,Low,2025-02-15,DevOps,23,12,Closed,Automation
+2109,Customer Support,System Bug,Low,2025-03-30,DevOps,57,48,Closed,Process
+2110,Customer Support,Workflow Delay,High,2025-01-02,Analytics Team,2,48,Closed,Reporting
+2111,Marketing,Reporting Failure,High,2025-04-21,IT Support,8,36,Closed,User Access
+2112,Marketing,Integration Error,Medium,2025-01-31,IT Support,12,8,Open,System
+2113,Marketing,Access Issue,Critical,2025-04-28,DataOps,48,12,Open,Process
+2114,HR,Reporting Failure,Medium,2025-04-07,Process Team,22,48,Closed,Process
+2115,Engineering,Reporting Failure,High,2025-02-17,DataOps,32,36,Open,Reporting
+2116,HR,Permission Issue,Critical,2025-01-11,DevOps,57,36,Closed,User Access
+2117,Compliance,Data Error,High,2025-04-18,Analytics Team,44,24,Closed,Automation
+2118,Sales,System Bug,Critical,2025-01-31,Analytics Team,9,24,Closed,Reporting
+2119,Marketing,Integration Error,Medium,2025-01-21,Analytics Team,48,24,Closed,Automation
+2120,Operations,System Bug,Medium,2025-03-03,DevOps,39,24,Closed,Process
+2121,Operations,Integration Error,Medium,2025-01-10,Process Team,12,24,Closed,Process
+2122,HR,System Bug,Low,2025-01-30,Analytics Team,28,24,Closed,Reporting
+2123,Marketing,Permission Issue,Critical,2025-02-24,DataOps,34,12,Closed,Process
+2124,Customer Support,System Bug,High,2025-03-31,DataOps,43,24,Closed,Reporting
+2125,Sales,System Bug,Medium,2025-01-16,DevOps,17,36,Closed,System
+2126,Customer Support,Access Issue,Medium,2025-02-02,Analytics Team,67,36,Open,Process
+2127,Marketing,Permission Issue,Low,2025-01-20,Process Team,61,36,Closed,Process
+2128,Operations,Data Error,Critical,2025-01-21,Process Team,35,8,Closed,Process
+2129,Operations,Integration Error,High,2025-02-03,IT Support,69,24,Closed,User Access
+2130,Marketing,Access Issue,Low,2025-04-04,Process Team,39,48,Closed,System
+2131,Customer Support,Permission Issue,Low,2025-02-17,Analytics Team,27,24,Open,System
+2132,Sales,Workflow Delay,Medium,2025-01-10,DevOps,18,48,Closed,System
+2133,Finance,Reporting Failure,Low,2025-02-20,Process Team,43,48,Closed,Process
+2134,Operations,Data Error,Low,2025-04-23,DataOps,9,24,Open,Process
+2135,Sales,Access Issue,High,2025-04-10,DataOps,25,36,Closed,Process
+2136,Compliance,Permission Issue,Medium,2025-03-31,Analytics Team,16,12,Closed,System
+2137,HR,Integration Error,Low,2025-01-24,Analytics Team,70,24,Closed,User Access
+2138,Operations,Workflow Delay,Low,2025-04-24,Process Team,54,48,Open,User Access
+2139,Marketing,Workflow Delay,Critical,2025-03-29,IT Support,42,36,Closed,Process
+2140,Operations,Workflow Delay,Low,2025-04-13,Process Team,51,48,Closed,Reporting
+2141,HR,Access Issue,Critical,2025-02-20,DataOps,70,48,Closed,User Access
+2142,Marketing,Reporting Failure,Critical,2025-03-18,DevOps,72,48,Closed,User Access
+2143,Finance,Access Issue,Critical,2025-04-17,IT Support,32,48,Open,System
+2144,Finance,Permission Issue,Medium,2025-02-18,DataOps,14,12,Open,Automation
+2145,Operations,Data Error,Low,2025-03-02,IT Support,40,8,Closed,System
+2146,Compliance,Permission Issue,Critical,2025-04-10,Analytics Team,46,24,Closed,System
+2147,Compliance,Workflow Delay,High,2025-01-02,IT Support,11,8,Closed,Automation
+2148,Marketing,Permission Issue,Low,2025-01-21,DataOps,55,48,Open,Reporting
+2149,Engineering,Permission Issue,Low,2025-02-24,IT Support,47,36,Closed,Reporting
+2150,Operations,System Bug,Critical,2025-01-01,Analytics Team,53,8,Closed,Process
+2151,Finance,Access Issue,Low,2025-03-30,DataOps,7,8,Closed,User Access
+2152,Compliance,Reporting Failure,High,2025-03-13,Process Team,11,12,Closed,System
+2153,Compliance,Permission Issue,Medium,2025-02-12,Process Team,38,8,Open,Reporting
+2154,Sales,Workflow Delay,Medium,2025-03-28,DevOps,29,12,Closed,Automation
+2155,HR,Data Error,Low,2025-03-03,Analytics Team,15,24,Closed,System
+2156,Sales,Workflow Delay,Medium,2025-03-27,Analytics Team,26,8,Open,System
+2157,Customer Support,Workflow Delay,Low,2025-03-23,IT Support,72,12,Closed,Reporting
+2158,Finance,System Bug,Critical,2025-02-26,IT Support,50,36,Closed,User Access
+2159,Compliance,Data Error,High,2025-02-21,IT Support,50,48,Closed,Process
+2160,Finance,Access Issue,Low,2025-02-26,DataOps,67,36,Closed,System
+2161,Compliance,Workflow Delay,High,2025-02-09,Process Team,47,8,Closed,System
+2162,Compliance,Permission Issue,Medium,2025-02-02,Process Team,6,8,Closed,Reporting
+2163,Operations,Reporting Failure,High,2025-01-06,DevOps,15,48,Closed,Process
+2164,Compliance,Workflow Delay,Low,2025-02-06,DataOps,32,24,Closed,Automation
+2165,HR,Integration Error,High,2025-04-19,DataOps,48,24,Open,Automation
+2166,Sales,Reporting Failure,Low,2025-02-08,Process Team,18,36,Closed,System
+2167,Engineering,System Bug,Low,2025-03-01,DataOps,55,12,Closed,Automation
+2168,Finance,System Bug,Medium,2025-01-23,Process Team,6,12,Closed,Process
+2169,Finance,Integration Error,Medium,2025-02-25,DataOps,30,48,Closed,Automation
+2170,Finance,Permission Issue,Medium,2025-03-10,DataOps,21,36,Closed,Automation
+2171,Engineering,Workflow Delay,High,2025-04-02,Analytics Team,51,12,Closed,User Access
+2172,Marketing,Permission Issue,Critical,2025-01-22,Analytics Team,57,24,Closed,Process
+2173,Finance,Access Issue,Low,2025-02-19,DataOps,15,48,Open,System
+2174,Compliance,Permission Issue,Medium,2025-03-15,IT Support,42,8,Closed,Process
+2175,Compliance,System Bug,Medium,2025-02-19,Analytics Team,69,8,Open,Process
+2176,HR,Integration Error,Low,2025-01-15,DataOps,41,48,Closed,Reporting
+2177,Finance,Workflow Delay,Medium,2025-01-11,DevOps,17,12,Open,System
+2178,Marketing,Integration Error,Critical,2025-04-14,DevOps,68,24,Closed,User Access
+2179,Operations,Integration Error,High,2025-03-13,DevOps,29,24,Closed,Automation
+2180,Customer Support,Permission Issue,Critical,2025-04-22,DevOps,67,24,Closed,User Access
+2181,Marketing,System Bug,High,2025-03-12,Analytics Team,34,8,Closed,User Access
+2182,HR,Workflow Delay,High,2025-01-17,DataOps,27,8,Closed,Automation
+2183,Customer Support,Integration Error,Critical,2025-04-22,IT Support,69,24,Closed,Reporting
+2184,Operations,Permission Issue,Critical,2025-03-16,Analytics Team,63,36,Closed,System
+2185,HR,Reporting Failure,Critical,2025-03-28,Analytics Team,39,8,Closed,System
+2186,Compliance,Workflow Delay,Critical,2025-02-19,Process Team,21,36,Closed,Automation
+2187,Marketing,Permission Issue,High,2025-02-15,Process Team,66,48,Closed,Process
+2188,Customer Support,Integration Error,High,2025-04-01,DataOps,25,8,Closed,Process
+2189,Sales,Permission Issue,Low,2025-02-27,DevOps,42,48,Open,System
+2190,Finance,Data Error,Low,2025-02-27,DevOps,32,48,Closed,User Access
+2191,Engineering,Workflow Delay,Low,2025-03-05,Process Team,38,24,Closed,Process
+2192,Engineering,System Bug,Low,2025-04-01,IT Support,38,24,Closed,Reporting
+2193,Finance,Data Error,Low,2025-04-13,Process Team,3,8,Closed,System
+2194,Operations,Reporting Failure,High,2025-01-08,Process Team,37,24,Open,System
+2195,Operations,Permission Issue,Low,2025-02-03,IT Support,15,24,Closed,System
+2196,Operations,Data Error,Low,2025-03-17,DevOps,28,24,Closed,System
+2197,Sales,Access Issue,Low,2025-01-28,DevOps,48,12,Closed,Automation
+2198,Sales,System Bug,Low,2025-04-28,DevOps,43,12,Open,Automation
+2199,Finance,Permission Issue,Critical,2025-03-06,Process Team,21,48,Closed,User Access
+2200,Operations,Workflow Delay,Low,2025-04-30,DataOps,71,8,Closed,Reporting
+2201,Engineering,Permission Issue,Medium,2025-02-10,DataOps,44,12,Open,Reporting
+2202,Compliance,System Bug,Low,2025-01-15,DevOps,27,8,Closed,System
+2203,Marketing,Data Error,Medium,2025-05-01,DevOps,13,8,Closed,Automation
+2204,Sales,Access Issue,Low,2025-02-04,DevOps,13,36,Closed,User Access
+2205,Compliance,Access Issue,Low,2025-04-03,DevOps,42,48,Closed,Automation
+2206,Compliance,Workflow Delay,Low,2025-01-02,IT Support,33,8,Open,User Access
+2207,Marketing,Integration Error,Low,2025-04-18,IT Support,53,36,Closed,System
+2208,Finance,Permission Issue,Critical,2025-03-22,Analytics Team,29,12,Closed,Reporting
+2209,Marketing,Permission Issue,Critical,2025-02-21,DevOps,58,48,Closed,Process
+2210,Marketing,Data Error,High,2025-03-21,IT Support,22,24,Closed,System
+2211,Customer Support,System Bug,Low,2025-03-09,Process Team,45,12,Closed,Automation
+2212,Compliance,Data Error,Critical,2025-02-13,DataOps,36,48,Open,Automation
+2213,HR,Workflow Delay,High,2025-01-28,DataOps,21,12,Closed,Automation
+2214,Operations,Data Error,Critical,2025-02-24,Analytics Team,33,8,Closed,Reporting
+2215,HR,Integration Error,Critical,2025-02-26,Analytics Team,32,8,Open,Automation
+2216,Sales,Reporting Failure,High,2025-01-30,Analytics Team,55,12,Closed,Reporting
+2217,Sales,Access Issue,Medium,2025-03-07,DevOps,11,36,Closed,Reporting
+2218,Marketing,Reporting Failure,Critical,2025-03-16,DevOps,3,8,Closed,Reporting
+2219,Customer Support,Reporting Failure,Critical,2025-04-23,Analytics Team,11,8,Closed,Reporting
+2220,Operations,Workflow Delay,Medium,2025-02-25,Analytics Team,49,24,Closed,System
+2221,Sales,Reporting Failure,Medium,2025-02-05,Process Team,52,36,Closed,System
+2222,Customer Support,System Bug,High,2025-01-07,DataOps,70,36,Closed,Process
+2223,Customer Support,Workflow Delay,Critical,2025-04-26,DataOps,4,24,Closed,User Access
+2224,Finance,Access Issue,Critical,2025-03-13,IT Support,67,48,Closed,Reporting
+2225,Marketing,Integration Error,Medium,2025-02-19,Analytics Team,66,48,Closed,Automation
+2226,Operations,Data Error,Medium,2025-01-04,DevOps,31,48,Open,Reporting
+2227,Finance,Permission Issue,High,2025-04-02,Process Team,6,12,Open,Automation
+2228,Compliance,Permission Issue,Medium,2025-03-01,DataOps,63,12,Closed,Automation
+2229,Sales,Workflow Delay,Medium,2025-04-23,DevOps,41,36,Closed,System
+2230,Compliance,System Bug,High,2025-04-26,Analytics Team,33,12,Closed,System
+2231,Finance,Data Error,High,2025-01-08,DevOps,72,8,Open,System
+2232,Engineering,Reporting Failure,High,2025-04-12,Analytics Team,71,8,Closed,System
+2233,Finance,Access Issue,High,2025-04-11,Process Team,41,8,Closed,Automation
+2234,Compliance,Workflow Delay,Critical,2025-01-19,Analytics Team,41,48,Closed,Automation
+2235,Operations,Workflow Delay,Low,2025-03-14,Process Team,30,24,Closed,Reporting
+2236,Customer Support,Reporting Failure,Medium,2025-04-11,DevOps,33,24,Closed,User Access
+2237,HR,Access Issue,Medium,2025-03-26,Analytics Team,7,24,Closed,Automation
+2238,Customer Support,Reporting Failure,Critical,2025-03-23,Analytics Team,7,8,Open,Automation
+2239,Engineering,Integration Error,Medium,2025-05-01,IT Support,22,36,Closed,Automation
+2240,Operations,Permission Issue,Medium,2025-02-24,DataOps,21,48,Closed,System
+2241,Sales,Reporting Failure,Low,2025-02-15,Process Team,37,8,Closed,User Access
+2242,Compliance,Reporting Failure,Low,2025-01-17,DataOps,44,12,Closed,Reporting
+2243,Sales,Workflow Delay,Medium,2025-03-06,Analytics Team,49,48,Open,User Access
+2244,Customer Support,Reporting Failure,Medium,2025-01-06,IT Support,64,48,Closed,User Access
+2245,HR,Integration Error,Medium,2025-01-29,Analytics Team,14,36,Open,Automation
+2246,Finance,Permission Issue,Medium,2025-03-05,DataOps,7,36,Closed,System
+2247,Marketing,Reporting Failure,High,2025-01-28,Process Team,62,8,Open,User Access
+2248,HR,Reporting Failure,Medium,2025-03-05,DataOps,25,36,Closed,Automation
+2249,Finance,Data Error,Critical,2025-03-12,DataOps,41,48,Closed,Automation
+2250,Finance,Reporting Failure,High,2025-04-28,DevOps,58,24,Open,Reporting
+2251,Operations,Permission Issue,High,2025-01-06,Analytics Team,1,8,Open,Automation
+2252,Customer Support,Permission Issue,High,2025-01-16,DataOps,30,12,Closed,Process
+2253,Customer Support,Workflow Delay,Low,2025-03-26,DevOps,51,48,Open,User Access
+2254,Finance,Access Issue,Medium,2025-04-05,DevOps,66,12,Closed,System
+2255,HR,Permission Issue,Medium,2025-03-04,IT Support,18,48,Closed,Automation
+2256,Operations,Data Error,Critical,2025-03-23,IT Support,69,24,Closed,User Access
+2257,Finance,Permission Issue,Low,2025-01-21,DataOps,60,12,Closed,Automation
+2258,Customer Support,Workflow Delay,Critical,2025-01-01,IT Support,26,48,Closed,Reporting
+2259,Compliance,Access Issue,Low,2025-03-20,Analytics Team,8,12,Closed,Process
+2260,HR,Permission Issue,Critical,2025-02-21,DataOps,23,12,Closed,System
+2261,Marketing,Workflow Delay,Medium,2025-03-10,IT Support,45,36,Open,Process
+2262,Engineering,Workflow Delay,Low,2025-02-10,IT Support,29,36,Closed,User Access
+2263,Marketing,Permission Issue,High,2025-03-15,DataOps,2,8,Closed,System
+2264,Engineering,Reporting Failure,Critical,2025-04-18,Analytics Team,58,12,Open,Reporting
+2265,HR,Integration Error,Critical,2025-04-13,DevOps,1,48,Closed,Process
+2266,Finance,Access Issue,Medium,2025-01-19,DataOps,31,8,Closed,System
+2267,Engineering,Reporting Failure,Low,2025-02-26,IT Support,67,36,Closed,Reporting
+2268,Operations,Access Issue,Medium,2025-02-19,DevOps,53,36,Closed,Process
+2269,Engineering,Reporting Failure,High,2025-04-02,DataOps,34,36,Closed,System
+2270,Engineering,Data Error,Medium,2025-01-31,DataOps,14,24,Open,Process
+2271,Engineering,Reporting Failure,Critical,2025-04-26,IT Support,69,12,Closed,User Access
+2272,Sales,Permission Issue,Critical,2025-03-28,DataOps,31,24,Closed,Process
+2273,Compliance,Integration Error,High,2025-03-26,Analytics Team,16,36,Closed,Process
+2274,Sales,System Bug,Critical,2025-03-07,IT Support,64,48,Closed,System
+2275,Operations,System Bug,Critical,2025-02-05,Process Team,43,24,Closed,Automation
+2276,Sales,System Bug,High,2025-01-03,IT Support,56,8,Open,Process
+2277,Compliance,Workflow Delay,Medium,2025-04-03,Process Team,3,48,Closed,Process
+2278,Sales,System Bug,Medium,2025-02-17,DataOps,10,48,Closed,System
+2279,Compliance,Reporting Failure,High,2025-01-21,Process Team,26,36,Closed,User Access
+2280,Finance,System Bug,Medium,2025-03-16,Process Team,3,24,Open,Process
+2281,Engineering,Access Issue,Critical,2025-01-04,DevOps,14,48,Closed,User Access
+2282,Finance,Permission Issue,High,2025-04-25,Process Team,71,36,Closed,User Access
+2283,Operations,Integration Error,Critical,2025-04-17,IT Support,49,24,Open,System
+2284,Sales,Reporting Failure,Critical,2025-01-04,DataOps,9,24,Closed,Automation
+2285,Sales,Integration Error,High,2025-01-19,DevOps,52,8,Closed,Reporting
+2286,Customer Support,Reporting Failure,Low,2025-03-17,DevOps,72,12,Closed,System
+2287,Compliance,Data Error,High,2025-03-23,Analytics Team,37,48,Closed,Automation
+2288,Engineering,Permission Issue,Medium,2025-04-28,Process Team,25,36,Open,Reporting
+2289,Engineering,System Bug,High,2025-01-17,DevOps,71,8,Open,Automation
+2290,Compliance,System Bug,Low,2025-04-21,IT Support,36,36,Closed,User Access
+2291,Sales,Access Issue,High,2025-02-17,IT Support,47,48,Closed,Reporting
+2292,Marketing,Data Error,Critical,2025-01-18,DataOps,52,36,Closed,User Access
+2293,Sales,System Bug,High,2025-03-11,DevOps,48,24,Open,User Access
+2294,HR,System Bug,Low,2025-01-17,IT Support,35,24,Open,Reporting
+2295,Operations,Data Error,High,2025-02-22,DataOps,7,48,Open,Reporting
+2296,Marketing,Access Issue,Critical,2025-01-28,DataOps,23,48,Closed,User Access
+2297,Customer Support,Access Issue,Low,2025-02-12,IT Support,15,36,Closed,System
+2298,Operations,Reporting Failure,Low,2025-02-18,Process Team,69,24,Closed,Process
+2299,Marketing,Reporting Failure,High,2025-03-10,DataOps,55,12,Closed,System
+2300,Finance,Workflow Delay,Low,2025-01-30,Analytics Team,45,8,Closed,Automation
+2301,Marketing,Workflow Delay,Low,2025-03-11,Analytics Team,35,48,Closed,Process
+2302,Marketing,System Bug,Low,2025-04-03,IT Support,27,24,Closed,Automation
+2303,Sales,Access Issue,Critical,2025-03-23,Analytics Team,13,24,Closed,User Access
+2304,Engineering,System Bug,Medium,2025-03-03,IT Support,8,48,Closed,System
+2305,Customer Support,Integration Error,High,2025-04-18,Analytics Team,65,12,Closed,Automation
+2306,Marketing,Data Error,Medium,2025-03-26,DevOps,49,24,Closed,Automation
+2307,Compliance,Workflow Delay,Medium,2025-04-09,Analytics Team,36,36,Closed,User Access
+2308,Customer Support,Workflow Delay,Low,2025-03-19,DataOps,50,36,Closed,Reporting
+2309,Compliance,Reporting Failure,Low,2025-01-30,DevOps,69,24,Closed,System
+2310,Customer Support,Reporting Failure,Medium,2025-01-13,Process Team,61,48,Open,User Access
+2311,Finance,Data Error,High,2025-02-08,DataOps,45,8,Closed,User Access
+2312,Marketing,Reporting Failure,Low,2025-03-17,IT Support,72,36,Closed,Automation
+2313,Sales,Permission Issue,Critical,2025-01-24,DataOps,12,8,Closed,Reporting
+2314,Marketing,System Bug,Low,2025-04-04,Process Team,71,8,Closed,Process
+2315,Customer Support,Permission Issue,High,2025-04-18,Process Team,37,24,Open,User Access
+2316,HR,System Bug,Low,2025-04-11,Analytics Team,10,8,Closed,User Access
+2317,Sales,System Bug,Medium,2025-02-06,Analytics Team,13,12,Open,User Access
+2318,Marketing,Integration Error,Low,2025-03-08,Analytics Team,14,8,Open,Reporting
+2319,Finance,Access Issue,Critical,2025-04-01,IT Support,60,8,Closed,Process
+2320,Operations,System Bug,Medium,2025-04-19,Analytics Team,67,24,Open,Reporting
+2321,HR,Access Issue,Medium,2025-04-14,Analytics Team,47,48,Closed,Reporting
+2322,Compliance,Integration Error,Critical,2025-01-24,Analytics Team,62,24,Open,System
+2323,Operations,System Bug,Critical,2025-01-03,IT Support,41,12,Open,Reporting
+2324,Operations,Integration Error,Low,2025-01-04,DataOps,68,12,Open,Automation
+2325,Engineering,Workflow Delay,Critical,2025-04-17,DevOps,37,48,Closed,System
+2326,HR,Workflow Delay,Critical,2025-02-23,IT Support,4,48,Closed,User Access
+2327,Finance,Permission Issue,Critical,2025-04-25,IT Support,36,12,Closed,Automation
+2328,Finance,System Bug,Medium,2025-03-22,DevOps,15,8,Closed,Reporting
+2329,HR,System Bug,High,2025-03-14,DevOps,43,48,Closed,Reporting
+2330,Engineering,System Bug,Low,2025-04-12,DataOps,33,48,Open,User Access
+2331,Operations,Reporting Failure,High,2025-04-07,IT Support,46,36,Open,Reporting
+2332,Finance,Reporting Failure,Low,2025-01-22,Process Team,23,12,Closed,Process
+2333,Sales,Workflow Delay,High,2025-03-15,DataOps,48,8,Open,User Access
+2334,Customer Support,Access Issue,High,2025-03-11,Process Team,35,24,Closed,Automation
+2335,Operations,Permission Issue,High,2025-03-10,Analytics Team,50,12,Closed,User Access
+2336,Compliance,Workflow Delay,High,2025-04-18,Analytics Team,64,24,Closed,Automation
+2337,Marketing,Workflow Delay,Medium,2025-01-23,DataOps,43,48,Closed,Automation
+2338,Compliance,System Bug,High,2025-04-28,Analytics Team,24,8,Closed,User Access
+2339,Finance,Access Issue,High,2025-02-19,Analytics Team,16,8,Open,Process
+2340,Finance,Workflow Delay,High,2025-01-14,Process Team,34,36,Open,User Access
+2341,Customer Support,Workflow Delay,Critical,2025-02-17,DevOps,55,24,Closed,System
+2342,Marketing,Access Issue,Low,2025-02-28,IT Support,51,12,Closed,User Access
+2343,HR,Integration Error,High,2025-03-25,DataOps,55,36,Closed,Process
+2344,Sales,System Bug,High,2025-04-10,DataOps,20,12,Closed,System
+2345,Finance,Access Issue,High,2025-02-08,Process Team,46,8,Closed,Reporting
+2346,Engineering,Reporting Failure,Low,2025-01-24,DataOps,48,48,Closed,Process
+2347,Engineering,Workflow Delay,Critical,2025-02-12,Process Team,30,24,Open,Process
+2348,Compliance,Access Issue,Critical,2025-01-07,IT Support,48,48,Open,Automation
+2349,Engineering,Integration Error,Critical,2025-04-20,Process Team,67,36,Closed,System
+2350,Customer Support,System Bug,High,2025-03-30,Process Team,64,48,Open,Automation
+2351,Operations,Integration Error,Low,2025-01-17,Process Team,22,8,Closed,User Access
+2352,Compliance,Data Error,Low,2025-04-02,Process Team,54,24,Closed,Process
+2353,Engineering,Access Issue,High,2025-01-07,DataOps,23,48,Closed,User Access
+2354,Finance,Integration Error,Critical,2025-01-26,IT Support,36,12,Closed,User Access
+2355,Finance,System Bug,Critical,2025-03-21,Process Team,4,12,Open,Reporting
+2356,HR,Permission Issue,Critical,2025-02-16,Analytics Team,20,8,Closed,Reporting
+2357,Finance,Integration Error,High,2025-01-22,Process Team,12,8,Closed,User Access
+2358,Engineering,Integration Error,Medium,2025-01-20,DevOps,47,12,Closed,User Access
+2359,Compliance,System Bug,Low,2025-01-27,IT Support,59,48,Closed,Reporting
+2360,Engineering,Permission Issue,Medium,2025-04-03,Analytics Team,12,12,Closed,System
+2361,Customer Support,Data Error,High,2025-01-06,Analytics Team,54,48,Closed,User Access
+2362,Operations,Access Issue,Low,2025-03-03,DevOps,41,48,Closed,User Access
+2363,Sales,Workflow Delay,Medium,2025-03-16,IT Support,69,12,Closed,Reporting
+2364,Finance,Access Issue,Critical,2025-02-14,Process Team,25,12,Closed,Reporting
+2365,Engineering,Integration Error,Critical,2025-03-26,DataOps,56,8,Closed,Reporting
+2366,Operations,Workflow Delay,Medium,2025-05-01,DevOps,39,36,Closed,Process
+2367,Marketing,Integration Error,Low,2025-01-01,DevOps,62,8,Closed,Reporting
+2368,Customer Support,System Bug,High,2025-02-23,DataOps,47,48,Closed,System
+2369,Operations,Workflow Delay,Low,2025-01-17,DevOps,24,36,Closed,Process
+2370,Operations,System Bug,Low,2025-04-17,DevOps,35,12,Closed,User Access
+2371,HR,Permission Issue,High,2025-04-10,Analytics Team,45,8,Closed,System
+2372,HR,Access Issue,High,2025-04-18,DevOps,39,8,Open,Process
+2373,Engineering,Workflow Delay,Medium,2025-04-30,DataOps,29,36,Closed,Reporting
+2374,Sales,System Bug,Critical,2025-01-06,IT Support,42,12,Closed,System
+2375,Compliance,Data Error,Low,2025-02-19,IT Support,38,12,Open,Process
+2376,Marketing,Integration Error,High,2025-01-18,DataOps,3,12,Closed,User Access
+2377,Engineering,System Bug,Low,2025-01-30,Process Team,44,12,Open,User Access
+2378,Compliance,Workflow Delay,Medium,2025-04-07,Analytics Team,1,12,Closed,User Access
+2379,Compliance,Integration Error,Medium,2025-03-12,DataOps,27,24,Closed,System
+2380,Engineering,Integration Error,High,2025-02-20,IT Support,68,48,Closed,Reporting
+2381,Customer Support,Integration Error,Critical,2025-02-06,Process Team,64,8,Closed,System
+2382,HR,Workflow Delay,High,2025-01-09,Process Team,31,12,Open,Reporting
+2383,Customer Support,Reporting Failure,High,2025-01-14,DevOps,54,8,Closed,Reporting
+2384,Engineering,System Bug,Medium,2025-03-09,Process Team,14,24,Closed,System
+2385,Finance,Access Issue,Critical,2025-04-07,IT Support,48,36,Open,System
+2386,Finance,System Bug,Medium,2025-04-21,DevOps,17,12,Closed,Process
+2387,Finance,Data Error,Medium,2025-02-19,DataOps,2,24,Closed,Reporting
+2388,HR,System Bug,Critical,2025-01-26,DevOps,14,24,Closed,Automation
+2389,Marketing,Data Error,Critical,2025-04-28,DataOps,40,12,Closed,Reporting
+2390,Compliance,System Bug,Medium,2025-01-19,DataOps,8,36,Closed,Process
+2391,Compliance,System Bug,Medium,2025-04-02,DataOps,39,24,Closed,Process
+2392,HR,Permission Issue,High,2025-01-07,DataOps,46,8,Closed,Process
+2393,Sales,Integration Error,High,2025-03-03,Process Team,62,36,Closed,System
+2394,Compliance,Data Error,Low,2025-02-11,Process Team,58,48,Open,Automation
+2395,Operations,Permission Issue,Medium,2025-03-20,IT Support,68,24,Open,System
+2396,Sales,Reporting Failure,High,2025-01-21,IT Support,28,12,Open,System
+2397,Engineering,Workflow Delay,High,2025-01-21,IT Support,2,36,Open,Reporting
+2398,Marketing,Integration Error,Low,2025-01-28,DataOps,66,8,Open,Reporting
+2399,Marketing,Permission Issue,Medium,2025-02-06,Analytics Team,5,12,Open,System
+2400,Customer Support,System Bug,High,2025-03-28,DataOps,62,12,Closed,Process
+2401,Compliance,Integration Error,High,2025-03-06,Process Team,41,24,Closed,Automation
+2402,Sales,Reporting Failure,Medium,2025-04-19,DataOps,31,36,Closed,Automation
+2403,HR,Reporting Failure,High,2025-03-15,Process Team,10,8,Closed,User Access
+2404,Engineering,Permission Issue,Low,2025-02-18,DevOps,20,36,Open,System
+2405,Finance,Permission Issue,Low,2025-02-19,IT Support,30,8,Closed,Automation
+2406,HR,Workflow Delay,Medium,2025-05-01,DevOps,21,48,Open,System
+2407,Customer Support,Workflow Delay,Medium,2025-03-12,Analytics Team,20,36,Closed,User Access
+2408,Compliance,System Bug,High,2025-03-18,DataOps,45,12,Closed,Process
+2409,Operations,Reporting Failure,Critical,2025-04-29,DataOps,29,36,Open,System
+2410,Compliance,Integration Error,Critical,2025-02-24,Analytics Team,70,24,Closed,User Access
+2411,Customer Support,Access Issue,Medium,2025-04-30,Analytics Team,11,24,Closed,Automation
+2412,Sales,Access Issue,Low,2025-03-07,DevOps,21,36,Closed,User Access
+2413,Marketing,Permission Issue,Low,2025-03-14,IT Support,30,48,Open,Process
+2414,Sales,Permission Issue,Medium,2025-02-11,DevOps,62,36,Open,Reporting
+2415,Compliance,Data Error,Low,2025-02-27,IT Support,69,36,Open,Automation
+2416,HR,System Bug,Medium,2025-04-12,Analytics Team,8,8,Closed,Automation
+2417,Marketing,Access Issue,High,2025-04-23,DataOps,71,48,Closed,System
+2418,Operations,Integration Error,Medium,2025-01-14,DevOps,44,36,Closed,User Access
+2419,HR,Integration Error,Low,2025-03-13,Analytics Team,33,12,Closed,Reporting
+2420,Customer Support,Permission Issue,High,2025-02-03,Process Team,45,24,Closed,Process
+2421,HR,Workflow Delay,Low,2025-03-28,IT Support,4,48,Closed,System
+2422,Finance,Data Error,Critical,2025-04-12,IT Support,17,12,Open,Reporting
+2423,Finance,Reporting Failure,Critical,2025-03-17,DataOps,49,36,Open,Reporting
+2424,Compliance,Reporting Failure,High,2025-04-17,DataOps,28,36,Closed,Automation
+2425,Operations,Integration Error,Critical,2025-01-08,Process Team,52,48,Closed,System
+2426,Engineering,Access Issue,Critical,2025-04-16,Process Team,27,48,Closed,Process
+2427,Compliance,Data Error,Medium,2025-03-11,IT Support,24,36,Closed,System
+2428,Sales,Reporting Failure,Medium,2025-04-06,Analytics Team,23,36,Closed,Reporting
+2429,Operations,System Bug,High,2025-01-01,DevOps,49,24,Closed,Automation
+2430,Finance,Permission Issue,Low,2025-02-05,DevOps,29,48,Closed,Reporting
+2431,Customer Support,Access Issue,High,2025-01-04,Process Team,2,36,Closed,Reporting
+2432,Sales,Workflow Delay,Medium,2025-02-22,Analytics Team,39,48,Closed,User Access
+2433,Sales,Integration Error,High,2025-02-10,Process Team,65,36,Closed,Automation
+2434,Finance,Permission Issue,Low,2025-03-05,Analytics Team,53,48,Open,Process
+2435,Compliance,Data Error,Critical,2025-04-22,DataOps,3,8,Closed,System
+2436,Marketing,System Bug,High,2025-04-02,Analytics Team,34,48,Closed,System
+2437,Finance,Integration Error,High,2025-01-19,IT Support,64,48,Closed,Process
+2438,Operations,Reporting Failure,High,2025-04-25,Analytics Team,45,8,Closed,System
+2439,Customer Support,Data Error,Critical,2025-05-01,DataOps,2,48,Closed,System
+2440,Operations,Access Issue,Medium,2025-01-19,Analytics Team,69,36,Closed,User Access
+2441,Engineering,Integration Error,Medium,2025-04-14,DevOps,22,48,Open,User Access
+2442,Compliance,Access Issue,Critical,2025-03-05,Process Team,71,8,Open,Automation
+2443,Customer Support,System Bug,Medium,2025-03-13,IT Support,7,8,Closed,Reporting
+2444,Customer Support,Reporting Failure,Medium,2025-01-03,DataOps,38,24,Open,System
+2445,HR,Integration Error,High,2025-01-26,DevOps,17,36,Open,Process
+2446,Engineering,Integration Error,Low,2025-04-28,Analytics Team,54,8,Open,System
+2447,Engineering,System Bug,High,2025-03-23,Process Team,11,48,Open,Process
+2448,Compliance,Integration Error,Low,2025-01-21,Analytics Team,71,12,Closed,User Access
+2449,Sales,Access Issue,Medium,2025-03-18,IT Support,11,48,Closed,System
+2450,Sales,Permission Issue,High,2025-03-27,Process Team,64,8,Closed,Reporting
+2451,Engineering,System Bug,Medium,2025-02-19,DataOps,13,24,Closed,User Access
+2452,Compliance,Workflow Delay,Medium,2025-04-04,IT Support,53,8,Closed,Reporting
+2453,Sales,Integration Error,Critical,2025-04-25,Process Team,33,8,Closed,Reporting
+2454,Sales,Workflow Delay,Critical,2025-04-26,Analytics Team,20,12,Closed,Automation
+2455,Marketing,Permission Issue,Critical,2025-03-03,DevOps,28,36,Closed,Process
+2456,Customer Support,System Bug,Medium,2025-03-02,DataOps,48,8,Open,Automation
+2457,Customer Support,Workflow Delay,High,2025-04-04,Analytics Team,18,8,Closed,Process
+2458,HR,Permission Issue,Critical,2025-01-19,DevOps,27,48,Closed,System
+2459,Finance,Access Issue,Low,2025-01-03,Process Team,23,8,Closed,User Access
+2460,Compliance,Access Issue,Medium,2025-03-29,DataOps,3,48,Closed,Reporting
+2461,Marketing,System Bug,Medium,2025-04-27,IT Support,58,24,Closed,System
+2462,HR,Reporting Failure,High,2025-03-27,DevOps,21,24,Open,User Access
+2463,Compliance,Permission Issue,Low,2025-03-23,IT Support,11,24,Closed,System
+2464,HR,Permission Issue,Low,2025-04-20,DataOps,36,36,Closed,Process
+2465,Compliance,System Bug,Medium,2025-02-12,Analytics Team,37,36,Open,User Access
+2466,Finance,Access Issue,Medium,2025-04-04,DevOps,17,48,Open,Automation
+2467,Engineering,Reporting Failure,Critical,2025-04-04,Process Team,50,12,Closed,Process
+2468,Finance,Workflow Delay,Critical,2025-01-28,Analytics Team,9,36,Closed,System
+2469,Sales,Data Error,Low,2025-04-10,IT Support,35,36,Closed,Reporting
+2470,Compliance,Access Issue,Low,2025-01-16,Process Team,35,24,Open,Process
+2471,Marketing,Access Issue,Critical,2025-03-28,Process Team,58,12,Open,Automation
+2472,Customer Support,System Bug,High,2025-03-07,Process Team,26,8,Closed,Reporting
+2473,Finance,Reporting Failure,Medium,2025-04-23,DevOps,49,8,Open,Automation
+2474,Engineering,Reporting Failure,Low,2025-02-13,DataOps,57,12,Closed,System
+2475,HR,Integration Error,Medium,2025-03-24,Analytics Team,41,48,Open,Reporting
+2476,Sales,Reporting Failure,Medium,2025-01-19,Process Team,39,36,Closed,Process
+2477,Operations,Access Issue,Critical,2025-01-27,DataOps,16,48,Open,System
+2478,Customer Support,Access Issue,Critical,2025-02-13,IT Support,72,24,Closed,System
+2479,Marketing,Reporting Failure,Critical,2025-04-10,Process Team,11,24,Open,User Access
+2480,Customer Support,System Bug,High,2025-04-24,DevOps,64,24,Open,Automation
+2481,Marketing,Integration Error,High,2025-03-01,DataOps,62,24,Closed,Process
+2482,Operations,Integration Error,High,2025-03-05,DataOps,16,12,Closed,Process
+2483,Sales,Integration Error,Medium,2025-03-14,DevOps,19,48,Closed,Automation
+2484,HR,Access Issue,Critical,2025-01-16,Process Team,63,12,Closed,Reporting
+2485,Marketing,Permission Issue,Critical,2025-01-13,Analytics Team,19,12,Closed,Process
+2486,HR,Permission Issue,High,2025-01-07,IT Support,1,24,Closed,Automation
+2487,Operations,Access Issue,High,2025-01-03,Analytics Team,55,24,Open,Automation
+2488,Sales,Integration Error,Medium,2025-02-23,IT Support,47,36,Closed,System
+2489,Operations,Reporting Failure,Low,2025-01-24,DataOps,37,36,Closed,Automation
+2490,Operations,Access Issue,High,2025-01-28,IT Support,19,8,Closed,Process
+2491,Compliance,Data Error,High,2025-01-27,Analytics Team,54,36,Closed,Reporting
+2492,Customer Support,Integration Error,Critical,2025-03-13,DevOps,69,8,Open,Automation
+2493,Sales,Access Issue,High,2025-04-14,IT Support,21,48,Closed,System
+2494,Engineering,Reporting Failure,High,2025-04-21,DataOps,38,12,Closed,User Access
+2495,Sales,Permission Issue,Low,2025-02-04,DataOps,29,8,Open,Process
+2496,Marketing,Integration Error,Medium,2025-03-11,IT Support,49,12,Closed,User Access
+2497,Finance,Access Issue,Low,2025-04-06,IT Support,5,36,Closed,System
+2498,Compliance,System Bug,High,2025-02-27,DataOps,39,8,Closed,User Access
+2499,Finance,Workflow Delay,Low,2025-02-22,DevOps,2,12,Closed,Process
+2500,Operations,Access Issue,Critical,2025-03-22,Process Team,60,48,Closed,System
+2501,Marketing,Integration Error,Medium,2025-02-19,Analytics Team,61,48,Open,User Access
+2502,Compliance,Integration Error,Medium,2025-04-21,IT Support,50,12,Closed,Automation
+2503,Operations,Reporting Failure,High,2025-04-19,DataOps,12,24,Closed,System
+2504,Compliance,Reporting Failure,Medium,2025-01-28,DataOps,20,8,Open,User Access
+2505,Compliance,System Bug,High,2025-04-30,Analytics Team,5,8,Open,User Access
+2506,Compliance,Integration Error,High,2025-02-21,DataOps,24,36,Closed,User Access
+2507,Compliance,Integration Error,Low,2025-04-08,Analytics Team,21,8,Closed,Process
+2508,Operations,Access Issue,Critical,2025-02-10,DevOps,27,8,Closed,System
+2509,Finance,Data Error,High,2025-02-18,DevOps,72,24,Closed,Automation
+2510,Finance,Integration Error,Critical,2025-01-24,IT Support,12,24,Closed,Automation
+2511,Finance,System Bug,Critical,2025-01-30,IT Support,58,12,Closed,System
+2512,HR,Reporting Failure,Low,2025-04-04,DevOps,50,8,Closed,Reporting
+2513,Finance,Workflow Delay,Critical,2025-03-21,DataOps,72,36,Closed,Automation
+2514,Engineering,Integration Error,High,2025-03-11,IT Support,22,36,Closed,User Access
+2515,Operations,Data Error,Low,2025-04-20,Analytics Team,22,24,Closed,Automation
+2516,Customer Support,Integration Error,High,2025-02-19,IT Support,58,24,Closed,Process
+2517,Operations,Access Issue,Medium,2025-03-27,IT Support,3,8,Closed,Process
+2518,HR,Data Error,Medium,2025-03-14,Analytics Team,4,12,Closed,System
+2519,Customer Support,Workflow Delay,High,2025-01-09,Process Team,62,12,Open,User Access
+2520,Sales,Access Issue,Critical,2025-01-02,Process Team,44,24,Open,Reporting
+2521,Compliance,Access Issue,Medium,2025-01-26,IT Support,52,24,Open,Reporting
+2522,Engineering,Workflow Delay,Low,2025-03-07,Analytics Team,55,36,Closed,System
+2523,Finance,Permission Issue,Critical,2025-04-29,DevOps,44,8,Closed,Reporting
+2524,Customer Support,Reporting Failure,Critical,2025-03-14,IT Support,31,8,Closed,Reporting
+2525,Finance,Permission Issue,Low,2025-04-25,Process Team,39,48,Closed,Reporting
+2526,Engineering,Workflow Delay,High,2025-04-18,DevOps,17,48,Closed,Reporting
+2527,Engineering,Reporting Failure,Critical,2025-02-05,DevOps,8,8,Closed,Process
+2528,Engineering,Integration Error,Low,2025-02-13,DevOps,54,12,Closed,User Access
+2529,Finance,Data Error,Low,2025-02-11,Process Team,43,36,Closed,Reporting
+2530,Sales,Workflow Delay,High,2025-03-09,DataOps,21,48,Closed,User Access
+2531,Customer Support,Data Error,High,2025-01-07,IT Support,71,48,Open,Process
+2532,HR,Access Issue,Critical,2025-04-26,IT Support,18,24,Closed,System
+2533,Sales,Permission Issue,Critical,2025-01-31,Process Team,31,36,Closed,User Access
+2534,Customer Support,Reporting Failure,Medium,2025-02-23,IT Support,39,12,Closed,System
+2535,Finance,Integration Error,Low,2025-02-22,DataOps,16,48,Open,Reporting
+2536,Marketing,Integration Error,High,2025-04-30,Analytics Team,43,48,Closed,Reporting
+2537,Engineering,Reporting Failure,Medium,2025-03-25,IT Support,29,24,Open,Process
+2538,Engineering,System Bug,High,2025-03-28,IT Support,46,12,Closed,User Access
+2539,HR,Reporting Failure,Low,2025-01-30,Process Team,49,24,Closed,Automation
+2540,Customer Support,Access Issue,Medium,2025-03-16,DataOps,16,12,Closed,Process
+2541,Compliance,Workflow Delay,High,2025-04-18,IT Support,53,24,Open,Automation
+2542,Sales,Workflow Delay,Low,2025-02-27,IT Support,67,36,Open,System
+2543,Customer Support,Permission Issue,Medium,2025-01-01,DevOps,12,12,Open,Reporting
+2544,HR,Access Issue,Medium,2025-03-28,IT Support,59,12,Closed,System
+2545,Finance,Access Issue,Low,2025-04-29,DataOps,4,12,Closed,Process
+2546,Customer Support,Access Issue,Low,2025-03-09,DevOps,14,8,Closed,User Access
+2547,Finance,Integration Error,Low,2025-01-28,DevOps,68,8,Closed,User Access
+2548,Engineering,Reporting Failure,Medium,2025-01-28,DataOps,23,12,Closed,System
+2549,Operations,Workflow Delay,Critical,2025-03-29,DevOps,49,8,Closed,Automation
+2550,Marketing,System Bug,Critical,2025-01-13,Analytics Team,21,12,Closed,Process
+2551,Customer Support,Reporting Failure,Medium,2025-02-24,DevOps,63,24,Closed,System
+2552,Finance,Permission Issue,Low,2025-02-18,DataOps,62,36,Closed,Process
+2553,Sales,Permission Issue,Low,2025-04-04,Process Team,50,12,Closed,Process
+2554,Compliance,Data Error,High,2025-01-11,DevOps,4,12,Open,Automation
+2555,Sales,Reporting Failure,Medium,2025-04-13,Process Team,5,24,Closed,User Access
+2556,Sales,Workflow Delay,Low,2025-01-19,Analytics Team,55,36,Open,Reporting
+2557,Operations,Reporting Failure,Low,2025-03-18,Analytics Team,29,24,Closed,Automation
+2558,Sales,System Bug,Medium,2025-02-03,DevOps,12,24,Closed,System
+2559,Compliance,Integration Error,Medium,2025-01-19,DevOps,48,36,Open,User Access
+2560,Customer Support,Integration Error,Critical,2025-03-26,DataOps,46,24,Closed,Automation
+2561,Finance,Integration Error,Low,2025-04-16,DataOps,68,48,Open,Reporting
+2562,Marketing,Data Error,Low,2025-01-16,IT Support,34,36,Closed,Automation
+2563,Sales,Workflow Delay,Critical,2025-01-26,IT Support,41,36,Open,Reporting
+2564,Finance,Integration Error,Critical,2025-04-23,IT Support,40,36,Closed,Reporting
+2565,Sales,Reporting Failure,Low,2025-01-23,DataOps,47,24,Open,Process
+2566,Compliance,Data Error,Medium,2025-01-27,Process Team,25,8,Closed,Process
+2567,Finance,Workflow Delay,High,2025-04-17,DataOps,39,8,Closed,User Access
+2568,Compliance,Permission Issue,Critical,2025-03-09,DevOps,40,8,Open,System
+2569,Marketing,Access Issue,Low,2025-03-23,DataOps,57,24,Closed,Process
+2570,HR,Reporting Failure,Low,2025-04-15,IT Support,71,36,Closed,Process
+2571,Finance,Reporting Failure,Medium,2025-03-08,DevOps,19,48,Closed,Reporting
+2572,Compliance,Permission Issue,Critical,2025-03-12,IT Support,55,48,Closed,System
+2573,HR,Reporting Failure,Critical,2025-01-08,DataOps,6,24,Closed,Process
+2574,Marketing,Workflow Delay,Low,2025-01-17,DataOps,71,24,Closed,Process
+2575,Engineering,Permission Issue,Low,2025-04-27,Analytics Team,67,36,Closed,User Access
+2576,Sales,Integration Error,Critical,2025-02-05,IT Support,63,48,Closed,User Access
+2577,Sales,Access Issue,Critical,2025-04-22,IT Support,22,36,Open,User Access
+2578,Compliance,Workflow Delay,Critical,2025-03-22,DataOps,69,24,Open,System
+2579,HR,System Bug,Low,2025-02-01,Analytics Team,38,8,Open,Process
+2580,Sales,Data Error,Critical,2025-01-29,Process Team,61,36,Open,Process
+2581,HR,Workflow Delay,Medium,2025-03-19,DataOps,17,24,Closed,Process
+2582,Finance,Workflow Delay,Medium,2025-03-10,IT Support,7,12,Closed,User Access
+2583,Compliance,Integration Error,Critical,2025-03-28,Analytics Team,50,48,Closed,System
+2584,HR,System Bug,Critical,2025-02-03,IT Support,41,8,Closed,Reporting
+2585,Finance,System Bug,High,2025-05-01,Analytics Team,48,48,Open,User Access
+2586,Finance,Integration Error,High,2025-02-11,DevOps,43,12,Open,System
+2587,Finance,Access Issue,Medium,2025-02-19,DataOps,57,8,Closed,Reporting
+2588,Operations,Integration Error,Critical,2025-02-14,Process Team,18,36,Closed,Reporting
+2589,Operations,Permission Issue,Medium,2025-01-25,DataOps,36,48,Closed,Process
+2590,Engineering,System Bug,Medium,2025-04-11,Process Team,35,36,Open,Automation
+2591,Compliance,System Bug,Low,2025-01-20,Analytics Team,40,24,Closed,System
+2592,HR,Reporting Failure,Low,2025-03-17,IT Support,68,8,Closed,System
+2593,Compliance,Integration Error,Medium,2025-02-15,Process Team,61,36,Closed,Automation
+2594,Operations,Data Error,Critical,2025-02-05,Analytics Team,44,24,Closed,Reporting
+2595,Finance,Integration Error,Low,2025-02-02,Analytics Team,15,8,Closed,Automation
+2596,Customer Support,Permission Issue,Medium,2025-04-23,DataOps,39,48,Closed,System
+2597,Customer Support,Workflow Delay,Low,2025-04-10,Process Team,26,8,Open,Automation
+2598,Finance,Permission Issue,Critical,2025-01-26,Process Team,29,8,Open,Process
+2599,Sales,Workflow Delay,Critical,2025-01-18,DataOps,22,36,Closed,User Access
+2600,Sales,Data Error,Critical,2025-04-18,Process Team,41,24,Closed,Automation
+2601,Marketing,Integration Error,Medium,2025-01-16,Process Team,24,8,Open,Automation
+2602,Compliance,Integration Error,Medium,2025-03-16,DevOps,38,8,Closed,Automation
+2603,Marketing,Access Issue,Critical,2025-04-26,DevOps,68,36,Closed,Process
+2604,Sales,Permission Issue,Medium,2025-03-15,Process Team,38,36,Closed,Process
+2605,Compliance,Reporting Failure,Critical,2025-01-02,DevOps,34,8,Closed,Reporting
+2606,Customer Support,Permission Issue,Low,2025-04-08,DataOps,45,12,Open,User Access
+2607,Sales,Integration Error,Low,2025-03-04,DevOps,15,48,Closed,Reporting
+2608,Sales,Integration Error,Low,2025-03-16,DevOps,30,12,Closed,System
+2609,Compliance,Workflow Delay,High,2025-04-04,IT Support,67,48,Closed,Process
+2610,Customer Support,Workflow Delay,High,2025-03-18,DataOps,21,48,Closed,Reporting
+2611,Sales,Workflow Delay,Medium,2025-04-25,DataOps,57,8,Closed,Reporting
+2612,Engineering,System Bug,High,2025-02-17,Process Team,53,24,Open,System
+2613,Marketing,Data Error,Low,2025-01-25,DataOps,52,8,Closed,System
+2614,HR,Workflow Delay,Low,2025-03-05,IT Support,30,24,Closed,Process
+2615,Finance,Permission Issue,Critical,2025-03-30,IT Support,20,36,Open,Reporting
+2616,Marketing,Permission Issue,Medium,2025-03-29,Process Team,17,12,Closed,Reporting
+2617,Finance,Integration Error,Medium,2025-03-17,Process Team,58,12,Closed,Process
+2618,HR,Reporting Failure,High,2025-01-26,Analytics Team,43,48,Open,System
+2619,Marketing,System Bug,Medium,2025-03-22,DevOps,30,36,Closed,Automation
+2620,Finance,System Bug,Low,2025-04-08,Analytics Team,71,24,Closed,System
+2621,Compliance,Integration Error,Low,2025-02-03,IT Support,38,24,Closed,Automation
+2622,Compliance,Reporting Failure,High,2025-02-24,DevOps,65,12,Closed,User Access
+2623,Marketing,Reporting Failure,Low,2025-01-31,IT Support,58,24,Closed,Reporting
+2624,Engineering,Reporting Failure,Medium,2025-01-01,Analytics Team,2,8,Closed,Automation
+2625,Operations,Reporting Failure,Medium,2025-02-19,DevOps,33,24,Closed,System
+2626,Operations,System Bug,Medium,2025-04-27,Analytics Team,25,36,Closed,User Access
+2627,HR,Access Issue,High,2025-04-23,DataOps,44,12,Closed,Reporting
+2628,Engineering,Permission Issue,Low,2025-04-28,Analytics Team,24,24,Closed,Reporting
+2629,Sales,Integration Error,Medium,2025-05-01,DevOps,57,24,Open,Reporting
+2630,HR,Data Error,High,2025-02-08,Process Team,32,48,Closed,System
+2631,Finance,Access Issue,Critical,2025-01-11,Process Team,34,12,Closed,Process
+2632,Customer Support,System Bug,Low,2025-02-28,DataOps,32,8,Closed,User Access
+2633,Engineering,Workflow Delay,Critical,2025-04-22,Analytics Team,67,8,Open,User Access
+2634,Finance,Workflow Delay,High,2025-03-07,Process Team,59,36,Open,Process
+2635,Customer Support,System Bug,Medium,2025-02-05,DevOps,41,12,Closed,Process
+2636,Compliance,System Bug,Medium,2025-03-12,DataOps,71,8,Closed,User Access
+2637,Sales,Workflow Delay,Critical,2025-02-10,IT Support,10,12,Open,Reporting
+2638,Compliance,Workflow Delay,Low,2025-02-10,Process Team,27,24,Open,Automation
+2639,Marketing,Reporting Failure,Low,2025-01-20,IT Support,45,48,Closed,System
+2640,Compliance,Data Error,High,2025-01-01,Process Team,55,36,Closed,Reporting
+2641,Marketing,Integration Error,Critical,2025-03-06,IT Support,63,36,Closed,Process
+2642,HR,System Bug,Low,2025-04-30,DataOps,43,8,Closed,Process
+2643,Compliance,Access Issue,High,2025-03-24,DataOps,1,36,Closed,Reporting
+2644,Customer Support,Access Issue,Medium,2025-01-20,Process Team,36,48,Closed,Reporting
+2645,Compliance,Workflow Delay,Critical,2025-01-17,DataOps,34,8,Closed,Reporting
+2646,Engineering,Permission Issue,Medium,2025-02-25,DataOps,57,48,Open,Automation
+2647,HR,Access Issue,Critical,2025-03-08,DataOps,49,12,Closed,Reporting
+2648,HR,Integration Error,Medium,2025-02-12,DataOps,34,24,Closed,User Access
+2649,HR,Access Issue,Critical,2025-04-10,Process Team,44,48,Closed,System
+2650,Operations,Access Issue,Critical,2025-02-16,Process Team,11,48,Closed,Automation
+2651,Compliance,System Bug,Low,2025-04-11,DataOps,64,12,Closed,User Access
+2652,Engineering,Access Issue,Low,2025-01-16,Analytics Team,27,24,Closed,Automation
+2653,HR,Data Error,Medium,2025-01-14,DataOps,20,12,Open,System
+2654,Marketing,Reporting Failure,Medium,2025-04-28,Analytics Team,18,24,Closed,Process
+2655,Compliance,Reporting Failure,High,2025-01-02,DevOps,19,36,Open,Reporting
+2656,Customer Support,Access Issue,Critical,2025-03-12,DataOps,56,12,Closed,Reporting
+2657,Marketing,System Bug,Medium,2025-02-26,Analytics Team,58,24,Open,System
+2658,Customer Support,Workflow Delay,Medium,2025-05-01,DevOps,57,36,Closed,System
+2659,Operations,Reporting Failure,Medium,2025-03-23,Process Team,7,24,Open,Automation
+2660,Customer Support,Access Issue,Medium,2025-04-21,DataOps,50,8,Closed,Reporting
+2661,Customer Support,Workflow Delay,Medium,2025-01-19,Process Team,27,48,Open,User Access
+2662,Customer Support,Reporting Failure,Medium,2025-01-01,IT Support,8,24,Closed,Process
+2663,Operations,Access Issue,High,2025-01-25,DevOps,36,48,Closed,User Access
+2664,Customer Support,System Bug,High,2025-04-11,Analytics Team,53,48,Closed,User Access
+2665,Finance,System Bug,Critical,2025-05-01,DataOps,54,24,Open,Automation
+2666,Customer Support,Reporting Failure,Low,2025-04-06,Analytics Team,49,48,Closed,User Access
+2667,Sales,Data Error,Low,2025-01-02,DevOps,26,12,Closed,Automation
+2668,Engineering,Workflow Delay,Low,2025-04-04,Process Team,4,12,Closed,Automation
+2669,Customer Support,Reporting Failure,Medium,2025-03-15,Process Team,67,48,Closed,Automation
+2670,Marketing,Reporting Failure,Low,2025-05-01,Analytics Team,43,8,Closed,Automation
+2671,Engineering,Access Issue,Low,2025-03-16,DevOps,50,48,Closed,System
+2672,Customer Support,System Bug,High,2025-03-13,IT Support,38,48,Open,System
+2673,Engineering,Data Error,Low,2025-02-25,DevOps,37,24,Closed,System
+2674,Operations,Integration Error,Medium,2025-03-10,Process Team,67,8,Closed,User Access
+2675,Customer Support,System Bug,Critical,2025-03-28,Process Team,45,48,Closed,Reporting
+2676,Compliance,Access Issue,Critical,2025-01-27,Analytics Team,65,48,Closed,User Access
+2677,Sales,Workflow Delay,Critical,2025-03-10,IT Support,23,8,Open,Process
+2678,HR,Workflow Delay,Critical,2025-04-16,Analytics Team,58,24,Open,User Access
+2679,Operations,System Bug,Low,2025-02-17,DevOps,65,48,Closed,Process
+2680,Customer Support,Integration Error,Low,2025-04-12,Process Team,43,12,Closed,Reporting
+2681,Engineering,Permission Issue,Critical,2025-04-29,DevOps,51,36,Closed,Process
+2682,Operations,Reporting Failure,Medium,2025-04-25,Process Team,57,8,Closed,User Access
+2683,Customer Support,Reporting Failure,Low,2025-03-31,Process Team,70,12,Closed,System
+2684,Finance,Data Error,Medium,2025-04-03,Process Team,68,12,Closed,Reporting
+2685,Sales,Workflow Delay,Low,2025-02-27,Analytics Team,70,48,Open,System
+2686,Engineering,Permission Issue,Low,2025-02-14,IT Support,66,12,Closed,User Access
+2687,HR,Reporting Failure,Medium,2025-02-01,Process Team,60,12,Closed,User Access
+2688,Engineering,System Bug,Low,2025-04-18,Analytics Team,26,36,Open,User Access
+2689,Operations,Reporting Failure,Low,2025-01-15,DevOps,8,24,Open,System
+2690,Customer Support,Data Error,Low,2025-02-25,DataOps,9,8,Closed,Process
+2691,HR,Access Issue,Low,2025-01-16,DevOps,31,48,Closed,User Access
+2692,HR,Access Issue,Low,2025-04-25,DevOps,42,24,Open,User Access
+2693,HR,Reporting Failure,Medium,2025-01-27,DevOps,69,36,Open,Automation
+2694,Finance,Permission Issue,Low,2025-02-28,IT Support,28,36,Closed,System
+2695,Engineering,Permission Issue,High,2025-01-21,DevOps,34,24,Closed,Process
+2696,Customer Support,Reporting Failure,Low,2025-04-15,DataOps,4,36,Closed,System
+2697,Marketing,Integration Error,Medium,2025-03-23,DataOps,52,12,Closed,Process
+2698,Marketing,Workflow Delay,Medium,2025-01-21,IT Support,8,8,Open,User Access
+2699,Sales,Workflow Delay,High,2025-04-28,IT Support,46,36,Open,Reporting
+2700,Engineering,Workflow Delay,Low,2025-04-28,Analytics Team,14,12,Closed,Reporting
+2701,Compliance,Integration Error,High,2025-03-13,Analytics Team,31,12,Closed,Automation
+2702,Customer Support,Access Issue,High,2025-03-30,Analytics Team,48,36,Open,Reporting
+2703,Engineering,Reporting Failure,Medium,2025-03-29,DataOps,3,24,Closed,Automation
+2704,Operations,Access Issue,Medium,2025-04-13,Process Team,11,24,Closed,System
+2705,Operations,Access Issue,High,2025-02-16,DevOps,33,36,Closed,Automation
+2706,Finance,Workflow Delay,High,2025-02-25,IT Support,63,8,Closed,System
+2707,Finance,Workflow Delay,Low,2025-04-18,Analytics Team,33,12,Closed,Process
+2708,Compliance,Integration Error,High,2025-02-12,Process Team,49,8,Open,Automation
+2709,HR,Permission Issue,Medium,2025-04-11,DevOps,40,12,Closed,Reporting
+2710,Compliance,Permission Issue,Critical,2025-04-16,Analytics Team,49,8,Closed,User Access
+2711,HR,Reporting Failure,Critical,2025-04-15,DevOps,28,24,Closed,System
+2712,Engineering,Access Issue,Critical,2025-03-11,Analytics Team,3,8,Closed,System
+2713,Marketing,Workflow Delay,Medium,2025-03-07,IT Support,41,8,Closed,User Access
+2714,Engineering,Data Error,High,2025-03-01,DevOps,2,8,Closed,Process
+2715,Marketing,Data Error,Critical,2025-02-17,DataOps,29,48,Closed,Process
+2716,Marketing,System Bug,Low,2025-03-25,Process Team,45,12,Closed,Automation
+2717,Finance,Permission Issue,Medium,2025-04-28,Process Team,10,24,Closed,Reporting
+2718,Finance,Data Error,High,2025-01-07,Analytics Team,54,12,Open,Automation
+2719,Finance,Workflow Delay,Low,2025-01-14,Analytics Team,39,36,Closed,Automation
+2720,Engineering,Reporting Failure,Low,2025-03-26,DevOps,69,8,Closed,System
+2721,Operations,System Bug,High,2025-01-20,DataOps,1,24,Closed,Process
+2722,Sales,Workflow Delay,Low,2025-01-24,DevOps,24,24,Closed,Process
+2723,Finance,Access Issue,High,2025-04-02,DevOps,46,12,Closed,Automation
+2724,Marketing,Workflow Delay,Low,2025-04-14,DataOps,51,12,Closed,Reporting
+2725,Sales,System Bug,High,2025-02-18,DevOps,29,12,Closed,System
+2726,Compliance,Workflow Delay,Medium,2025-02-06,DevOps,39,36,Closed,Automation
+2727,Customer Support,Access Issue,High,2025-02-28,DevOps,2,36,Closed,Reporting
+2728,Engineering,Reporting Failure,Low,2025-03-03,IT Support,59,36,Closed,User Access
+2729,Marketing,Data Error,High,2025-01-09,Analytics Team,12,24,Closed,Process
+2730,Operations,Data Error,Critical,2025-03-12,Analytics Team,29,36,Closed,Process
+2731,Marketing,Data Error,Critical,2025-02-18,DevOps,11,12,Closed,Reporting
+2732,Operations,Access Issue,High,2025-01-11,Analytics Team,45,36,Closed,Reporting
+2733,HR,Data Error,Critical,2025-04-02,DevOps,33,8,Closed,Automation
+2734,Finance,Workflow Delay,Critical,2025-01-22,Analytics Team,44,48,Closed,User Access
+2735,HR,Reporting Failure,Low,2025-01-06,DevOps,18,48,Closed,Reporting
+2736,Marketing,Permission Issue,Low,2025-04-25,IT Support,19,36,Closed,User Access
+2737,Marketing,System Bug,High,2025-04-16,IT Support,59,24,Open,System
+2738,HR,Reporting Failure,Medium,2025-03-30,IT Support,69,48,Open,User Access
+2739,Operations,Integration Error,Low,2025-02-22,IT Support,60,24,Closed,System
+2740,Operations,Data Error,Critical,2025-04-25,DevOps,49,48,Closed,Automation
+2741,Operations,Workflow Delay,Low,2025-01-17,Process Team,33,36,Closed,System
+2742,Compliance,Workflow Delay,Critical,2025-01-23,DevOps,61,36,Closed,User Access
+2743,Finance,Reporting Failure,High,2025-04-05,Analytics Team,64,12,Closed,Process
+2744,Compliance,Integration Error,High,2025-02-07,Process Team,62,12,Closed,System
+2745,Sales,Access Issue,Medium,2025-01-14,DataOps,55,36,Closed,User Access
+2746,Operations,Permission Issue,Low,2025-03-06,Process Team,60,36,Open,User Access
+2747,Compliance,Workflow Delay,Low,2025-02-04,IT Support,4,36,Closed,Process
+2748,Finance,Access Issue,Medium,2025-01-03,Analytics Team,44,8,Closed,Reporting
+2749,Customer Support,Permission Issue,Low,2025-01-19,DataOps,50,48,Closed,Process
+2750,Compliance,Data Error,High,2025-04-01,IT Support,34,36,Closed,Automation
+2751,HR,Workflow Delay,Medium,2025-01-09,DataOps,58,36,Closed,Process
+2752,HR,Data Error,High,2025-03-26,Analytics Team,10,8,Open,Reporting
+2753,Operations,Reporting Failure,High,2025-02-08,DevOps,16,12,Closed,Reporting
+2754,Compliance,Integration Error,Medium,2025-04-07,Process Team,23,48,Closed,User Access
+2755,Customer Support,Data Error,Critical,2025-04-20,IT Support,55,8,Open,User Access
+2756,Sales,Data Error,Low,2025-01-30,Analytics Team,21,36,Closed,Process
+2757,Sales,Reporting Failure,Critical,2025-01-15,Analytics Team,4,48,Closed,System
+2758,Sales,Workflow Delay,Medium,2025-01-10,DataOps,34,12,Closed,User Access
+2759,Finance,System Bug,Critical,2025-01-06,IT Support,20,8,Closed,Process
+2760,Marketing,Access Issue,High,2025-03-23,Analytics Team,42,12,Closed,System
+2761,Operations,System Bug,High,2025-03-17,IT Support,9,24,Closed,Automation
+2762,Sales,Integration Error,Critical,2025-03-17,IT Support,28,36,Closed,System
+2763,HR,Permission Issue,Medium,2025-04-14,IT Support,54,12,Closed,System
+2764,Engineering,Integration Error,Low,2025-02-24,DataOps,16,48,Closed,Process
+2765,Customer Support,Access Issue,Medium,2025-04-08,Analytics Team,70,24,Closed,User Access
+2766,Marketing,Integration Error,Critical,2025-03-01,IT Support,58,48,Closed,Automation
+2767,Compliance,System Bug,Medium,2025-03-14,Analytics Team,22,8,Closed,Process
+2768,Engineering,Workflow Delay,Critical,2025-04-27,DataOps,4,24,Closed,Reporting
+2769,Customer Support,Access Issue,High,2025-03-08,Analytics Team,63,24,Open,Process
+2770,Operations,Data Error,Low,2025-02-08,DataOps,68,48,Closed,Process
+2771,Sales,Integration Error,Low,2025-04-05,DataOps,40,36,Closed,Automation
+2772,Marketing,Permission Issue,Critical,2025-03-29,DevOps,72,48,Closed,Process
+2773,Sales,Data Error,Low,2025-02-19,Process Team,16,8,Open,Automation
+2774,Sales,System Bug,High,2025-04-26,Analytics Team,68,8,Open,System
+2775,Marketing,Permission Issue,Critical,2025-01-15,DevOps,56,24,Closed,System
+2776,Operations,Integration Error,Medium,2025-03-22,DevOps,30,48,Closed,System
+2777,Engineering,Access Issue,Medium,2025-02-20,IT Support,2,24,Closed,Automation
+2778,Marketing,Data Error,Critical,2025-02-20,DataOps,63,8,Open,Reporting
+2779,HR,Permission Issue,Critical,2025-01-13,IT Support,57,24,Closed,Automation
+2780,Sales,Integration Error,High,2025-03-13,Analytics Team,1,36,Closed,Automation
+2781,HR,Reporting Failure,Medium,2025-03-18,DevOps,13,24,Closed,Automation
+2782,Compliance,Reporting Failure,Critical,2025-04-24,Analytics Team,70,36,Closed,System
+2783,HR,Data Error,Medium,2025-02-07,DataOps,27,12,Closed,Reporting
+2784,Engineering,Permission Issue,Medium,2025-03-20,IT Support,58,24,Closed,System
+2785,Engineering,Workflow Delay,Critical,2025-01-12,IT Support,26,48,Closed,System
+2786,Customer Support,Reporting Failure,Critical,2025-04-02,DevOps,42,8,Open,System
+2787,Sales,Reporting Failure,Critical,2025-03-30,DevOps,58,8,Closed,User Access
+2788,HR,System Bug,High,2025-02-01,IT Support,67,36,Open,Reporting
+2789,Operations,Permission Issue,High,2025-02-04,DevOps,30,24,Closed,User Access
+2790,Operations,Permission Issue,Critical,2025-03-29,DevOps,22,36,Closed,Process
+2791,Marketing,Data Error,Low,2025-04-12,DataOps,22,8,Open,System
+2792,Marketing,Reporting Failure,Low,2025-03-04,IT Support,52,24,Closed,Reporting
+2793,Operations,Reporting Failure,High,2025-04-06,Process Team,11,48,Closed,User Access
+2794,HR,System Bug,High,2025-02-10,IT Support,62,24,Open,User Access
+2795,Customer Support,Reporting Failure,Critical,2025-04-02,IT Support,44,48,Closed,Process
+2796,Sales,Reporting Failure,High,2025-03-13,DataOps,71,12,Closed,Automation
+2797,Customer Support,Permission Issue,High,2025-04-15,DevOps,15,8,Open,System
+2798,Engineering,Access Issue,High,2025-01-27,DataOps,54,12,Closed,Automation
+2799,Customer Support,System Bug,Medium,2025-01-27,Process Team,6,8,Closed,Automation
+2800,Customer Support,Reporting Failure,Critical,2025-03-24,Analytics Team,27,8,Open,Process
+2801,Compliance,Data Error,Medium,2025-04-19,Analytics Team,51,48,Closed,System
+2802,Engineering,Reporting Failure,Critical,2025-02-04,Process Team,33,12,Closed,User Access
+2803,HR,Reporting Failure,Medium,2025-01-09,Analytics Team,2,48,Closed,Reporting
+2804,Compliance,Access Issue,High,2025-01-02,IT Support,55,48,Open,Reporting
+2805,Marketing,System Bug,Medium,2025-01-18,Process Team,32,36,Closed,Automation
+2806,Marketing,Access Issue,High,2025-02-10,DataOps,70,8,Closed,System
+2807,Marketing,Access Issue,High,2025-04-22,Analytics Team,69,48,Closed,User Access
+2808,Compliance,Integration Error,Medium,2025-01-16,DataOps,7,48,Closed,Process
+2809,HR,Access Issue,Low,2025-03-14,DevOps,50,36,Closed,System
+2810,Finance,Permission Issue,Medium,2025-04-24,IT Support,50,24,Open,User Access
+2811,Customer Support,Reporting Failure,Low,2025-02-20,Process Team,35,36,Closed,System
+2812,Compliance,Workflow Delay,High,2025-04-22,DevOps,24,24,Closed,Process
+2813,Marketing,Data Error,High,2025-01-06,DevOps,3,24,Closed,Reporting
+2814,Engineering,Data Error,Low,2025-04-24,DevOps,28,36,Closed,User Access
+2815,Customer Support,Access Issue,Medium,2025-01-22,Process Team,39,48,Closed,User Access
+2816,HR,Reporting Failure,High,2025-03-21,IT Support,38,8,Closed,Process
+2817,Operations,Data Error,Critical,2025-01-27,Process Team,5,36,Closed,Reporting
+2818,Marketing,Access Issue,High,2025-03-03,Analytics Team,34,24,Open,User Access
+2819,Marketing,Workflow Delay,Low,2025-04-26,IT Support,2,24,Open,Automation
+2820,Compliance,Reporting Failure,Critical,2025-05-01,Analytics Team,7,36,Closed,User Access
+2821,Compliance,Reporting Failure,Medium,2025-04-20,IT Support,33,36,Closed,Reporting
+2822,Sales,Access Issue,Medium,2025-02-13,Analytics Team,24,36,Open,Process
+2823,Engineering,Access Issue,Medium,2025-01-25,Analytics Team,46,48,Open,Automation
+2824,Operations,Data Error,Low,2025-01-25,Process Team,51,24,Open,Process
+2825,Engineering,Reporting Failure,Low,2025-02-28,DevOps,21,12,Closed,Process
+2826,Finance,Access Issue,Low,2025-04-09,IT Support,25,48,Closed,Reporting
+2827,Sales,Permission Issue,Critical,2025-03-15,Analytics Team,30,8,Closed,User Access
+2828,Customer Support,Data Error,High,2025-01-09,Analytics Team,9,36,Closed,User Access
+2829,Customer Support,Permission Issue,Low,2025-01-26,Analytics Team,35,12,Closed,Automation
+2830,HR,Integration Error,Critical,2025-01-04,Analytics Team,44,36,Closed,User Access
+2831,Customer Support,Integration Error,High,2025-02-01,DataOps,31,12,Closed,Reporting
+2832,Operations,Workflow Delay,High,2025-01-28,DevOps,26,48,Closed,Process
+2833,Compliance,Permission Issue,Critical,2025-02-03,IT Support,30,12,Closed,Reporting
+2834,Marketing,Workflow Delay,Critical,2025-01-24,Analytics Team,8,12,Closed,System
+2835,Sales,Access Issue,Medium,2025-03-08,IT Support,41,8,Open,Process
+2836,Sales,Integration Error,High,2025-04-27,Analytics Team,62,36,Closed,Automation
+2837,Engineering,Integration Error,Low,2025-03-09,DataOps,53,24,Closed,System
+2838,Compliance,Data Error,Low,2025-01-23,DevOps,32,48,Closed,Automation
+2839,Finance,Permission Issue,High,2025-01-11,DataOps,46,48,Open,User Access
+2840,Marketing,System Bug,Critical,2025-03-22,DevOps,53,24,Closed,Process
+2841,Finance,Reporting Failure,Critical,2025-01-09,Process Team,26,36,Closed,System
+2842,Operations,Integration Error,Medium,2025-01-13,IT Support,64,48,Open,System
+2843,Engineering,Access Issue,Medium,2025-03-22,DevOps,49,36,Closed,System
+2844,Marketing,Workflow Delay,Medium,2025-03-04,DataOps,13,48,Open,Process
+2845,Finance,Workflow Delay,Medium,2025-04-26,DataOps,7,12,Closed,User Access
+2846,Operations,System Bug,Medium,2025-04-02,DataOps,18,36,Closed,Process
+2847,HR,Reporting Failure,High,2025-04-29,IT Support,4,8,Closed,Process
+2848,Marketing,Data Error,Low,2025-04-03,DataOps,64,8,Closed,Process
+2849,Customer Support,Access Issue,Critical,2025-03-31,Analytics Team,17,12,Closed,System
+2850,Engineering,Data Error,Medium,2025-03-23,Analytics Team,21,8,Closed,Automation
+2851,Engineering,Integration Error,Medium,2025-02-09,Process Team,41,48,Open,Automation
+2852,HR,Integration Error,Low,2025-03-31,DataOps,21,12,Open,Process
+2853,Operations,Access Issue,Low,2025-04-10,IT Support,15,24,Closed,Automation
+2854,Finance,System Bug,Low,2025-02-12,DataOps,15,36,Closed,Reporting
+2855,HR,Integration Error,Critical,2025-01-25,Process Team,29,48,Closed,User Access
+2856,Sales,Access Issue,Critical,2025-01-12,DataOps,66,24,Closed,Reporting
+2857,Marketing,Reporting Failure,Low,2025-03-28,DataOps,63,8,Closed,Automation
+2858,HR,Permission Issue,Medium,2025-02-27,Process Team,38,12,Closed,User Access
+2859,Marketing,Access Issue,Medium,2025-03-13,DataOps,30,48,Open,Process
+2860,Compliance,Permission Issue,Medium,2025-01-03,IT Support,51,12,Closed,Process
+2861,Sales,Integration Error,Critical,2025-01-22,Analytics Team,60,48,Closed,Reporting
+2862,Sales,Integration Error,Low,2025-04-05,Analytics Team,66,12,Closed,System
+2863,Marketing,Access Issue,Critical,2025-04-14,Analytics Team,10,36,Closed,User Access
+2864,Compliance,Permission Issue,Medium,2025-03-08,Process Team,41,36,Closed,Reporting
+2865,Operations,Integration Error,Critical,2025-03-09,IT Support,44,36,Closed,Reporting
+2866,HR,Reporting Failure,Medium,2025-03-20,Process Team,68,24,Open,Automation
+2867,Sales,Data Error,Medium,2025-02-17,Process Team,7,24,Closed,Process
+2868,Compliance,Access Issue,Critical,2025-02-04,Process Team,58,36,Open,Reporting
+2869,Operations,Access Issue,Medium,2025-04-30,Analytics Team,59,48,Closed,User Access
+2870,Engineering,Workflow Delay,Critical,2025-04-19,Process Team,28,8,Open,Automation
+2871,HR,Permission Issue,Critical,2025-01-08,Analytics Team,16,8,Closed,Automation
+2872,Finance,Integration Error,Low,2025-03-02,DevOps,67,36,Closed,System
+2873,Customer Support,Workflow Delay,Low,2025-01-16,DataOps,8,36,Closed,Reporting
+2874,Compliance,Permission Issue,High,2025-01-25,DevOps,6,12,Open,Process
+2875,Compliance,Access Issue,Medium,2025-03-05,Process Team,67,24,Closed,User Access
+2876,Customer Support,Access Issue,Low,2025-04-16,Analytics Team,2,24,Closed,System
+2877,Sales,Access Issue,High,2025-04-21,DataOps,31,48,Open,Automation
+2878,Compliance,Permission Issue,High,2025-03-05,DataOps,50,12,Closed,Automation
+2879,Sales,Workflow Delay,Critical,2025-02-01,Process Team,21,12,Closed,System
+2880,Compliance,Integration Error,Critical,2025-03-15,DevOps,60,24,Open,System
+2881,Customer Support,Workflow Delay,Low,2025-03-02,Analytics Team,39,12,Open,Automation
+2882,Operations,Reporting Failure,High,2025-03-15,Analytics Team,2,8,Closed,Reporting
+2883,Engineering,Workflow Delay,Low,2025-03-22,Process Team,69,48,Closed,Process
+2884,Customer Support,Permission Issue,Low,2025-04-05,Analytics Team,44,24,Closed,User Access
+2885,Customer Support,Workflow Delay,High,2025-01-13,IT Support,57,24,Closed,User Access
+2886,Customer Support,Integration Error,Critical,2025-01-12,Analytics Team,41,48,Closed,Process
+2887,Sales,System Bug,Medium,2025-02-12,Analytics Team,14,8,Closed,System
+2888,Operations,Reporting Failure,High,2025-01-22,DevOps,31,8,Closed,User Access
+2889,Sales,Integration Error,Medium,2025-02-21,IT Support,43,8,Open,User Access
+2890,Compliance,Workflow Delay,Low,2025-03-22,DevOps,60,8,Closed,Reporting
+2891,Marketing,Reporting Failure,Critical,2025-02-18,DevOps,62,36,Closed,Process
+2892,Finance,Workflow Delay,High,2025-03-25,DevOps,2,8,Closed,System
+2893,Operations,Access Issue,High,2025-04-22,DataOps,67,36,Open,User Access
+2894,HR,Data Error,Medium,2025-03-08,Process Team,72,12,Open,User Access
+2895,Customer Support,Permission Issue,Medium,2025-03-20,Analytics Team,70,24,Closed,Process
+2896,Operations,Integration Error,High,2025-04-19,Analytics Team,34,48,Closed,System
+2897,Customer Support,Data Error,Low,2025-04-20,DataOps,36,12,Open,Process
+2898,Sales,Permission Issue,Medium,2025-02-05,Process Team,45,8,Closed,System
+2899,Finance,Access Issue,Low,2025-01-07,DevOps,47,24,Closed,System
+2900,Customer Support,Reporting Failure,Medium,2025-03-09,Process Team,50,48,Closed,Process
+2901,Sales,Permission Issue,Medium,2025-03-26,DataOps,63,12,Open,System
+2902,Engineering,Data Error,Low,2025-02-07,Analytics Team,55,36,Closed,Reporting
+2903,Compliance,Reporting Failure,Critical,2025-03-11,IT Support,9,24,Open,Automation
+2904,Finance,Access Issue,Medium,2025-03-29,DataOps,54,36,Closed,User Access
+2905,Customer Support,Access Issue,Critical,2025-04-26,IT Support,68,36,Closed,System
+2906,Compliance,Data Error,High,2025-01-24,IT Support,53,8,Closed,System
+2907,Customer Support,Workflow Delay,Low,2025-04-05,Analytics Team,4,48,Open,Process
+2908,Compliance,Integration Error,High,2025-04-05,DataOps,31,8,Closed,Automation
+2909,Compliance,Access Issue,High,2025-04-16,DataOps,15,8,Closed,Automation
+2910,Customer Support,Permission Issue,High,2025-01-14,Analytics Team,18,8,Closed,Process
+2911,Operations,Workflow Delay,High,2025-01-21,DevOps,72,36,Closed,System
+2912,Compliance,System Bug,Critical,2025-01-27,Process Team,5,36,Open,Automation
+2913,Engineering,Access Issue,Critical,2025-03-14,DevOps,58,48,Closed,Reporting
+2914,Operations,Workflow Delay,Medium,2025-03-25,DataOps,27,24,Closed,Reporting
+2915,Customer Support,Reporting Failure,Critical,2025-01-11,IT Support,23,48,Closed,Automation
+2916,Engineering,System Bug,Low,2025-04-19,DevOps,20,8,Closed,Reporting
+2917,HR,Data Error,Critical,2025-01-27,Analytics Team,47,36,Closed,Automation
+2918,HR,Permission Issue,Medium,2025-04-19,Analytics Team,7,24,Closed,User Access
+2919,HR,Integration Error,High,2025-01-28,IT Support,45,36,Closed,System
+2920,Marketing,System Bug,Medium,2025-03-04,Process Team,22,12,Closed,Reporting
+2921,HR,Access Issue,Medium,2025-01-11,IT Support,17,48,Closed,User Access
+2922,Finance,Reporting Failure,Medium,2025-02-19,IT Support,71,12,Closed,Automation
+2923,Marketing,System Bug,High,2025-04-24,Process Team,42,36,Closed,Reporting
+2924,Finance,Integration Error,High,2025-04-10,Analytics Team,57,12,Closed,User Access
+2925,Sales,Data Error,Critical,2025-02-03,Process Team,40,24,Open,Reporting
+2926,Engineering,Permission Issue,Medium,2025-02-28,Analytics Team,53,12,Closed,Reporting
+2927,Engineering,Access Issue,Critical,2025-04-16,Process Team,19,12,Closed,User Access
+2928,Operations,System Bug,Medium,2025-04-20,IT Support,57,36,Closed,System
+2929,Sales,Integration Error,High,2025-04-13,Process Team,24,24,Closed,System
+2930,Compliance,Data Error,Low,2025-04-30,DevOps,20,8,Closed,User Access
+2931,Marketing,Data Error,High,2025-02-01,Analytics Team,38,48,Open,System
+2932,Operations,Integration Error,Medium,2025-03-30,DataOps,18,36,Open,System
+2933,Finance,System Bug,Low,2025-02-06,Analytics Team,5,24,Closed,Automation
+2934,Operations,Workflow Delay,Medium,2025-03-30,IT Support,5,24,Closed,Process
+2935,Compliance,Integration Error,Critical,2025-01-16,DevOps,58,12,Open,Reporting
+2936,Sales,Access Issue,High,2025-03-28,Process Team,28,12,Closed,Automation
+2937,Customer Support,Integration Error,Critical,2025-03-19,Process Team,52,24,Closed,Reporting
+2938,Marketing,Integration Error,Low,2025-01-15,DataOps,26,48,Closed,User Access
+2939,Marketing,Data Error,Critical,2025-01-31,Analytics Team,61,12,Closed,Reporting
+2940,Marketing,Data Error,High,2025-01-21,DevOps,65,48,Open,User Access
+2941,Compliance,Reporting Failure,Low,2025-01-18,Analytics Team,37,48,Closed,Reporting
+2942,Sales,Access Issue,Medium,2025-04-01,Analytics Team,48,24,Closed,Process
+2943,Finance,Access Issue,High,2025-01-12,DataOps,62,12,Open,User Access
+2944,Customer Support,System Bug,High,2025-04-08,IT Support,53,8,Closed,Reporting
+2945,Operations,Permission Issue,High,2025-02-08,Analytics Team,49,48,Closed,Reporting
+2946,Compliance,Data Error,Low,2025-01-31,Process Team,71,12,Closed,Process
+2947,Finance,System Bug,Critical,2025-03-25,DevOps,65,8,Closed,Process
+2948,Marketing,Reporting Failure,Critical,2025-03-04,DevOps,47,12,Closed,User Access
+2949,Operations,Permission Issue,Medium,2025-01-04,DataOps,39,12,Closed,System
+2950,Customer Support,Access Issue,High,2025-04-24,DataOps,25,8,Closed,Automation
+2951,Operations,Data Error,Medium,2025-01-10,Analytics Team,3,48,Closed,Reporting
+2952,Marketing,Access Issue,Critical,2025-03-28,DataOps,33,36,Closed,User Access
+2953,Operations,Data Error,Critical,2025-04-01,Analytics Team,32,48,Open,Reporting
+2954,Customer Support,Data Error,Critical,2025-01-13,Process Team,52,24,Closed,Automation
+2955,Marketing,Integration Error,Low,2025-03-03,DataOps,11,48,Open,User Access
+2956,Compliance,Access Issue,Low,2025-02-11,IT Support,35,8,Closed,User Access
+2957,Marketing,Workflow Delay,High,2025-05-01,DataOps,24,36,Closed,Process
+2958,Finance,Workflow Delay,Critical,2025-02-21,IT Support,37,8,Closed,User Access
+2959,Operations,Workflow Delay,Low,2025-02-01,IT Support,56,8,Closed,Automation
+2960,Operations,Data Error,Medium,2025-01-16,Process Team,69,36,Open,Automation
+2961,Operations,Access Issue,High,2025-01-05,DataOps,34,36,Closed,Automation
+2962,Engineering,Access Issue,Critical,2025-03-17,DataOps,8,24,Open,Process
+2963,Customer Support,Reporting Failure,Critical,2025-01-05,Analytics Team,31,8,Closed,Process
+2964,Engineering,Integration Error,High,2025-04-25,Analytics Team,6,48,Closed,Reporting
+2965,Operations,Access Issue,Critical,2025-04-10,Analytics Team,22,24,Closed,Reporting
+2966,Engineering,Access Issue,Low,2025-01-25,DataOps,53,12,Closed,User Access
+2967,Compliance,Integration Error,Low,2025-04-03,IT Support,6,48,Closed,User Access
+2968,Compliance,Reporting Failure,Low,2025-04-29,DevOps,67,36,Closed,Automation
+2969,Compliance,Workflow Delay,Medium,2025-03-13,IT Support,60,8,Closed,System
+2970,Engineering,Integration Error,Low,2025-02-02,Analytics Team,51,8,Open,User Access
+2971,Operations,Permission Issue,Medium,2025-04-12,DevOps,50,24,Closed,User Access
+2972,HR,Data Error,High,2025-02-01,Process Team,17,24,Closed,User Access
+2973,Marketing,Workflow Delay,Medium,2025-04-08,DevOps,12,12,Closed,Automation
+2974,Operations,Data Error,High,2025-04-09,DevOps,50,12,Closed,User Access
+2975,Engineering,Access Issue,Medium,2025-04-15,DevOps,64,24,Closed,Automation
+2976,Sales,Workflow Delay,Critical,2025-03-22,DataOps,47,24,Open,Process
+2977,Engineering,Workflow Delay,Low,2025-02-06,DataOps,69,8,Closed,Automation
+2978,Finance,Permission Issue,High,2025-04-01,Process Team,16,36,Open,Reporting
+2979,HR,Permission Issue,Critical,2025-04-14,Process Team,47,24,Open,Process
+2980,Marketing,Data Error,Low,2025-03-19,Process Team,22,24,Closed,System
+2981,Compliance,Permission Issue,Low,2025-02-16,DataOps,57,48,Closed,Reporting
+2982,Finance,System Bug,Low,2025-01-04,Process Team,60,48,Closed,User Access
+2983,Compliance,Data Error,High,2025-02-22,Process Team,59,24,Open,Automation
+2984,Customer Support,Access Issue,High,2025-01-06,DataOps,62,24,Open,System
+2985,Compliance,Access Issue,High,2025-04-22,IT Support,27,12,Closed,Process
+2986,Sales,Permission Issue,Low,2025-02-06,Analytics Team,9,48,Closed,Automation
+2987,Operations,Permission Issue,High,2025-01-16,Process Team,44,12,Closed,Automation
+2988,Operations,Access Issue,Critical,2025-04-22,Analytics Team,47,8,Closed,System
+2989,Customer Support,Access Issue,High,2025-01-11,Analytics Team,58,24,Open,Reporting
+2990,Marketing,System Bug,Medium,2025-02-04,Process Team,72,24,Closed,Automation
+2991,Operations,Permission Issue,Medium,2025-02-02,Analytics Team,9,12,Open,User Access
+2992,Engineering,Reporting Failure,Medium,2025-02-13,DevOps,55,36,Open,Process
+2993,Customer Support,Access Issue,Critical,2025-01-11,DataOps,43,24,Open,System
+2994,Compliance,System Bug,High,2025-01-08,DataOps,29,12,Closed,System
+2995,Marketing,Permission Issue,High,2025-02-11,IT Support,58,24,Closed,User Access
+2996,Finance,System Bug,Critical,2025-02-16,DevOps,32,24,Closed,Automation
+2997,Engineering,Access Issue,Medium,2025-04-15,DevOps,44,8,Open,Process
+2998,Finance,Data Error,Medium,2025-03-19,IT Support,48,24,Closed,Process
+2999,Engineering,Reporting Failure,Critical,2025-01-31,Process Team,56,48,Closed,Automation
+3000,Compliance,Workflow Delay,Medium,2025-03-07,DevOps,56,36,Open,Reporting
