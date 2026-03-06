@@ -1,0 +1,4 @@
+SELECT Department, COUNT(*) AS Total_Tickets
+FROM operations_tickets
+GROUP BY Department
+ORDER BY Total_Tickets DESC;
