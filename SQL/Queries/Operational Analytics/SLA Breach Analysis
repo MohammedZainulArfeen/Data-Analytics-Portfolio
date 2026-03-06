@@ -1,0 +1,6 @@
+SELECT
+Department,
+COUNT(*) AS Total_Tickets,
+SUM(CASE WHEN Resolution_Time_Hours > SLA_Hours THEN 1 ELSE 0 END) AS SLA_Breaches
+FROM operations_tickets
+GROUP BY Department;
